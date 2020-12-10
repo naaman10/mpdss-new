@@ -1,10 +1,16 @@
 ---
 layout: default
 title: North Road Cycles
-permalink: /
+permalink: "/"
 hero_section:
   image:
-    image: https://static.wixstatic.com/media/943c36_e43aec3a115a492c9ba119aa93a35c13~mv2.jpg
+    image: "/v1607640960/northroad/assets/metis-home-image_dgyye8.jpg"
     imageAlt: The Metis
+  cta:
+    cta_link: []
+    cta_text: ''
+  title: Explore The Metis
+  sub-title: True Aero
+
 ---
 {% include homepage_hero.html %}
