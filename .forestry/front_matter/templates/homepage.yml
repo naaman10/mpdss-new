@@ -15,6 +15,16 @@ fields:
   name: hero_section
   label: hero_section
   fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: sub-title
+    type: text
+    config:
+      required: false
+    label: Sub-Title
   - type: field_group
     name: image
     label: image
@@ -25,3 +35,25 @@ fields:
     - type: text
       name: imageAlt
       label: imageAlt
+  - name: cta
+    type: field_group
+    config: {}
+    fields:
+    - name: cta_text
+      type: text
+      config:
+        required: false
+      label: CTA Text
+    - name: cta_link
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: pages
+          file: 
+          path: 
+      label: CTA Link
+    label: CTA
