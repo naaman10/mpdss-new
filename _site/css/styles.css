@@ -1,0 +1,11 @@
+@font-face { font-family: "Ostrich Sans Bold"; src: url("https://res.cloudinary.com/njh101010/raw/upload/v1607639644/northroad/fonts/ostrichsans-bold-webfont.woff2") format("woff2"); }
+
+@font-face { font-family: "Ostrich Sans Medium"; src: url("https://res.cloudinary.com/njh101010/raw/upload/v1607639644/northroad/fonts/ostrichsans-medium-webfont.woff2") format("woff2"); }
+
+.title-a { font-family: 'Ostrich Sans Bold', sans-serif; font-size: 3rem; text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px; }
+
+.title-b { font-family: 'Ostrich Sans Medium', sans-serif; font-size: 3.3rem; text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px; }
+
+.homepageHero { background-position: center; background-repeat: no-repeat; background-size: cover; height: 60vh; width: 100%; }
+
+/*# sourceMappingURL=styles.css.map */

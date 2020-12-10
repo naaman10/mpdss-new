@@ -1,0 +1,25 @@
+I"«<section class="homepageHero" style="background-image: url('https://static.wixstatic.com/media/943c36_e43aec3a115a492c9ba119aa93a35c13~mv2.jpg')">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div>
+          <div class="row justify-content-center">
+            <div class="col-xs-12 col-md-6">
+              <!-- image -->
+            </div>
+          </div>
+          <div class="row justify-content-center">
+            <div class="col-xs-12 col-md-6">
+              <h2>Explore The Metis</h2>
+              <!-- body -->
+              <!-- cta -->
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+:ET
