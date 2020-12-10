@@ -1,0 +1,27 @@
+---
+label: Homepage
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: field_group
+  name: hero_section
+  label: hero_section
+  fields:
+  - type: field_group
+    name: image
+    label: image
+    fields:
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: imageAlt
+      label: imageAlt
