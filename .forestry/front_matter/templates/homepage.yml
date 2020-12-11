@@ -13,7 +13,7 @@ fields:
   label: permalink
 - type: field_group
   name: hero_section
-  label: hero_section
+  label: Hero Section
   fields:
   - name: title
     type: text
@@ -27,14 +27,14 @@ fields:
     label: Sub-Title
   - type: field_group
     name: image
-    label: image
+    label: Image
     fields:
     - type: file
       name: image
-      label: image
+      label: Image
     - type: text
       name: imageAlt
-      label: imageAlt
+      label: Image Alt
   - name: cta
     type: field_group
     config: {}
@@ -57,5 +57,20 @@ fields:
           path: 
       label: CTA Link
     label: CTA
+  - name: alignment
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - left
+      - right
+      - centre
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Alignment
 pages:
 - index.markdown
