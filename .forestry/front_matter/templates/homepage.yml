@@ -59,9 +59,9 @@ fields:
     label: CTA
   - name: alignment
     type: select
-    default: []
+    default: left
     config:
-      required: false
+      required: true
       options:
       - left
       - right
