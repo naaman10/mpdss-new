@@ -9,9 +9,13 @@ _Jane, Co-Founder of NorthRoad cycles, gives her insight to the first time hitti
 
 It's fair to say that my biking knowledge and experience aren’t evenly matched. I Co-own a bike brand, I HAVE to know the benefits of GRX over Tiagra, gravel kings over mountain kings and tubeless over tubes (contentious, I know). The practical, on the other hand, is easily 'borrowed' from those far better on two wheels than myself. Yes, riding into central Manchester nearly every day has definitely helped my 'roadie' skills but I have sneakily kept away from gravel other than the occasional loop of the local beauty spot or trip down the canal.
 
+![](/v1607719368/northroad/assets/blogimage1_cghnro.jpg)
+
 Today all that changed.
 
 A trial by fire is a rather accurate description of today's gravel based activities and I only agreed to it as it meant I got to ride the Adventurer in the setting it was built for: real British gravel riding. Not the luxurious dry fire trails of California we are often sold by the giant American corporates. Over here we have mud, rain, snow and tuffets of grass. Quite the daunting prospect to a gravel newbie like myself. I just desperately didn't want to fall off and make a tit of myself and/or go so full on I'd hit a rock and lose my front teeth in an amazing over the bars flip (I am affectionately known as calamity - Geddit?).
+
+![](/v1607719498/northroad/assets/blogimage3_qgagjd.jpg)
 
 Ian and I headed to Blackstone Edge on the Pennine Moors, riding south through snow and low clouds. After a long spate essentially stuck in 4 walls this felt like freedom on two wheels. Fresh air, barely another person in sight and what felt like untrodden ground beneath my tyres. Ok, it took a little while for me to stop gripping the bars so tightly and I might have had a few too many moments where I was concerned about mud on my new gravel shoes but despite my worries (teeth, broken bones, looking a tit) it all began to feel like fun. Bumps and bounces soon turned into flow as I rolled along the craggy paths and ridges, desperately trying not to shout 'Heathcliff' - I know, wrong county but the weather was so Wuthering…
 
