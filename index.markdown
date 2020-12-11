@@ -8,9 +8,9 @@ hero_section:
     imageAlt: The Metis
   cta:
     cta_link: []
-    cta_text: ''
+    cta_text: View
   title: Explore The Metis
   sub-title: True Aero
-
+  alignment: right
 ---
 {% include homepage_hero.html %}

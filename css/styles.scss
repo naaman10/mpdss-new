@@ -28,4 +28,7 @@
   background-size: cover;
   height: 60vh;
   width: 100%;
+  .container,.row {
+    height: 100%;
+  }
 }
