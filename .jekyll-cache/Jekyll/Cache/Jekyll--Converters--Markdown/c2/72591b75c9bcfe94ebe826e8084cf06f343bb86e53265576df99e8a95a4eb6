@@ -1,4 +1,4 @@
-I"«<section class="homepageHero" style="background-image: url('https://static.wixstatic.com/media/943c36_e43aec3a115a492c9ba119aa93a35c13~mv2.jpg')">
+I"Â<section class="homepageHero" style="background-image: url('https://res.cloudinary.com/njh101010/image/upload/v1607640960/northroad/assets/metis-home-image_dgyye8.jpg')">
   <div class="container">
     <div class="row">
       <div class="col">
@@ -21,5 +21,4 @@
     </div>
   </div>
 </section>
-
 :ET
