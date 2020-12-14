@@ -43,5 +43,5 @@ fields:
     labelField: 
   label: Variants
 pages:
-- _road/elara.app
+- _road/elara.md
 - _road/theio.md

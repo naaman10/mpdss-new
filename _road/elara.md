@@ -3,6 +3,10 @@ name: Elara
 layout: bikes
 price: "£2600"
 image_gallery:
+- "/v1607979298/northroad/assets/elara4_tdszxv.jpg"
+- "/v1607979299/northroad/assets/elara5_wfqlph.jpg"
+- "/v1607979297/northroad/assets/elara6_spm8ct.jpg"
+- "/v1607979299/northroad/assets/elara3_rbjrqy.jpg"
 - "/v1607978339/northroad/assets/elara1_hyta5n.jpg"
 - "/v1607978346/northroad/assets/elara2_t2qzgk.jpg"
 variants:
