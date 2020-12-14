@@ -16,13 +16,13 @@ direction_section:
 - title: Bikes
   link: []
   image:
-    image: "/v1607640960/northroad/assets/metis-home-image_dgyye8.jpg"
+    image: "/v1607940103/northroad/assets/northroadIO_q2yufh.jpg"
     image_alt: Road Bikes
 - title: Workshop
   link: []
   image:
     image: "/v1607939501/northroad/assets/workshop_piwxwm.jpg"
-    image_alt: ''
+    image_alt: Workshop
 
 ---
 {% include homepage_hero.html %}
