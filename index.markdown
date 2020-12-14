@@ -51,4 +51,4 @@ latest_bikes_section:
 ---
 {% include homepage_hero.html %}
 {% include directions.html %}
-{% include product_showcase_section.html %}
+{% include latest_bikes_section.html %}
