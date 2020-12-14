@@ -9,7 +9,7 @@ sections:
   label: Road Bikes
   create: documents
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
 - type: jekyll-pages
   label: Pages
   create: all
