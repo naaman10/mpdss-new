@@ -11,16 +11,6 @@ image_gallery:
 - "/v1607956902/northroad/assets/io4_iqfq95.jpg"
 - "/v1607956899/northroad/assets/io5_btsnbc.jpg"
 variants:
-- name: Syzygy
-  features:
-  - Full carbon fibre iO frame, featuring stiffness, lightness and a fully integrated
-    design
-  - Shimano Dura Ace Electronic groupset. Featuring  flat mount hydraulic disc brakes
-  - NorthRoad NR50 Carbon Wheelset with DT Swiss 350 hubs and T700 carbon fibre rims
-    - tubeless ready.
-  - Continental GP5000 tubeless tyres*
-  - iO integrated carbon fibre handle bar and stem system.
-  price: "£4450"
 - name: Crescent
   features:
   - Full carbon fibre iO frame, featuring stiffness, lightness and a fully integrated
@@ -32,6 +22,26 @@ variants:
   - Continental GP5000 tubeless tyres*
   - iO integrated carbon fibre handle bar and stem system.
   price: "£3750"
+- name: Syzygy
+  features:
+  - Full carbon fibre iO frame, featuring stiffness, lightness and a fully integrated
+    design
+  - Shimano Dura Ace Electronic groupset. Featuring  flat mount hydraulic disc brakes
+  - NorthRoad NR50 Carbon Wheelset with DT Swiss 350 hubs and T700 carbon fibre rims
+    - tubeless ready.
+  - Continental GP5000 tubeless tyres*
+  - iO integrated carbon fibre handle bar and stem system.
+  price: "£4450"
+- name: Apogee
+  features:
+  - Full carbon fibre iO frame, featuring stiffness, lightness and a fully integrated
+    design.
+  - SRAM Red Etap AXS Electronic groupset. Featuring  flat mount hydraulic disc brakes
+  - NorthRoad NR50 Carbon Wheelset with DT Swiss 350 hubs and T700 carbon fibre rims
+    - tubeless ready.
+  - Continental GP5000 tubeless tyres*
+  - iO integrated carbon fibre handle bar and stem system.
+  price: "£4100"
 
 ---
 A lightweight aero frame, carbon wheels and disc brakes. This is a great choice for the rider looking for speed and great handling and, of course, amazing looks.
