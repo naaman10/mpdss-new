@@ -17,3 +17,4 @@ collections:
     output: true
     title: Road Bikes
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
+    permalink: /:collection/:name

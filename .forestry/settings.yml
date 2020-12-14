@@ -1,15 +1,15 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
+admin_path:
+webhook_url:
 sections:
 - type: directory
   path: _road
   label: Road Bikes
   create: documents
   match: "**/*"
-  new_doc_ext: app
+  new_doc_ext: md
 - type: jekyll-pages
   label: Pages
   create: all
@@ -21,7 +21,7 @@ sections:
 upload_dir: northroad/assets
 public_path: ''
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path:
 file_template: ":filename:"
 build:
   preview_env:

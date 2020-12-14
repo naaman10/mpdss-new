@@ -27,7 +27,7 @@ latest_bikes_section:
   title: Latest Bikes
   cta:
     cta_lable: View All Bikes
-    cta_link: ''
+    cta_link: '/bikes'
   bikes:
   - bike_name: 'The IO '
     bike_from_price: "£3750"

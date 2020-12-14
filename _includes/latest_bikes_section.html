@@ -10,7 +10,7 @@
       <div class="col-sm-6 col-md-4">
         <div class="product aos-init aos-animate" data-aos="zoom-in" data-aos-delay="0">
           <div class="product-image mb-md-3">
-            <a href="/tops-blouses/white-tee">
+            <a href="{{ bike.bike_name }}">
               <div class="product-swap-image">
                 <img class="img-fluid product-swap-image-front" src="{{site.cloudinary_url}}/c_thumb,g_center,h_1154,w_900{{ bike.bike_image_1.image }}" alt="{{ bike.bike_image_1.image_alt }}">
                 <img class="img-fluid" src="{{site.cloudinary_url}}/c_thumb,g_center,h_1154,w_900{{ bike.bike_image_2.image }}" alt="{{ bike.bike_image_2.image_alt }}"></div>
@@ -26,7 +26,7 @@
             </div>
           </div>
           <div class="position-relative">
-            <h3 class="text-base mb-1"><a class="text-dark" href="/tops-blouses/white-tee">{{ bike.bike_name }}</a></h3><span class="text-gray-500 text-sm">{{ bike.bike_from_price }}</span>
+            <h3 class="text-base mb-1"><a class="text-dark" href="{{ bike.bike_link }}">{{ bike.bike_name }}</a></h3><span class="text-gray-500 text-sm">{{ bike.bike_from_price }}</span>
             <div class="product-stars text-xs"><i class="fa fa-star text-primary "></i><i class="fa fa-star text-primary "></i><i class="fa fa-star text-primary "></i><i class="fa fa-star text-muted "></i><i class="fa fa-star text-muted "></i></div>
           </div>
         </div>
