@@ -1,7 +1,7 @@
 ---
-name: The IO
+name: The iO
 price: "£3750"
-layout: default
+layout: bikes
 image_gallery:
 - "/v1607956902/northroad/assets/io1_wxxvjx.jpg"
 - "/v1607956900/northroad/assets/io7_hwoddg.jpg"

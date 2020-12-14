@@ -1,0 +1,93 @@
+---
+layout: default
+---
+<section>
+  <div class="px-xl-7 pt-5 pb-3 pb-lg-6 container-fluid">
+    <div class="row">
+      <div class="pt-4 order-2 order-lg-1 photoswipe-gallery col-lg-6 col-xl-7">
+        {% for image in page.image_gallery %}
+          <div class="easyzoom easyzoom--overlay img-fluid" style="width: 100%; height: auto; overflow: hidden;">
+            <a class="d-block mb-4" href="{{ site.cloudinary_url }}{{ image }}">
+              <img class="img-magnifier-glass" src="{{ site.cloudinary_url }}/c_thumb,g_center,h_300,w_500{{ image }}" width="100%" height="100%" alt="{{ page.name }} {{ loop.index }}" style="cursor: pointer;">
+            </a>
+          </div>
+        {% endfor %}
+        </div>
+      <div class="pt-4 order-1 order-lg-2 ml-lg-auto col-lg-6 col-xl-4">
+        <div class="sticky-top" style="top: 100px;">
+          <h1 class="mb-4">{{ page.name }}</h1>
+          <div class="d-flex flex-column flex-sm-row align-items-sm-center justify-content-sm-between mb-4">
+            <ul class="list-inline mb-2 mb-sm-0">
+              <li class="list-inline-item h4 font-weight-light mb-0">From: {{ page.price}}</li>
+            </ul>
+          </div>
+          <p class="mb-4 text-muted">Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.</p>
+          <form class="">
+            <div class="w-100 mb-4 input-group">
+              <button type="submit" class="btn btn-outline-dark btn-block btn-lg"><i class="fa fa-shopping-cart mr-2"></i>Explore {{page.name}}</button>
+              <button type="submit" class="btn btn-dark btn-block btn-lg"><i class="fa fa-shopping-cart mr-2"></i>Enquire</button>
+            </div>
+            <div class="mb-4 row">
+              <div class="text-right col-6">
+                <ul class="list-inline mb-0">
+                  <li class="list-inline-item mr-2"><a class="text-dark text-hover-primary" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                  <li class="list-inline-item"><a class="text-dark text-hover-primary" href="#"><i class="fab fa-twitter"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="mt-5">
+  <div class="container">
+    <ul class="flex-column flex-sm-row nav nav-tabs">
+      <li class="nav-item"><a class="detail-nav-link active nav-link" style="cursor: pointer;">Description</a></li>
+      <li class="nav-item"><a class="detail-nav-link  nav-link" style="cursor: pointer;">Geometry</a></li>
+    </ul>
+    <div class="tab-content py-4">
+      <div class="tab-pane px-3 active">
+        <div class="row">
+          <div class="col-md-7">
+            <h4>{{ page.name }}</h4>
+            {{ content | markdownify }}
+          </div>
+          <div class="col-md-5"><img class="img-fluid" src="/img/product/detail-3.jpg" alt="Push-up Jeans"></div>
+        </div>
+      </div>
+      <div class="tab-pane">
+        <div class="row">
+          <div class="col-md-6">
+            <img class="img-fluid" src="https://static.wixstatic.com/media/943c36_06a6b7f235b1410d97c74218da291238~mv2.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="container">
+    <div class="row">
+      {% for bike in page.variants %}
+      <div class="col-md-4">
+        <div class="border-0 shadow mb-3 card">
+          <div class="card-body">
+            <h4 class="card-title">{{ bike.name }}</h4>
+            <p class="card-text">
+              <ul class="productFeatures">
+              {% for feature in bike.features %}
+              <li class="py-2">{{ feature }}</li>
+              {% endfor %}
+              </ul>
+            </p>
+            <p class="productPrice">{{ bike.price }}</p>
+            <a href="#" class="btn btn-outline-primary btn-block">Enquire</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

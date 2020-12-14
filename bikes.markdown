@@ -7,8 +7,4 @@ menu:
     weight: 2
 
 ---
-<ul>
-{% for bike in site.road %}
-  <li>{{ bike.name }}</li>
-{% endfor %}
-</ul>
+{% include _bikes/road_bikes.html %}

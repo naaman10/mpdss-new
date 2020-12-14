@@ -1,0 +1,1 @@
+var $easyzoom = $('.easyzoom').easyZoom();

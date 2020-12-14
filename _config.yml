@@ -12,7 +12,8 @@ github_username:  jekyll
 plugins:
   - jekyll-feed
   - jekyll-menus
-collections_dir: collections
 collections:
   road:
     output: true
+    title: Road Bikes
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
