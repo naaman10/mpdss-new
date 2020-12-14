@@ -1,0 +1,13 @@
+---
+label: Bike
+hide_body: false
+fields:
+- type: text
+  name: name
+  label: name
+- type: text
+  name: price
+  label: price
+- type: text
+  name: layout
+  label: layout
