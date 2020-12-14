@@ -1,0 +1,55 @@
+I"ë<section class="homepageHero" style="background-image: url('https://res.cloudinary.com/njh101010/image/upload/v1607640960/northroad/assets/metis-home-image_dgyye8.jpg')">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="row d-flex align-items-center">
+        
+        <div class="col-xs-12 col-md-4 offset-md-8 align-items-center">
+          <p class="lead mb-0">True Aero</p>
+          <h2>Explore The Metis</h2>
+          <!-- body -->
+          <a href="" class="btn btn-primary">View</a>
+        </div>
+        
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="bg-gray-100 position-relative">
+  <div class="py-6 container">
+    <div class="row">
+      <div class="mb-5 mb-sm-0 col-sm-6">
+        <div class="card-scale shadow-0 border-0 text-white text-hover-gray-900 overlay-hover-light text-center card"><img src="/img/product/category-women.jpg" alt="Women" class="img-scale card-img" />
+          <div class="d-flex align-items-center card-img-overlay">
+            <div class="w-100 py-3">
+              <h2 class="display-3 font-weight-bold mb-0">Bikes</h2><a class="stretched-link" href="/category-full"><span class="sr-only">See</span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mb-5 mb-sm-0 col-sm-6">
+        <div class="card-scale shadow-0 border-0 text-white text-hover-gray-900 overlay-hover-light text-center card"><img src="/img/product/category-men.jpg" alt="Men" class="img-scale card-img" />
+          <div class="d-flex align-items-center card-img-overlay">
+            <div class="w-100 py-3">
+              <h2 class="display-3 font-weight-bold mb-0">Workshop</h2><a class="stretched-link" href="/category-full"><span class="sr-only">See</span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-4">
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+:ET

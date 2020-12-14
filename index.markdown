@@ -14,3 +14,5 @@ hero_section:
   alignment: right
 ---
 {% include homepage_hero.html %}
+{% include directions.html %}
+{% include product_showcase_section.html %}
