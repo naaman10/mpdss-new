@@ -4,10 +4,40 @@ hide_body: false
 fields:
 - type: text
   name: name
-  label: name
-- type: text
-  name: price
-  label: price
+  label: Name
 - type: text
   name: layout
-  label: layout
+  label: Layout
+- type: text
+  name: price
+  label: From Price
+- name: image_gallery
+  type: image_gallery
+  config: {}
+  label: Image Gallery
+- name: variants
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: features
+    type: list
+    config:
+      use_select: false
+      min: 
+      max: 
+    label: Features
+  - name: price
+    type: text
+    config:
+      required: false
+    label: Price
+    default: "£"
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Variants
