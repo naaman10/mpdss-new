@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bikes
-permalink: "/about"
+permalink: "/bikes"
 menu:
   header:
     weight: 2

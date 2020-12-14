@@ -12,3 +12,12 @@ github_username:  jekyll
 plugins:
   - jekyll-feed
   - jekyll-menus
+collections_dir: collections
+collections:
+  bikes:
+    road:
+      price: true
+      name: true
+    gravel:
+      price: true
+      name: true
