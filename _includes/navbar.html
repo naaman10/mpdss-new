@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg shadow-0 navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#"><span class="title-a">NORTH</span><span class="title-b">ROAD</span></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -11,7 +11,12 @@
             <a class="nav-link active" href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
           </li>
         {% endfor %}
-        
+
+      </ul>
+      <ul class="list-inline mb-0 d-none d-lg-block">
+        <li class="list-inline-item mr-3"><a class="text-dark text-hover-primary" href="#"><i class="fab fa-facebook-f"></i></a></li>
+        <li class="list-inline-item mr-3"><a class="text-dark text-hover-primary position-relative" href="/wishlist"><i class="fab fa-twitter"></i></a></li>
+        <li class="list-inline-item position-relative mr-3"><a class="text-dark text-hover-primary" href="#"><i class="fab fa-instagram"></i></a></li>
       </ul>
     </div>
   </div>
