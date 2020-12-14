@@ -2,10 +2,6 @@
 layout: default
 title: North Road Cycles
 permalink: "/"
-menus:
-  header:
-    title: Home
-    weight: 1
 hero_section:
   image:
     image: "/v1607640960/northroad/assets/metis-home-image_dgyye8.jpg"
@@ -51,6 +47,10 @@ latest_bikes_section:
     bike_image_2:
       image: "/v1607942392/northroad/assets/aleraSide2_ggusmn.jpg"
       image_alt: The Elara Side
+menu:
+  header:
+    title: Home
+    weight: 1
 
 ---
 {% include homepage_hero.html %}
