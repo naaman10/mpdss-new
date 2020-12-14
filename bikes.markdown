@@ -8,3 +8,4 @@ menu:
 
 ---
 {% include _bikes/road_bikes.html %}
+{% include _bikes/gravel_bikes.html %}

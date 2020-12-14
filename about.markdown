@@ -5,7 +5,7 @@ permalink: /about
 menu:
   header:
     title: About
-    weight: 2
+    weight: 3
 ---
 <section>
   <div class="container">
