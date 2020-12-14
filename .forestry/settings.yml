@@ -5,6 +5,14 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _gravel
+  label: Gravel Bikes
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - bike
+- type: directory
   path: _road
   label: Road Bikes
   create: documents
