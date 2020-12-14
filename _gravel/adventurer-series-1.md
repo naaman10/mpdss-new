@@ -1,5 +1,5 @@
 ---
-name: THE ADVENTURER
+name: The Adventurer
 layout: bikes
 price: "£949"
 image_gallery:

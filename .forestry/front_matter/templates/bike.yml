@@ -43,6 +43,5 @@ fields:
     labelField: 
   label: Variants
 pages:
-- _road/adventurer-series-1.md
 - _road/elara.md
 - _road/theio.md
