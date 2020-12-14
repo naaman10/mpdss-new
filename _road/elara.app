@@ -2,7 +2,9 @@
 name: Elara
 layout: bikes
 price: "£2600"
-image_gallery: []
+image_gallery:
+- "/v1607978339/northroad/assets/elara1_hyta5n.jpg"
+- "/v1607978346/northroad/assets/elara2_t2qzgk.jpg"
 variants:
 - name: Orbit
   features:
