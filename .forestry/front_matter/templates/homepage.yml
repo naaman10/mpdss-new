@@ -112,5 +112,91 @@ fields:
     max: 2
     labelField: title
   label: Direction Section
+- name: latest_bikes_section
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: cta
+    type: field_group
+    config: {}
+    fields:
+    - name: cta_lable
+      type: text
+      config:
+        required: false
+      label: CTA Lable
+    - name: cta_link
+      type: text
+      config:
+        required: false
+      label: CTA Link
+    label: CTA
+  - name: bikes
+    type: field_group_list
+    fields:
+    - name: bike_name
+      type: text
+      config:
+        required: false
+      label: Bike Name
+    - name: bike_from_price
+      type: text
+      config:
+        required: false
+      label: Bike From Price
+      default: "£"
+    - name: bike_image_1
+      type: field_group
+      config: {}
+      fields:
+      - name: image
+        type: file
+        config:
+          maxSize: 64
+        label: Image
+      - name: image_alt
+        type: text
+        config:
+          required: false
+        label: Image Alt
+      label: Bike Image 1
+    - name: bike_image_2
+      type: field_group
+      config: {}
+      fields:
+      - name: image
+        type: file
+        config:
+          maxSize: 64
+        label: Image
+      - name: image_alt
+        type: text
+        config:
+          required: false
+        label: Image Alt
+      label: Bike Image 2
+    - name: bike_link
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
+      label: Bike Link
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Bikes
+  label: Latest Bikes Section
 pages:
 - index.markdown
