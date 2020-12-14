@@ -2,6 +2,10 @@
 layout: default
 title: North Road Cycles
 permalink: "/"
+menus:
+  header:
+    title: Home
+    weight: 1
 hero_section:
   image:
     image: "/v1607640960/northroad/assets/metis-home-image_dgyye8.jpg"
