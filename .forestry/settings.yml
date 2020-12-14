@@ -5,11 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: road
-  label: Bikes
+  path: _road
+  label: Road Bikes
   create: documents
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: ''
 - type: jekyll-pages
   label: Pages
   create: all
