@@ -33,7 +33,6 @@ variants:
   - Continental GP5000 tubeless tyres*
   - NR Carbon one piece integrated handlebars and stem system.
   price: "£3750"
-published: false
 
 ---
 The NorthRoad Elara is our lighter* aero framed bike. With a frame made from toray T800 high modulus carbon fibre and proven aero profiles this machine is both light and aerodynamic.
