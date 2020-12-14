@@ -23,6 +23,21 @@ direction_section:
   image:
     image: "/v1607939501/northroad/assets/workshop_piwxwm.jpg"
     image_alt: Workshop
+latest_bikes_section:
+  title: Latest Bikes
+  cta:
+    cta_lable: View All Bikes
+    cta_link: ''
+  bikes:
+  - bike_name: 'The IO '
+    bike_from_price: "£3750"
+    bike_image_1:
+      image: "/v1607941336/northroad/assets/IOfront.jpg"
+      image_alt: IO Bike Front
+    bike_image_2:
+      image: "/v1607942170/northroad/assets/ioSide.jpg"
+      image_alt: The IO Side
+    bike_link: ''
 
 ---
 {% include homepage_hero.html %}
