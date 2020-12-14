@@ -37,7 +37,7 @@ latest_bikes_section:
     bike_image_2:
       image: "/v1607942170/northroad/assets/ioSide.jpg"
       image_alt: The IO Side
-    bike_link: ''
+    bike_link: _road/theio.md
   - bike_name: The Elara
     bike_from_price: "£2600"
     bike_link: ''
