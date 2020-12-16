@@ -28,3 +28,14 @@ variants:
   price: "£6000"
 
 ---
+**An astonishingly quick frame, designed and hand made in the UK by experienced carbon fibre experts. The frame is painstakingly built with Toray T800 and T1100 carbon fibre. The NorthRoad Metis a serious choice for anyone looking for a super-aerodynamic road bike.**
+
+**Lighter than previous aero models and with a fully integrated design, that has no cables or hoses on display, the Metis is our premium road bike. This high modulus carbon frame is built for speed.**
+
+**Shimano or SRAM electronic hydraulic groupsets, or indeed mechanical groupsets, mean you won't miss a shift.**
+
+**NorthRoad 50mm deep, carbon wheels come as standard on this super bike, as do Pirelli P-Zero tyres.**
+
+**This is a ready to race bike and as with all NorthRoad bicycles we will build it totally to your specification - every element can be chosen and built just for you. So, if you want different wheels, saddle, a Campagnolo groupset or specific club colours on your frame NorthRoad can create the bike for you.**
+
+__Weight - 7.0kg*__
