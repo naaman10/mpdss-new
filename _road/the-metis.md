@@ -26,6 +26,9 @@ variants:
   - Pirelli P-Zero tyres
   - Selle Italia SLR
   price: "£6000"
+geometry:
+  image: "/v1608137638/northroad/assets/metisGeo_quzrbv.png"
+  image_alt: Metis Geometry
 
 ---
 An astonishingly quick frame, designed and hand made in the UK by experienced carbon fibre experts. The frame is painstakingly built with Toray T800 and T1100 carbon fibre. The NorthRoad Metis a serious choice for anyone looking for a super-aerodynamic road bike.
