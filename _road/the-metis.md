@@ -1,7 +1,7 @@
 ---
 layout: bikes
 name: The Metis
-price: "£4350"
+price: "£4350."
 image_gallery:
 - "/v1608137022/northroad/assets/metis1_lcthuz.jpg"
 - "/v1608137024/northroad/assets/metis4_rlmop7.jpg"
