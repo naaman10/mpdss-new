@@ -10,7 +10,7 @@ image_gallery:
 - "/v1608137279/northroad/assets/metis2_aipkog.jpg"
 - "/v1608137024/northroad/assets/metis4_rlmop7.jpg"
 variants:
-- name: DURA ACE Di2
+- name: Dura Ace Di2
   features:
   - High modulus carbon fibre fully integrated aero frame
   - Dura Ace 9150 Di2 electronic groupset (hydraulic flat mount disc)
@@ -18,7 +18,7 @@ variants:
   - Pirelli P-Zero tyres
   - Selle Italia SLR
   price: "£6799"
-- name: ULTEGRA Di2
+- name: Ultegra Di2
   features:
   - High modulus carbon fibre fully integrated aero frame
   - Ultegra Di2 electronic groupset (hydraulic flat mount disc)
@@ -26,6 +26,14 @@ variants:
   - Pirelli P-Zero tyres
   - Selle Italia SLR
   price: "£6000"
+- name: Ultegra
+  features:
+  - High modulus carbon fibre fully integrated aero frame
+  - Ultegra mechanical groupset (hydraulic flat mount disc)
+  - NorthRoad carbon 50mm thru-axle wheel set
+  - Pirelli P-Zero tyres
+  - Selle Italia SLR
+  price: "£4800"
 geometry:
   image: "/v1608137638/northroad/assets/metisGeo_quzrbv.png"
   image_alt: Metis Geometry
