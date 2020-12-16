@@ -9,6 +9,8 @@ fields:
 - type: text
   name: layout
   label: Layout
+  default: bikes
+  hidden: true
 - type: text
   name: price
   label: From Price
