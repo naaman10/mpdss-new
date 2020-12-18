@@ -48,6 +48,15 @@ latest_bikes_section:
       image: "/v1607942392/northroad/assets/aleraSide2_ggusmn.jpg"
       image_alt: The Elara Side
 hero_carousel:
+- slide_heading: The Metis
+  slide_sub-title: Performance Driven
+  slide_alignment: Left
+  slide_image:
+    image: "/v1608137022/northroad/assets/metis1_lcthuz.jpg"
+    image_alt: The Metis
+  slide_cta:
+    cta_text: View
+    cta_link: "#"
 - slide_heading: Explore The Io
   slide_sub-title: True Aero
   slide_image:
