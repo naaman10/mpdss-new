@@ -17,22 +17,27 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
       <ul class="navbar-nav">
         
+          
           <li class="nav-item menu-item-">
             <a class="nav-link active" href="/" title="Go to Home">Home</a>
           </li>
         
+        
+          
           <li class="nav-item menu-item-">
             <a class="nav-link active" href="/bikes" title="Go to Bikes">Bikes</a>
           </li>
         
+        
+          
           <li class="nav-item menu-item-">
             <a class="nav-link active" href="/about" title="Go to About">About</a>
           </li>
         
-
+        
       </ul>
       <ul class="list-inline mb-0 d-none d-lg-block">
         <li class="list-inline-item mr-3"><a class="text-dark text-hover-primary" href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -43,24 +48,54 @@
   </div>
 </nav>
 
-  <section class="homepageHero" style="background-image: url('https://res.cloudinary.com/njh101010/image/upload/v1607640960/northroad/assets/metis-home-image_dgyye8.jpg')">
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <div class="row d-flex align-items-center">
-        
-        <div class="col-xs-12 col-md-4 offset-md-8 align-items-center">
-          <p class="lead mb-0">True Aero</p>
-          <h2>Explore The Metis</h2>
-          <!-- body -->
-          <a href="" class="btn btn-primary">View</a>
-        </div>
-        
+  
+<div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
+    <ol class="carousel-indicators">
+      
+      <li data-bs-target="#heroCarousel" data-bs-slide-to="1" class="active"></li>
+      
+      <li data-bs-target="#heroCarousel" data-bs-slide-to="2" class=""></li>
+      
+    </ol>
+
+    <div class="carousel-inner">
+      
+      <div class="carousel-item active">
+        <img src="https://res.cloudinary.com/njh101010/image/upload/v1608137022/northroad/assets/metis1_lcthuz.jpg" alt="The Metis" class="img-fluid" />
+        <div class="container">
+          <div class="col-xs-12 col-md-4 offset-md-8 align-items-center">
+            <div class="carousel-caption">
+              <p class="lead mb-0">Performance Driven</p>
+              <h2>The Metis</h2>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">View</a></p>
+            </div>
+          </div>
         </div>
       </div>
+      
+      <div class="carousel-item ">
+        <img src="https://res.cloudinary.com/njh101010/image/upload/v1607956902/northroad/assets/io1_wxxvjx.jpg" alt="The Io" class="img-fluid" />
+        <div class="container">
+          <div class="col-xs-12 col-md-4 offset-md-8 align-items-center">
+            <div class="carousel-caption">
+              <p class="lead mb-0">True Aero</p>
+              <h2>Explore The Io</h2>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">View</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
     </div>
+    <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </a>
   </div>
-</section>
 
 <div class="bg-gray-100 position-relative">
   <div class="py-6 container">
@@ -152,7 +187,6 @@
     </div>
   </div>
 </section>
-
 
 
   <footer class="bg-dark">

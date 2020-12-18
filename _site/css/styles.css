@@ -32,4 +32,6 @@
 
 .productPrice { font-weight: bold; }
 
+.dropdown-toggle::after { border-top: none; }
+
 /*# sourceMappingURL=styles.css.map */

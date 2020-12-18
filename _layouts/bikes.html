@@ -8,7 +8,7 @@ layout: default
         {% for image in page.image_gallery %}
           <div class="easyzoom easyzoom--overlay img-fluid" style="width: 100%; height: auto; overflow: hidden;">
             <a class="d-block mb-4" href="{{ site.cloudinary_url }}{{ image }}">
-              <img class="img-magnifier-glass" src="{{ site.cloudinary_url }}/c_thumb,g_center,h_300,w_500{{ image }}" width="100%" height="100%" alt="{{ page.name }} {{ loop.index }}" style="cursor: pointer;">
+              <img class="img-magnifier-glass" src="{{ site.cloudinary_url }}/c_thumb,g_center,h_300,q_100,w_500{{ image }}" width="100%" height="100%" alt="{{ page.name }} {{ loop.index }}" style="cursor: pointer;">
             </a>
           </div>
         {% endfor %}
@@ -24,7 +24,7 @@ layout: default
           <p class="mb-4 text-muted">Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.</p>
           <form class="">
             <div class="w-100 mb-4 input-group">
-              <a href="#collection" class="btn btn-outline-dark btn-block btn-lg"><i class="fa fa-shopping-cart mr-2"></i>Explore {{page.name}}</a>
+              <a href="#collection" class="btn btn-outline-dark btn-block btn-lg"><i class="fas fa-bicycle mr-2"></i>Explore {{page.name}}</a>
               <a href="#enquire" class="btn btn-dark btn-block btn-lg"><i class="fa fa-shopping-cart mr-2"></i>Enquire</a>
             </div>
             <div class="mb-4 row">
@@ -43,30 +43,32 @@ layout: default
 </section>
 <section class="mt-5">
   <div class="container">
-    <ul class="flex-column flex-sm-row nav nav-tabs">
-      <li class="nav-item"><a class="detail-nav-link active nav-link" style="cursor: pointer;">Description</a></li>
-      <li class="nav-item"><a class="detail-nav-link  nav-link" style="cursor: pointer;">Geometry</a></li>
+    <ul class="flex-column flex-sm-row nav nav-tabs" role="tablist">
+      <li class="nav-item" id="description-tab" data-bs-toggle="tab" role="tab" aria-controls="description" aria-selected="true"><a class="detail-nav-link active nav-link" style="cursor: pointer;">Description</a></li>
+      <li class="nav-item" id="geomtry-tab" data-bs-toggle="tab" role="tab" aria-controls="geomtry" aria-selected="false"><a class="detail-nav-link  nav-link" style="cursor: pointer;">Geometry</a></li>
     </ul>
     <div class="tab-content py-4">
-      <div class="tab-pane px-3 active">
+      <div class="tab-pane px-3 active" id="description" role="tabpanel" aria-labelledby="description-tab">
         <div class="row">
           <div class="col-md-7">
             <h4>{{ page.name }}</h4>
             {{ content | markdownify }}
           </div>
-          <div class="col-md-5"><img class="img-fluid" src="{{ site.cloudinary_url }}/c_thumb,g_center,h_300,w_500{{ page.image_gallery[1] }}" alt="{{ page.name }} Description"></div>
+          <div class="col-md-5" ><img class="img-fluid" src="{{ site.cloudinary_url }}/c_thumb,g_center,h_300,w_500{{ page.image_gallery[1] }}" alt="{{ page.name }} Description"></div>
         </div>
       </div>
-      <div class="tab-pane">
+      <div class="tab-pane" id="geomtry" role="tabpanel" aria-labelledby="geomtry-tab">
         <div class="row">
           <div class="col-md-6">
-            <img class="img-fluid" src="https://static.wixstatic.com/media/943c36_06a6b7f235b1410d97c74218da291238~mv2.jpg">
+            <img class="img-fluid" src="{{site.cloudinary_url}}{{ page.geometry.image }}" alt="{{ page.geometry.image_alt }}">
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
+{% if page.variants == empty %}
+{% else %}
 <section class="py-6" id="collection">
   <div class="container">
     <div class="row">
@@ -93,10 +95,13 @@ layout: default
         </div>
       </div>
       {% endfor %}
-      <div class="col text-center"><p>*or equivalent</p></div>
+      </div>
+      <div class="row my-0">
+        <div class="col text-center"><p>*or equivalent</p></div>
+      </div>
     </div>
-  </div>
 </section>
+{% endif %}
 <section class="py-6" id="enquire">
   <div class="container">
     <div class="row">

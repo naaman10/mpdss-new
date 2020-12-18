@@ -4,14 +4,26 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
       <ul class="navbar-nav">
         {% for item in site.menus.header %}
+          {% if item.children %}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  {{ item.title }}
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  {% for item in item.children %}
+                  <li><a class="dropdown-item" href="{{ item.url }}">{{ item.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
           <li class="nav-item menu-item-{{ loop.index }}">
             <a class="nav-link active" href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
           </li>
+        {% endif %}
         {% endfor %}
-
       </ul>
       <ul class="list-inline mb-0 d-none d-lg-block">
         <li class="list-inline-item mr-3"><a class="text-dark text-hover-primary" href="#"><i class="fab fa-facebook-f"></i></a></li>
