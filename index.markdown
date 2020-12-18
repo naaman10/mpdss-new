@@ -27,7 +27,7 @@ latest_bikes_section:
   title: Latest Bikes
   cta:
     cta_lable: View All Bikes
-    cta_link: '/bikes'
+    cta_link: "/bikes"
   bikes:
   - bike_name: 'The IO '
     bike_from_price: "£3750"
@@ -47,6 +47,16 @@ latest_bikes_section:
     bike_image_2:
       image: "/v1607942392/northroad/assets/aleraSide2_ggusmn.jpg"
       image_alt: The Elara Side
+hero_carousel:
+- slide_heading: Explore The Io
+  slide_sub-title: True Aero
+  slide_image:
+    image: "/v1607956902/northroad/assets/io1_wxxvjx.jpg"
+    image_alt: The Io
+  slide_cta:
+    cta_link: "#"
+    cta_text: View
+  slide_alignment: Right
 menu:
   header:
     title: Home
