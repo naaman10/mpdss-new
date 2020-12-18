@@ -211,6 +211,21 @@ fields:
     config:
       required: false
     label: Slide Sub-title
+  - name: slide_alignment
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Left
+      - Centre
+      - Right
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Slide Alignment
   - name: slide_image
     type: field_group
     config: {}
