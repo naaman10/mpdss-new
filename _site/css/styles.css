@@ -8,9 +8,11 @@ body { font-family: 'vremenagrotesk', sans-serif; font-size: 18px; }
 
 .title-b { font-family: 'Ostrich Sans Medium', sans-serif; font-size: 3.3rem; text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px; }
 
-.homepageHero { background-position: center; background-repeat: no-repeat; background-size: cover; height: 60vh; width: 100%; }
+.homepageHero { background-color: #FDFFF7; height: 60vh; width: 100%; }
 
 .homepageHero .container, .homepageHero .row { height: 100%; }
+
+.homepageHero h3 { color: #1B1B1B; box-shadow: #fc4868 -0.5rem 0px 0px; line-height: 1; padding: 0.25em; }
 
 .productDescription { background-color: #6C0406; }
 

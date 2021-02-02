@@ -14,7 +14,9 @@ hero_section:
   alignment: centre
 direction_section:
 - title: Dental Student
-  link: []
+  link:
+    link: #
+    link_text: Find out more
   image:
     image: "/v1612285467/northroad/assets/undraw_graduation_ktn0_trbc5b.svg"
     image_alt: Dental Students - Graduation Cap
@@ -22,7 +24,9 @@ direction_section:
     health science students to get involved in the world of Paediatric dentistry.
     Click below to find out more about the opportunities open to you.
 - title: Primary School Representative
-  link: []
+  link:
+    link: #
+    link_text: Find out more
   image:
     image: "/v1612285539/northroad/assets/undraw_teacher_35j2_bstnvz.png"
     image_alt: Primary School Representative - Teacher
@@ -30,7 +34,9 @@ direction_section:
     within local primary schools. Click below If you would like to find out more about
     the sessions that we run and how your school can get involved.
 - title: Parent or Caregiver
-  link: []
+  link:
+    link: #
+    link_text: Find out more
   image:
     image: "/v1612285574/northroad/assets/undraw_quality_time_wiyl_ds4dmw.png"
     image_alt: Parent or Caregiver - Family

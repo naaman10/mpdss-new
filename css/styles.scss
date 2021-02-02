@@ -26,13 +26,18 @@ body {
   text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px;
 }
 .homepageHero {
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #FDFFF7;
+
   height: 60vh;
   width: 100%;
   .container,.row {
     height: 100%;
+  }
+  h3 {
+    color: #1B1B1B;
+    box-shadow: rgb(252, 72, 104) -0.5rem 0px 0px;
+    line-height: 1;
+    padding: 0.25em;
   }
 }
 .productDescription {

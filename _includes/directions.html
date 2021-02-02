@@ -2,12 +2,13 @@
   <div class="py-6 container">
     <div class="row">
       {% for direction in page.direction_section %}
-      <div class="mb-5 mb-sm-0 col-sm-6">
-        <div class="card-scale shadow-0 border-0 text-white text-hover-gray-900 overlay-hover-light text-center card"><img src="{{ site.cloudinary_url }}{{ direction.image.image }}" alt="{{direction.image.image_alt}}" class="img-scale card-img">
-          <div class="d-flex align-items-center card-img-overlay">
-            <div class="w-100 py-3">
-              <h2 class="display-3 font-weight-bold mb-0">{{ direction.title }}</h2><a class="stretched-link" href="/category-full"><span class="sr-only">See</span></a>
-            </div>
+      <div class="mb-5 mb-sm-0 col-12 col-sm-4">
+        <div class="card shadow">
+          <img src="{{ site.cloudinary_url }}{{ direction.image.image }}" class="card-img-top img-fluid" alt="{{ direction.image.image_alt }}">
+          <div class="card-body">
+            <h5 class="card-title">{{ direction.title }}</h5>
+            <p class="card-text">{{ direction.text_body }}</p>
+            <a href="{{ direction.link.link }}" class="btn btn-primary">{{ direction.link.link_text }}</a>
           </div>
         </div>
       </div>
