@@ -75,23 +75,6 @@ fields:
 - name: direction_section
   type: field_group_list
   fields:
-  - name: title
-    type: text
-    config:
-      required: true
-    label: Title
-  - name: link
-    type: select
-    default: []
-    config:
-      required: true
-      options: []
-      source:
-        type: pages
-        section: jekyll-pages
-        file: 
-        path: 
-    label: Link
   - name: image
     type: field_group
     config: {}
@@ -107,6 +90,32 @@ fields:
         required: false
       label: Image Alt
     label: Image
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+  - name: text_body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Text Body
+  - name: link
+    type: select
+    default: []
+    config:
+      required: true
+      options: []
+      source:
+        type: pages
+        section: jekyll-pages
+        file: 
+        path: 
+    label: Link
   config:
     min: 3
     max: 3
