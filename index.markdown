@@ -4,14 +4,14 @@ title: North Road Cycles
 permalink: "/"
 hero_section:
   image:
-    image: "/v1607640960/northroad/assets/metis-home-image_dgyye8.jpg"
-    imageAlt: The Metis
+    image: "/v1612284645/northroad/assets/orgtrans_eoxwhu.png"
+    imageAlt: MPDSS Logo
   cta:
     cta_link: []
-    cta_text: View
-  title: Explore The Metis
+    cta_text: I am a...
+  title: Educating children in oral health & delivering paediatric dental education
   sub-title: True Aero
-  alignment: right
+  alignment: centre
 direction_section:
 - title: Bikes
   link: []
