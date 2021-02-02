@@ -108,8 +108,8 @@ fields:
       label: Image Alt
     label: Image
   config:
-    min: 2
-    max: 2
+    min: 3
+    max: 3
     labelField: title
   label: Direction Section
 - name: latest_bikes_section
