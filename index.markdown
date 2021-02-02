@@ -13,11 +13,11 @@ hero_section:
   sub-title: True Aero
   alignment: centre
 direction_section:
-- title: Bikes
+- title: Dental Student
   link: []
   image:
-    image: "/v1607940103/northroad/assets/northroadIO_q2yufh.jpg"
-    image_alt: Road Bikes
+    image: "/v1612285467/northroad/assets/undraw_graduation_ktn0_trbc5b.svg"
+    image_alt: Dental Students - Graduation Cap
 - title: Workshop
   link: []
   image:
