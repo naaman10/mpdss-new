@@ -105,17 +105,20 @@ fields:
         format: markdown
     label: Text Body
   - name: link
-    type: select
-    default: []
-    config:
-      required: true
-      options: []
-      source:
-        type: pages
-        section: jekyll-pages
-        file: 
-        path: 
-    label: Link
+    type: field_group
+    config: {}
+    fields:
+    - name: link_text
+      type: text
+      config:
+        required: false
+      label: Link Text
+    - name: link
+      type: text
+      config:
+        required: false
+      label: Link
+    label: link
   config:
     min: 3
     max: 3
