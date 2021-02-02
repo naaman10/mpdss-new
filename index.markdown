@@ -18,11 +18,11 @@ direction_section:
   image:
     image: "/v1612285467/northroad/assets/undraw_graduation_ktn0_trbc5b.svg"
     image_alt: Dental Students - Graduation Cap
-- title: Workshop
+- title: Primary School Representative
   link: []
   image:
-    image: "/v1607939501/northroad/assets/workshop_piwxwm.jpg"
-    image_alt: Workshop
+    image: "/v1612285539/northroad/assets/undraw_teacher_35j2_bstnvz.png"
+    image_alt: Primary School Representative - Teacher
 latest_bikes_section:
   title: Latest Bikes
   cta:
