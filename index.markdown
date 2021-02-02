@@ -13,6 +13,11 @@ hero_section:
   sub-title: True Aero
   alignment: centre
 direction_section:
+- title: Parent or Caregiver
+  link: []
+  image:
+    image: "/v1612285574/northroad/assets/undraw_quality_time_wiyl_ds4dmw.png"
+    image_alt: Parent or Caregiver - Family
 - title: Dental Student
   link: []
   image:
