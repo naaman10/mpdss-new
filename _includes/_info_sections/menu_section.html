@@ -1,8 +1,9 @@
-<ul class="nav flex-column">
-  <p>Menu</p>
-  {% for section in page.page_sections %}
-  <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#{{ section.title | slugify }}">{{ section.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+
+<nav class="navbar navbar-light menu my-5">
+  <p class="navbar-brand w-100 p-2">Menu</p>
+  <nav class="nav nav-pills flex-column w-100">
+    {% for section in page.page_sections %}
+    <a class="nav-link" href="#{{ section.title | slugify }}">{{ section.title }}</a>
+    {% endfor %}
+  </nav>
+</nav>

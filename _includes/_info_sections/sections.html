@@ -1,11 +1,11 @@
 {% for section in page.page_sections %}
   {% if section.template == "text-section" %}
-    <section id="{{ section.title | slugify }}">
+    <section id="{{ section.title | slugify }}" class="my-5">
       <h2>{{ section.title }}</h2>
       <p>{{ section.section_text | markdownify }}</p>
     </section>
   {% elsif section.template == "card-section" %}
-    <section id="{{ section.title | slugify }}">
+    <section id="{{ section.title | slugify }}" class="my-5">
       <h2>{{ section.title }}</h2>
       <p>{{ section.intro_text | markdownify }}</p>
       <div class="row justify-content-around">
@@ -23,6 +23,24 @@
           {% endfor %}
       </div>
     </section>
-
+    {% elsif section.template == "testimonial-section" %}
+    <section id="{{ section.title | slugify }}" class="my-5">
+      <h2>{{ section.title }}</h2>
+      <p>{{ section.section_text | markdownify }}</p>
+      <div class="row justify-content-around">
+        {% for testimonial in section.testimonials %}
+        <div class="col-md-3 mb-3">
+          <figure>
+            <blockquote class="blockquote">
+              <p>{{ testimonial.testimonial_text }}</p>
+            </blockquote>
+            <figcaption class="blockquote-footer">
+              <cite title="Source Title">{{ testimonial.testimonial_author }} | {{ testimonial.author_location }}</cite>
+            </figcaption>
+          </figure>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
   {% endif %}
 {%endfor%}
