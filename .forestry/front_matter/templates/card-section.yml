@@ -1,4 +1,70 @@
 ---
 label: Card Section
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: intro_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Intro Text
+- name: cards
+  type: field_group_list
+  fields:
+  - name: card_title
+    type: text
+    config:
+      required: false
+    label: Card Title
+  - name: card_text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Card Text
+  - name: card_image
+    type: field_group
+    config: {}
+    fields:
+    - name: image
+      type: file
+      config:
+        maxSize: 64
+      label: Image
+    - name: image_alt
+      type: text
+      config:
+        required: false
+      label: Image Alt
+    label: Card Image
+  - name: button_link
+    type: field_group
+    config: {}
+    fields:
+    - name: button_text
+      type: text
+      config:
+        required: false
+      label: Button Text
+    - name: button_link
+      type: text
+      config:
+        required: false
+      label: Button Link
+    label: Button Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Cards
