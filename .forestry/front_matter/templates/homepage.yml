@@ -159,16 +159,16 @@ fields:
         config:
           required: false
         label: Image Alt
-      - name: card_text
-        type: textarea
-        default: ''
-        config:
-          required: false
-          wysiwyg: false
-          schema:
-            format: markdown
-        label: Card Text
       label: Card Image
+    - name: card_text
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Card Text
     config:
       min: 
       max: 
