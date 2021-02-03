@@ -53,8 +53,8 @@ fields:
         source:
           type: pages
           section: pages
-          file:
-          path:
+          file: 
+          path: 
       label: CTA Link
     label: CTA
   - name: alignment
@@ -68,9 +68,9 @@ fields:
       - centre
       source:
         type: simple
-        section:
-        file:
-        path:
+        section: 
+        file: 
+        path: 
     label: Alignment
 - name: direction_section
   type: field_group_list
@@ -124,7 +124,7 @@ fields:
     max: 3
     labelField: title
   label: Direction Section
-- name: latest_bikes_section
+- name: mission_section
   type: field_group
   config: {}
   fields:
@@ -133,36 +133,19 @@ fields:
     config:
       required: false
     label: Title
-  - name: cta
-    type: field_group
-    config: {}
-    fields:
-    - name: cta_lable
-      type: text
-      config:
-        required: false
-      label: CTA Lable
-    - name: cta_link
-      type: text
-      config:
-        required: false
-      label: CTA Link
-    label: CTA
-  - name: bikes
+  - name: intro_text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Intro Text
+  - name: mission_cards
     type: field_group_list
     fields:
-    - name: bike_name
-      type: text
-      config:
-        required: false
-      label: Bike Name
-    - name: bike_from_price
-      type: text
-      config:
-        required: false
-      label: Bike From Price
-      default: "£"
-    - name: bike_image_1
+    - name: card_image
       type: field_group
       config: {}
       fields:
@@ -176,38 +159,21 @@ fields:
         config:
           required: false
         label: Image Alt
-      label: Bike Image 1
-    - name: bike_image_2
-      type: field_group
-      config: {}
-      fields:
-      - name: image
-        type: file
-        config:
-          maxSize: 64
-        label: Image
-      - name: image_alt
-        type: text
+      - name: card_text
+        type: textarea
+        default: ''
         config:
           required: false
-        label: Image Alt
-      label: Bike Image 2
-    - name: bike_link
-      type: select
-      default: []
-      config:
-        required: false
-        options: []
-        source:
-          type: pages
-          section: bikes
-          file:
-          path:
-      label: Bike Link
+          wysiwyg: false
+          schema:
+            format: markdown
+        label: Card Text
+      label: Card Image
     config:
-      min:
-      max:
-      labelField:
-    label: Bikes
+      min: 
+      max: 
+      labelField: 
+    label: Mission Cards
+  label: Mission Section
 pages:
 - index.markdown
