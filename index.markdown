@@ -1,6 +1,6 @@
 ---
 layout: default
-title: North Road Cycles
+title: Home
 permalink: "/"
 hero_section:
   image:
@@ -15,7 +15,7 @@ hero_section:
 direction_section:
 - title: Dental Student
   link:
-    link: #
+    link: ''
     link_text: Find out more
   image:
     image: "/v1612285467/northroad/assets/undraw_graduation_ktn0_trbc5b.svg"
@@ -25,7 +25,7 @@ direction_section:
     Click below to find out more about the opportunities open to you.
 - title: Primary School Representative
   link:
-    link: #
+    link: ''
     link_text: Find out more
   image:
     image: "/v1612285539/northroad/assets/undraw_teacher_35j2_bstnvz.png"
@@ -35,7 +35,7 @@ direction_section:
     the sessions that we run and how your school can get involved.
 - title: Parent or Caregiver
   link:
-    link: #
+    link: ''
     link_text: Find out more
   image:
     image: "/v1612285574/northroad/assets/undraw_quality_time_wiyl_ds4dmw.png"
@@ -45,9 +45,47 @@ direction_section:
     know that their child is being educated by a safe and reputable organisation.
     Click below to find out about how our society prioritises child safety and furthering
     education outside of the classroom.
+latest_bikes_section:
+  title: ''
+  cta:
+    cta_lable: ''
+    cta_link: ''
+  bikes: []
+hero_carousel: []
+mission_section:
+  title: Our Mission
+  intro_text: 'MPDSS is a new society created by Manchester University dental students.
+    More than 1 in 3 five year olds across Greater Manchester experience tooth decay
+    – well above the England national average of 25%. Our society aims to educate
+    children in the local area about oral health. We also arrange specialist dental
+    talks and courses to aid the learning of dental students. Keep reading for more
+    information:'
+  mission_cards:
+  - card_image:
+      image: "/v1612342993/northroad/assets/undraw_children_4rtb-2_mej1yc.png"
+      image_alt: Children playing
+    card_text: 'One of the core aims of our society is to deliver oral health education
+      sessions to primary schools in the Manchester area. "Oral health education"
+      entails the exploration of many topics. In our primary school sessions we aim
+      to cover: what a healthy diet is, how to take care of your mouth, and what to
+      expect when visiting the dentist.'
+  - card_image:
+      image: "/v1612343039/northroad/assets/undraw_candidate_ubwv-2_ipc1xq.png"
+      image_alt: Speaking presenting
+    card_text: Another aim of our society is to invite specialists in the field of
+      paediatric dentistry to deliver talks to Manchester dental students. We find
+      it imperative that dental students are given the opportunity to gain early exposure
+      to paediatric dentistry in order to foster interest in the speciality and to
+      help them become well-rounded dentists.
+  - card_image:
+      image: "/v1612343064/northroad/assets/undraw_doctors_hwty_bltsf7.png"
+      image_alt: Medical students
+    card_text: Being able to chart mixed dentition easily is a refined skill and dental
+      students can often worry about their competency in regards to this task. - This
+      is why our society aims to create and deliver a mixed dentition course to dental
+      students (of all year groups) at the University of Manchester.
 menu:
   header:
-    title: Home
     weight: 1
 
 ---
