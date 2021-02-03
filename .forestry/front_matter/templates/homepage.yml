@@ -53,8 +53,8 @@ fields:
         source:
           type: pages
           section: pages
-          file: 
-          path: 
+          file:
+          path:
       label: CTA Link
     label: CTA
   - name: alignment
@@ -68,9 +68,9 @@ fields:
       - centre
       source:
         type: simple
-        section: 
-        file: 
-        path: 
+        section:
+        file:
+        path:
     label: Alignment
 - name: direction_section
   type: field_group_list
@@ -201,14 +201,13 @@ fields:
         source:
           type: pages
           section: bikes
-          file: 
-          path: 
+          file:
+          path:
       label: Bike Link
     config:
-      min: 
-      max: 
-      labelField: 
+      min:
+      max:
+      labelField:
     label: Bikes
-  label: Latest Bikes Section
 pages:
 - index.markdown

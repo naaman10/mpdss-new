@@ -45,31 +45,6 @@ direction_section:
     know that their child is being educated by a safe and reputable organisation.
     Click below to find out about how our society prioritises child safety and furthering
     education outside of the classroom.
-latest_bikes_section:
-  title: Latest Bikes
-  cta:
-    cta_lable: View All Bikes
-    cta_link: "/bikes"
-  bikes:
-  - bike_name: 'The IO '
-    bike_from_price: "£3750"
-    bike_image_1:
-      image: "/v1607941336/northroad/assets/IOfront.jpg"
-      image_alt: IO Bike Front
-    bike_image_2:
-      image: "/v1607942170/northroad/assets/ioSide.jpg"
-      image_alt: The IO Side
-    bike_link: _road/theio.md
-  - bike_name: The Elara
-    bike_from_price: "£2600"
-    bike_link: ''
-    bike_image_1:
-      image: "/v1607942372/northroad/assets/aleraSide_sgmq7i.jpg"
-      image_alt: The Elara Front
-    bike_image_2:
-      image: "/v1607942392/northroad/assets/aleraSide2_ggusmn.jpg"
-      image_alt: The Elara Side
-hero_carousel: []
 menu:
   header:
     title: Home
@@ -78,4 +53,3 @@ menu:
 ---
 {% include homepage_hero.html %}
 {% include directions.html %}
-{% include latest_bikes_section.html %}
