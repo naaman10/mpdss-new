@@ -1,27 +1,9 @@
 ---
 layout: default
 title: About
-permalink: /about
+permalink: "/about"
 menu:
   header:
-    title: About
     weight: 3
+
 ---
-<section>
-  <div class="container">
-    <div class="row">
-      <div class="col-xl-2">
-        <div class="horizontal-line d-none d-xl-block"></div>
-      </div>
-      <div class="col-xl-6">
-        <h6 class="text-primary text-uppercase letter-spacing-5 mb-3"> WE ARE</h6>
-        <h1 class="display-3 font-weight-bold mb-5"><span class="title-a">NORTH</span><span class="title-b">ROAD</span></h1>
-        <p class="text-lg text-muted">In our simplest form we were teachers by day and bike builders by night (well, evening, weekends and every other spare second that could be grabbed). We started NORTHROAD in 2017 with the ideal in mind that quality, bespoke, carbon fibre bicycles could be built for a reasonable price – and without having to change a thing on it. Everything just the way you want from the beginning.</p>
-        <p>So what do a couple of teachers know about bikes?</p>
-        <p>Well, he has a life long passion for 2 wheeled machines; from riding to fixing and everything in between. He built his first bike in 1992 and hasn't looked back. In 2015 he did his first triathlon and the passion for fast riding bikes came back. About this time he setup a bicycle mechanic company and started improving bikes for a range of cyclists. She was raised on shoppers and relished the freedom that only came as the wind blew through her hair and her legs peddled furiously.</p>
-        <p>She is not an athlete but training and keeping her lungs working and clear of yuck (thanks to - as she over simplifies it - a “pesky genetic illness”) is a key part of day to day life and cycling fits in perfectly. She still classes her practical skills as novice and can usually be found in the office as opposed to him getting mucky on the trails or sweaty on the track but on pleasant days they jointly don the lyrca and enjoy the many coffee shop loops of South Manchester, leafy Cheshire or sometime jaunt to further a field (if a delivery can coincide with a bike holiday).</p>
-        <p>Of course there’s a huge difference between loving bikes and knowing every aspect of a bike.</p>
-      </div>
-    </div>
-  </div>
-</section>
