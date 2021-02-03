@@ -50,7 +50,7 @@ page_sections:
   - testimonial_text: Venenatis taciti feugiat magnis maecenas
     testimonial_author: Naaman Hudson
     author_location: Salford
-hero_image: ''
+hero_image: "/v1612364295/mpdss/assets/alex-jackman-_bk2nvfx7q4-unsplash_qaschy.jpg"
 menu:
   header:
     weight: 2
