@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: info-page
 title: About Us
 permalink: "/about"
 page_sections:
@@ -45,15 +45,3 @@ menu:
     weight: 2
 
 ---
-<section>
-  <div class="container">
-    <div class="row">
-      <div class="col-12 col-sm-2">
-        {% include _info_sections/menu_section.html %}
-      </div>
-      <div class="col-12 col-sm-10">
-        {% include _info_sections/sections.html %}
-      </div>
-    </div>
-  </div>
-</section>

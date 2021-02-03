@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: info-page
 title: Dental Students
 permalink: "/dental-students"
 page_sections:

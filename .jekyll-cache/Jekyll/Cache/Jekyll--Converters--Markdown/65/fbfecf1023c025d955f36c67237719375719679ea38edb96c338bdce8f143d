@@ -1,0 +1,83 @@
+I"b<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-2">
+        <ul class="nav flex-column">
+  <p>Menu</p>
+  
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#how-we-work">How We Work</a>
+  </li>
+  
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#our-committee">Our Committee</a>
+  </li>
+  
+</ul>
+
+      </div>
+      <div class="col-12 col-sm-10">
+        
+  
+    <section id="how-we-work">
+      <h2>How We Work</h2>
+      <p><p>Our committee have worked tirelessly over the Summer to coordinate primary school sessions and events which are carefully designed with our target audience in mind. We have also collaborated with specialists within the relevant dental fields to create these events.</p>
+
+<p>Various members of our committee contact schools and speakers directly in order to arrange educational sessions with them, however, we also welcome approach from schools and speakers that/who are interested in getting involved with our society.</p>
+</p>
+    </section>
+  
+
+  
+    <section id="our-committee">
+      <h2>Our Committee</h2>
+      <p><p>Our committee is compromised of 14 students from various year groups and we all work together to deliver fun and informative primary school sessions, as well as talks and courses for dental students.</p>
+
+<p>Please see our committee below and discover our individual roles:</p>
+</p>
+      <div class="row">
+        
+          <div class="col col-sm-4">
+            <div class="card">
+              <img src="https://res.cloudinary.com/njh101010/image/upload/v1612344874/mpdss/assets/100604343_3530083057008970_8820866041384009728_n_eydedx.jpg" class="card-img-top" alt="Yasmin Egonu Founder and President" />
+              <div class="card-body">
+                <h5 class="card-title">Yasmin Egonu</h5>
+                <p class="card-text">Founder and President</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col col-sm-4">
+            <div class="card">
+              <img src="https://res.cloudinary.com/njh101010/image/upload/v1591429503/mpdss/assets/hadiya.jpg" class="card-img-top" alt="Hadiya Begum Secretary" />
+              <div class="card-body">
+                <h5 class="card-title">Hadiya Begum</h5>
+                <p class="card-text">Secretary</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col col-sm-4">
+            <div class="card">
+              <img src="https://res.cloudinary.com/njh101010/image/upload/v1591429503/mpdss/assets/summa.jpg" class="card-img-top" alt="Summa Baines Treasurer" />
+              <div class="card-body">
+                <h5 class="card-title">Summa Baines</h5>
+                <p class="card-text">Treasurer</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+          </div>
+          
+      </div>
+    </section>
+
+  
+
+
+      </div>
+    </div>
+  </div>
+</section>
+:ET
