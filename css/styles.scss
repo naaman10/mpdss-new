@@ -48,6 +48,15 @@ body {
     padding: 0.25em;
   }
 }
+.pageHero {
+  width: 100vw;
+  height: 400px;
+  background-size: cover;
+  background-position: bottom;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .productDescription {
   background-color: #6C0406;
 }
