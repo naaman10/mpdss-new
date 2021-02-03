@@ -31,7 +31,7 @@ page_sections:
     health science students - and even some qualified dentists! The variability in
     mixed dentition can make the task of charting, in a limited amount of time, confusing.
     We would like to improve the confidence of dental students so that they feel comfortable
-    treating paediatric patients.\n\n![Panoramic Radiograph](/v1612353473/mpdss/assets/panoramic-radiograph-showing-patients-dentition-in-the-mixed-dentition-phase-with_j9fpnh.png)
+    treating paediatric patients.\n\n![Panoramic Radiograph](https://res.cloudinary.com/njh101010/image/upload/v1612353473/mpdss/assets/panoramic-radiograph-showing-patients-dentition-in-the-mixed-dentition-phase-with_j9fpnh.png)
     \ \nOur course is being created by the President (Yasmin) and Vice President (Sabina),
     along with the expertise and assistance of Dr. Siobhan Barry - an experienced
     paediatric consultant at the University Dental Hospital of Manchester.\n\nWe aim
