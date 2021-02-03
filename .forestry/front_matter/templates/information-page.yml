@@ -14,6 +14,12 @@ fields:
   label: Permalink
 - name: sections
   type: field_group_list
+  fields:
+  - name: section_template
+    type: include
+    config: {}
+    template: text-section
+    label: Section Template
   config:
     min: 
     max: 
