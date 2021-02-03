@@ -1,4 +1,41 @@
 ---
 label: Testimonial Section
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: section_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Section Text
+- name: testimonials
+  type: field_group_list
+  fields:
+  - name: testimonial_text
+    type: text
+    config:
+      required: false
+    label: Testimonial Text
+  - name: testimonial_author
+    type: text
+    config:
+      required: false
+    label: Testimonial Author
+  - name: author_location
+    type: text
+    config:
+      required: false
+    label: Author Location
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Testimonials
