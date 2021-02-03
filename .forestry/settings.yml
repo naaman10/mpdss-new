@@ -18,11 +18,9 @@ sections:
 - type: document
   path: primary-schools.md
   label: Primary Schools
-  match: "**/*"
 - type: document
   path: parents-and-caregivers.md
   label: Parents and Caregivers
-  match: "**/*"
 - type: heading
   label: Blog
 - type: jekyll-posts
