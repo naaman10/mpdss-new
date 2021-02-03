@@ -10,6 +10,11 @@ fields:
 - type: text
   name: title
   label: Title
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: Hero Image
 - type: text
   name: permalink
   label: Permalink
