@@ -1,6 +1,7 @@
 ---
 layout: info-page
 title: Primary Schools
+permalink: "/primary-schools"
 page_sections:
 - template: text-section
   section_text: |-
