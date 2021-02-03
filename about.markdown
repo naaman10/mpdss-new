@@ -24,12 +24,27 @@ page_sections:
     button_link:
       button_text: ''
       button_link: ''
+  - card_title: Hadiya Begum
+    card_text: Secretary
+    card_image:
+      image: "/v1591429503/mpdss/assets/hadiya.jpg"
+      image_alt: Hadiya Begum Secretary
+    button_link:
+      button_text: ''
+      button_link: ''
+  - card_title: Summa Baines
+    card_text: Treasurer
+    card_image:
+      image: "/v1591429503/mpdss/assets/summa.jpg"
+      image_alt: Summa Baines Treasurer
+    button_link:
+      button_text: ''
+      button_link: ''
 menu:
   header:
     weight: 3
 
 ---
-
 <section>
   <div class="container">
     <div class="row">
