@@ -24,5 +24,7 @@ fields:
     max: 
 pages:
 - about.markdown
+- about.markdown
+- dental-students.markdown
 - parents-and-caregivers.md
 - primary-schools.md
