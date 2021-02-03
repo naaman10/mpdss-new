@@ -1,4 +1,4 @@
-<section>
+<section class="mt-5">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -11,7 +11,11 @@
       {% for card in page.mission_section.mission_cards %}
       <div class="col-12 col-sm-6">
         <div class="card shadow-none">
-          <img src="{{ site.cloudinary_url }}{{card.card_image.image}}" class="card-img-top" alt="{{card.card_image.image_alt}}">
+          <div class="text-center">
+            <div style="width:240px;display:inline-block;text-align:center">
+              <img src="{{ site.cloudinary_url }}{{card.card_image.image}}" class="card-img-top" alt="{{card.card_image.image_alt}}">
+            </div>
+          </div>
           <div class="card-body">
             <p class="card-text">{{ card.card_text | markdownify }}</p>
           </div>

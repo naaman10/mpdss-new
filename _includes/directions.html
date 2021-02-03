@@ -1,10 +1,14 @@
-<div class="bg-gray-100 position-relative">
+<section class="bg-gray-100 position-relative" id="featureSection">
   <div class="py-6 container">
     <div class="row">
       {% for direction in page.direction_section %}
       <div class="mb-5 mb-sm-0 col-12 col-sm-4">
-        <div class="card shadow">
-          <img src="{{ site.cloudinary_url }}{{ direction.image.image }}" class="card-img-top img-fluid" alt="{{ direction.image.image_alt }}">
+        <div class="card text-center shadow">
+          <div class="card-img-top">
+            <div style="width:200px;display:inline-block;padding:10px">
+              <img src="{{ site.cloudinary_url }}{{ direction.image.image }}" class="img-fluid" alt="{{ direction.image.image_alt }}">
+            </div>
+          </div>
           <div class="card-body">
             <h5 class="card-title">{{ direction.title }}</h5>
             <p class="card-text">{{ direction.text_body }}</p>
@@ -15,4 +19,4 @@
       {% endfor %}
     </div>
   </div>
-</div>
+</section>

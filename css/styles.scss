@@ -1,29 +1,37 @@
 ---
 ---
-@font-face {
-  font-family: "Ostrich Sans Bold";
-  src: url("https://res.cloudinary.com/njh101010/raw/upload/v1607639644/northroad/fonts/ostrichsans-bold-webfont.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Ostrich Sans Medium";
-  src: url("https://res.cloudinary.com/njh101010/raw/upload/v1607639644/northroad/fonts/ostrichsans-medium-webfont.woff2") format("woff2");
-}
 body {
-  font-family: 'vremenagrotesk', sans-serif;
+  font-family: 'lato', sans-serif;
   font-size: 18px;
 }
-.navbar-brand {
-
+.navbar-brand .logoMPDSS{
+  padding: 0 1rem;
+  margin-bottom: 0!important;
 }
-.title-a {
-  font-family: 'Ostrich Sans Bold', sans-serif;
-  font-size: 3rem;
-  text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px;
+.logoMPDSS {
+  font-family: Fredoka One,cursive;
+  font-size: 1.75rem!important;
+  .m {
+    color: #fc4868;
+  }
+  .p {
+    color: #ff9e40;
+  }
+  .d {
+    color: #ffe44d;
+  }
+  .s {
+    color: #41d44a;
+  }
+  .s2 {
+    color: #2e36c4;
+  }
 }
-.title-b {
-  font-family: 'Ostrich Sans Medium', sans-serif;
-  font-size: 3.3rem;
-  text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px;
+.navbar {
+  border-bottom: none;
+}
+.bg-light {
+  background-color: #FDFFF7!important;
 }
 .homepageHero {
   background-color: #FDFFF7;
