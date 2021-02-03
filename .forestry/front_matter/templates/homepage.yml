@@ -39,23 +39,16 @@ fields:
     type: field_group
     config: {}
     fields:
-    - name: cta_text
+    - name: button_text
       type: text
       config:
         required: false
-      label: CTA Text
-    - name: cta_link
-      type: select
-      default: []
+      label: Button Text
+    - name: button_link
+      type: text
       config:
         required: false
-        options: []
-        source:
-          type: pages
-          section: pages
-          file: 
-          path: 
-      label: CTA Link
+      label: Button Link
     label: CTA
   - name: alignment
     type: select
