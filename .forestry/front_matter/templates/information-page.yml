@@ -12,19 +12,6 @@ fields:
 - type: text
   name: permalink
   label: Permalink
-- name: sections
-  type: field_group_list
-  fields:
-  - name: section_template
-    type: include
-    config: {}
-    template: text-section
-    label: Section Template
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Sections
 - name: page_sections
   type: blocks
   label: Page Sections
