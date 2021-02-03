@@ -24,4 +24,5 @@ fields:
     max: 
 pages:
 - about.markdown
+- parents-and-caregivers.md
 - primary-schools.md
