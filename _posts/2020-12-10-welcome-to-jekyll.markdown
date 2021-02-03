@@ -1,8 +1,13 @@
 ---
 layout: post
 title: Lots of MPDSS News
-date: 2020-12-07T16:22:06.000+00:00
+date: 2021-02-03 16:22:06 +0000
 categories: []
+tags:
+- AGM
+- News
+author: Yasmin Egonu
+hero_image: "/v1612360601/mpdss/assets/dentist-home_h6kfyb.jpg"
 
 ---
 Taciti porta consequat integer massa parturient. Etiam blandit aptent ultricies condimentum. Placerat interdum dui commodo laoreet quam metus fermentum sit. Donec dictum natoque lectus tellus dui lobortis urna. Sit sociosqu felis inceptos turpis.

@@ -5,12 +5,27 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Title
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: Hero Image
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
 - type: datetime
   name: date
-  label: date
-- type: list
-  name: categories
-  label: categories
+  label: Date
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+pages:
+- _posts/2020-12-10-welcome-to-jekyll.markdown
