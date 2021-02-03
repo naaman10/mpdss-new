@@ -24,6 +24,7 @@ fields:
   template_types:
   - text-section
   - card-section
+  - testimonial-section
   config:
     min: 
     max: 
