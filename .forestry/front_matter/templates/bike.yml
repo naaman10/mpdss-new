@@ -59,5 +59,3 @@ fields:
       required: false
     label: Image Alt
   label: Geometry
-pages:
-- _road/elara.md
