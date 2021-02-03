@@ -9,6 +9,8 @@ hero_section:
   cta:
     cta_link: []
     cta_text: I am a...
+    button_text: I am a...
+    button_link: "#featureSection"
   title: Educating children in oral health & delivering paediatric dental education
   sub-title: True Aero
   alignment: centre
