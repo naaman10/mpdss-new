@@ -1,0 +1,21 @@
+I"¯<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-2">
+        <ul class="nav flex-column">
+  
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="how-we-work">How We Work</a>
+  </li>
+  
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="our-committee">Our Committee</a>
+  </li>
+  
+</ul>
+
+      </div>
+    </div>
+  </div>
+</section>
+:ET

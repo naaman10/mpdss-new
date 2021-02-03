@@ -2,9 +2,6 @@
 layout: default
 title: About Us
 permalink: "/about"
-sections:
-- title: ''
-  section_text: ''
 page_sections:
 - template: text-section
   section_text: |-
@@ -22,7 +19,7 @@ page_sections:
   - card_title: Yasmin Egonu
     card_text: Founder and President
     card_image:
-      image: "/v1612344874/northroad/assets/100604343_3530083057008970_8820866041384009728_n_eydedx.jpg"
+      image: "/v1612344874/mpdss/assets/100604343_3530083057008970_8820866041384009728_n_eydedx.jpg"
       image_alt: Yasmin Egonu Founder and President
     button_link:
       button_text: ''
@@ -32,3 +29,16 @@ menu:
     weight: 3
 
 ---
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-2">
+        {% include _info_sections/menu_section.html %}
+      </div>
+      <div class="col-12 col-sm-10">
+        {% include _info_sections/sections.html %}
+      </div>
+    </div>
+  </div>
+</section>

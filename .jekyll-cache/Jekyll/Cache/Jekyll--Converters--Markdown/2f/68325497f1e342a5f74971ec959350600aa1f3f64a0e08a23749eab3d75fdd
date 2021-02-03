@@ -1,0 +1,25 @@
+I"ú<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-2">
+        <ul class="nav flex-column">
+  <p>Menu</p>
+  
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#how-we-work">How We Work</a>
+  </li>
+  
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#our-committee">Our Committee</a>
+  </li>
+  
+</ul>
+
+      </div>
+      <div class="col-12 col-sm-10">
+        
+      </div>
+    </div>
+  </div>
+</section>
+:ET

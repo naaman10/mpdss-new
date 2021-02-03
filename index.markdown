@@ -18,7 +18,7 @@ direction_section:
     link: ''
     link_text: Find out more
   image:
-    image: "/v1612285467/northroad/assets/undraw_graduation_ktn0_trbc5b.svg"
+    image: "/v1612285467/mpdss/assets/undraw_graduation_ktn0_trbc5b.svg"
     image_alt: Dental Students - Graduation Cap
   text_body: Our Society offers a vast range of opportunities for dental and oral
     health science students to get involved in the world of Paediatric dentistry.
@@ -28,7 +28,7 @@ direction_section:
     link: ''
     link_text: Find out more
   image:
-    image: "/v1612285539/northroad/assets/undraw_teacher_35j2_bstnvz.png"
+    image: "/v1612285539/mpdss/assets/undraw_teacher_35j2_bstnvz.png"
     image_alt: Primary School Representative - Teacher
   text_body: One of the core aims of MPDSS is to implement oral health education sessions
     within local primary schools. Click below If you would like to find out more about
@@ -38,7 +38,7 @@ direction_section:
     link: ''
     link_text: Find out more
   image:
-    image: "/v1612285574/northroad/assets/undraw_quality_time_wiyl_ds4dmw.png"
+    image: "/v1612285574/mpdss/assets/undraw_quality_time_wiyl_ds4dmw.png"
     image_alt: Parent or Caregiver - Family
   text_body: It is imperative that parents and caregivers are kept in the loop when
     it comes to their child’s oral health education. It is important that caregivers
@@ -62,7 +62,7 @@ mission_section:
     information:'
   mission_cards:
   - card_image:
-      image: "/v1612342993/northroad/assets/undraw_children_4rtb-2_mej1yc.png"
+      image: "/v1612342993/mpdss/assets/undraw_children_4rtb-2_mej1yc.png"
       image_alt: Children playing
     card_text: 'One of the core aims of our society is to deliver oral health education
       sessions to primary schools in the Manchester area. "Oral health education"
@@ -70,7 +70,7 @@ mission_section:
       to cover: what a healthy diet is, how to take care of your mouth, and what to
       expect when visiting the dentist.'
   - card_image:
-      image: "/v1612343039/northroad/assets/undraw_candidate_ubwv-2_ipc1xq.png"
+      image: "/v1612343039/mpdss/assets/undraw_candidate_ubwv-2_ipc1xq.png"
       image_alt: Speaking presenting
     card_text: Another aim of our society is to invite specialists in the field of
       paediatric dentistry to deliver talks to Manchester dental students. We find
@@ -78,7 +78,7 @@ mission_section:
       to paediatric dentistry in order to foster interest in the speciality and to
       help them become well-rounded dentists.
   - card_image:
-      image: "/v1612343064/northroad/assets/undraw_doctors_hwty_bltsf7.png"
+      image: "/v1612343064/mpdss/assets/undraw_doctors_hwty_bltsf7.png"
       image_alt: Medical students
     card_text: Being able to chart mixed dentition easily is a refined skill and dental
       students can often worry about their competency in regards to this task. - This
