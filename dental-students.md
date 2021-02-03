@@ -36,6 +36,9 @@ page_sections:
     along with the expertise and assistance of Dr. Siobhan Barry - an experienced
     paediatric consultant at the University Dental Hospital of Manchester.\n\nWe aim
     to make this course applicable to all year groups.\n\nMore information to follow!"
+menu:
+  header:
+    weight: 3
 published: false
 
 ---

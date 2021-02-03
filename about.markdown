@@ -42,7 +42,7 @@ page_sections:
       button_link: ''
 menu:
   header:
-    weight: 3
+    weight: 2
 
 ---
 <section>
