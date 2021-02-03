@@ -26,7 +26,7 @@ sections:
   create: all
 - type: heading
   label: Pages
-upload_dir: northroad/assets
+upload_dir: mpdss/assets
 public_path: ''
 front_matter_path: ''
 use_front_matter_path: 

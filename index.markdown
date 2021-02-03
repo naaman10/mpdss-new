@@ -4,7 +4,7 @@ title: Home
 permalink: "/"
 hero_section:
   image:
-    image: "/v1612284645/northroad/assets/orgtrans_eoxwhu.png"
+    image: "/v1612284645/mpdss/assets/orgtrans_eoxwhu.png"
     imageAlt: MPDSS Logo
   cta:
     cta_link: []
