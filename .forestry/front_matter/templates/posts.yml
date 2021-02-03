@@ -27,5 +27,3 @@ fields:
   type: tag_list
   default: []
   label: Tags
-pages:
-- _posts/2020-12-10-welcome-to-jekyll.markdown

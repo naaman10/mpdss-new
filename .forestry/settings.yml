@@ -7,17 +7,22 @@ sections:
 - type: heading
   label: Pages
 - type: document
-  path: index.markdown
+  path: index.md
   label: Home
 - type: document
-  path: about.markdown
+  path: about.md
   label: About Us
 - type: document
-  path: dental-students.markdown
+  path: dental-students.md
   label: Dental Students
-- type: jekyll-pages
-  label: Pages
-  create: all
+- type: document
+  path: primary-schools.md
+  label: Primary Schools
+  match: "**/*"
+- type: document
+  path: parents-and-caregivers.md
+  label: Parents and Caregivers
+  match: "**/*"
 - type: heading
   label: Blog
 - type: jekyll-posts
