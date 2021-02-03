@@ -4,9 +4,25 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Pages
+- type: document
+  path: index.markdown
+  label: Home
+  match: "**/*"
+- type: document
+  path: about.markdown
+  label: About Us
+  match: "**/*"
+- type: document
+  path: dental-students.markdown
+  label: Dental Students
+  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
+- type: heading
+  label: Blog
 - type: jekyll-posts
   label: Posts
   create: all
