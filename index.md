@@ -94,3 +94,4 @@ menu:
 {% include homepage_hero.html %}
 {% include directions.html %}
 {% include mission_section.html %}
+{% include recent_post.html %}

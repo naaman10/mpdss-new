@@ -24,7 +24,11 @@ body { font-family: 'lato', sans-serif; font-size: 18px; }
 
 .homepageHero h3 { color: #1B1B1B; box-shadow: #fc4868 -0.5rem 0px 0px; line-height: 1; padding: 0.25em; }
 
-.pageHero { width: 100vw; height: 400px; background-size: cover; background-position: bottom; display: flex; justify-content: center; align-items: center; }
+.pageHero { width: 100vw; height: 400px; background-size: cover; background-position: bottom; display: flex; justify-content: center; align-items: center; text-align: center; }
+
+.pageHero h2 { display: block; }
+
+.pageHero p { display: block; }
 
 .productDescription { background-color: #6C0406; }
 

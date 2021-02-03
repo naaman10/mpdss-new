@@ -1,9 +1,29 @@
 ---
 layout: default
 ---
+<section class="pageHero" style="background-image: url({{ site.cloudinary_url}}{{ page.hero_image }});">
+  <div class="flex-column">
+    <h2>{{ page.title }}</h2>
+    <p>{{ page.author }} | {{ page.date | date_to_long_string: "ordinal" }}</p>
+  </div>
 
-<article>
-
-  {{ content }}
-
-</article>
+</section>
+<div class="container py-5">
+  <div class="row">
+    <div class="col">
+      <article>
+        {{ content }}
+      </article>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <p>{{ page.author }} | {{ page.date | date_to_long_string: "ordinal" }}</p>
+      <ul>
+      {% for tag in page.tags %}
+        <li class="badge bg-primary rounded-pill">{{ tag }}</li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

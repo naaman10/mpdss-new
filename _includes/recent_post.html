@@ -1,0 +1,22 @@
+<section>
+
+  <div class="container my-5">
+    <div class="row">
+      <h2>Recent Posts</h2>
+      {% for post in site.posts %}
+      <div class="mb-5 mb-sm-0 col-12 col-sm-4">
+        <div class="card text-center shadow">
+          <div class="card-img-top">
+              <img src="{{ site.cloudinary_url }}{{ post.hero_image }}" class="img-fluid" alt="{{ post.title }}">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">{{ post.title }}</h5>
+            <p class="card-text">{{ post.excerpt }}</p>
+            <a class="btn btn-primary" href="{{ post.url }}">Read more</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
