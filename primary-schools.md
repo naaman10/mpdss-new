@@ -27,6 +27,9 @@ page_sections:
 
     Magnis viverra mauris est dui integer sit. Adipiscing ultrices ullamcorper scelerisque massa lobortis velit luctus purus bibendum
   title: How to get your school involved
+menu:
+  header:
+    weight: 4
 published: false
 
 ---
