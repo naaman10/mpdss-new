@@ -39,6 +39,5 @@ page_sections:
 menu:
   header:
     weight: 3
-published: false
 
 ---
