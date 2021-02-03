@@ -25,3 +25,12 @@ fields:
     max: 
     labelField: 
   label: Sections
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - text-section
+  - card-section
+  config:
+    min: 
+    max: 
