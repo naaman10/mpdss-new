@@ -6,6 +6,7 @@ fields:
   name: layout
   label: layout
   hidden: true
+  default: info-page
 - type: text
   name: title
   label: Title
@@ -23,4 +24,3 @@ fields:
     max: 
 pages:
 - about.markdown
-- dental-students.md
