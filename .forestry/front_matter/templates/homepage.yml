@@ -170,3 +170,5 @@ fields:
   label: Mission Section
   pages:
   - index.md
+pages:
+- index.md
