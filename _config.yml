@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Manchester Paediatric Dentistry Students Society
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -7,8 +7,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 cloudinary_url: https://res.cloudinary.com/njh101010/image/upload
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+facebook: jekyllrb
+twitter: jekyllrb
+instagram:  jekyll
+contactConsent: MPDSS are the data controllers of any personal data you provide to us on this form. For further information on our uses of your personal data, please see the [MPDSS Privacy Policy](/privacy-policy).
 plugins:
   - jekyll-feed
   - jekyll-menus

@@ -1,16 +1,23 @@
 ---
 layout: default
 ---
+{% include pageHero.html %}
 <section>
   <div class="container">
     <div class="row">
       <div class="col-12 col-sm-6">
-        <form class="" action="index.html" method="post">
-
+        <form name="contact" method="post" action="/contact/thanks/" data-netlify="true" data-netlify-honeypot="bot-field" class="my-5">
+          <input type="hidden" name="form-name" value="contact">
+          <div hidden=""><label>Don’t fill this out: <input name="bot-field"></label></div>
+          <div class="mb-3"><label class="form-label" for="name">Your name</label><input class="form-control" type="text" name="name" id="name" required=""></div>
+          <div class="mb-3"><label class="form-label" for="email">Email</label><input class="form-control" type="email" name="email" id="email" required=""></div>
+          <div class="mb-3"><label class="form-label" for="message">Message</label><textarea class="form-control" name="message" id="message" required=""></textarea></div>
+          <div class="small">{{ site.contactConsent | markdownify }}</div><button class="btn btn-primary"
+            type="submit">Send</button>
         </form>
       </div>
       <div class="col-12 col-sm-6">
-
+        {% include _info_sections/sections.html %}
       </div>
     </div>
   </div>

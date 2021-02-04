@@ -3,55 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="pr-lg-5 pr-xl-6 mb-5 mb-lg-0 col-lg-5">
-          <h6 class="text-dark letter-spacing-1 mb-4">Be in touch</h6>
-          <p class="text-sm mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At itaque temporibus.</p>
-          <form class="">
-            <div class="input-group-underlined mb-3 input-group"><input type="email" placeholder="Your Email Address" aria-label="Your Email Address" class="form-control-underlined form-control">
-              <div class="ml-0 input-group-append"><button class="text-gray-700 py-0 btn btn-underlined"><svg class="svg-icon w-2rem h-2rem">
-                    <use xlink:href="#envelope-1"></use>
-                  </svg></button></div>
-            </div>
-          </form>
-        </div>
-        <div class="col-lg-7">
-          <div class="row">
-            <div class="col-lg-4"><a href="javasc" class="d-lg-none block-toggler my-3">Shop<span class="block-toggler-icon"></span></a>
-              <div class="expand-lg collapse">
-                <h6 class="text-dark letter-spacing-1 mb-4 d-none d-lg-block">Shop</h6>
-                <ul class="list-unstyled text-sm pt-2 pt-lg-0">
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">For Women</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">For Men</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Stores</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Our Blog</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Shop</a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-lg-4"><a href="javasc" class="d-lg-none block-toggler my-3">Company<span class="block-toggler-icon"></span></a>
-              <div class="expand-lg collapse">
-                <h6 class="text-dark letter-spacing-1 mb-4 d-none d-lg-block">Company</h6>
-                <ul class="list-unstyled text-sm pt-2 pt-lg-0">
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Login</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Register</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Wishlist</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Our Products</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Checkouts</a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-lg-4"><a href="javasc" class="d-lg-none block-toggler my-3">Your account<span class="block-toggler-icon"></span></a>
-              <div class="expand-lg collapse">
-                <h6 class="text-dark letter-spacing-1 mb-4 d-none d-lg-block">Your account</h6>
-                <ul class="list-unstyled text-sm pt-2 pt-lg-0">
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Login</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Register</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Wishlist</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Our Products</a></li>
-                  <li class="mb-2"><a class="text-muted text-hover-dark link-animated" href="/contact#">Checkouts</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          {% include social-list.html %}
         </div>
       </div>
     </div>
@@ -60,9 +12,7 @@
     <div class="container">
       <div class="align-items-center text-sm text-gray-500 row">
         <div class="text-center text-lg-left col-lg-4">
-          <p class="mb-lg-0">©
-            <!-- -->2020
-            <!-- --> Your company. All rights reserved.</p>
+          <p class="mb-lg-0">Copyright © {{ site.title }} {{ site.time | date: "%Y" }}</p>
         </div>
         <div class="col-lg-8">
           <ul class="list-inline mb-0 mt-2 mt-md-0 text-center text-lg-right">
