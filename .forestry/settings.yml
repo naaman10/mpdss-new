@@ -28,6 +28,10 @@ sections:
 - type: document
   path: parents-and-caregivers.md
   label: Parents and Caregivers
+- type: document
+  path: contact.md
+  label: Contact
+  match: "**/*"
 - type: heading
   label: Blog
 - type: jekyll-posts
