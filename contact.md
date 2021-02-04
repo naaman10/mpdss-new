@@ -10,6 +10,8 @@ page_sections:
 
     Porta ipsum sem primis urna lobortis habitasse. Egestas posuere erat habitasse mus nisl proin mollis. Vitae quisque aptent facilisi eleifend phasellus integer semper placerat in.
 hero_image: "/v1612432091/mpdss/assets/dentistsstuff_hbjhvx.jpg"
+description: ''
+section_text: ''
 menu:
   header:
     weight: 6
