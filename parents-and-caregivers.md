@@ -28,5 +28,9 @@ page_sections:
     Magnis viverra mauris est dui integer sit. Adipiscing ultrices ullamcorper scelerisque massa lobortis velit luctus purus bibendum.
   title: Child oral health tips
 hero_image: "/v1612365809/mpdss/assets/artem-beliaikin-ojkqnmwb9m4-unsplash.jpg"
+menu:
+  header:
+    weight: 5
+    title: Parents & Caregivers
 
 ---
