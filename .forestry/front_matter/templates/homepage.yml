@@ -168,3 +168,5 @@ fields:
       labelField: 
     label: Mission Cards
   label: Mission Section
+  pages:
+  - index.md
