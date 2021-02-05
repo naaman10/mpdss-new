@@ -38,6 +38,8 @@ body { font-family: 'lato', sans-serif; font-size: 18px; }
 
 .dropdown-toggle::after { border-top: none; }
 
-.btn-primary { background-color: #fc4868; color: white; border: none; text-transform: none; font-size: 16px; }
+.btn-primary { background-color: #fc4868; color: white; border: none; text-transform: none; font-size: 16px; letter-spacing: .1em; }
+
+.btn-rounded { border-radius: 50px; padding-right: 15px; padding-left: 15px; }
 
 /*# sourceMappingURL=styles.css.map */

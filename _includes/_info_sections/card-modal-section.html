@@ -1,0 +1,44 @@
+<section id="{{ section.title | slugify }}" class="my-5">
+  <h2>{{ section.title }}</h2>
+  <p>{{ section.intro_text | markdownify }}</p>
+  <div class="row justify-content-around">
+    {% for card in section.cards %}
+      <div class="col-md-3 mb-3">
+        <div class="card">
+          <img src="{{ site.cloudinary_url }}/c_fill,g_face,h_616,w_616{{ card.card_image.image }}" class="card-img-top" alt="{{ card.card_image.image_alt }}">
+          <div class="card-body">
+            <h5 class="card-title">{{ card.card_title }}</h5>
+            <p class="card-text">{{ card.card_text }}</p>
+            <button class="btn btn-primary btn-rounded" data-bs-toggle="modal" data-bs-target="#cardModal{{ forloop.index }}">Go somewhere</button>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+  </div>
+</section>
+
+
+{% for card in section.cards %}
+<div class="modal" tabindex="-1" id="cardModal{{ forloop.index }}">
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">{{ card.modal.modal_title }}</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          {% if card.modal.modal_image.image %}
+          <div class="col-12 col-sm-4">
+            <img src="{{ site.cloudinary_url }}{{ card.modal.modal_image.image }}" alt="{{ card.modal.modal_image.image_alt }}" class="img-fluid">
+          </div>
+          {% endif %}
+          <div class="col">
+            <div>{{ card.modal.modal_text | markdownify }}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}

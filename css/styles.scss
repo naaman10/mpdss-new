@@ -91,4 +91,10 @@ body {
   border: none;
   text-transform: none;
   font-size: 16px;
+  letter-spacing: .1em;
+}
+.btn-rounded {
+  border-radius: 50px;
+  padding-right: 15px;
+  padding-left: 15px;
 }
