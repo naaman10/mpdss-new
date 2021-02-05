@@ -71,6 +71,51 @@ fields:
         schema:
           format: markdown
       label: Modal Text
+    - name: modal_image
+      type: field_group
+      config: {}
+      fields:
+      - name: image
+        type: file
+        config:
+          maxSize: 64
+        label: Image
+      - name: image_alt
+        type: text
+        config:
+          required: false
+        label: Image Alt
+      label: Modal Image
+    - name: links
+      type: field_group_list
+      fields:
+      - name: link_type
+        type: select
+        default: []
+        config:
+          required: false
+          options:
+          - Web Link
+          - Instagram
+          - Facebook
+          - Twitter
+          - LinkedIn
+          source:
+            type: simple
+            section: 
+            file: 
+            path: 
+        label: Link Type
+      - name: link_url
+        type: text
+        config:
+          required: true
+        label: Link Url
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: Links
     label: Modal
   config:
     min: 
