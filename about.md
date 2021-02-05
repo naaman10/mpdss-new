@@ -32,6 +32,12 @@ page_sections:
         I am committed to preventative dentistry and improving the oral health of students in the Manchester area. In particular, I have wanted to focus on educating primary school students from lower socioeconomic backgrounds. I also have the aim of being able to open up the world of paediatric dentistry to any dental student at my University who is interested in learning more.
 
         I am thoroughly excited to see where we can take this society and I look forward to leading the committee.
+      modal_image:
+        image: "/v1612344874/mpdss/assets/100604343_3530083057008970_8820866041384009728_n_eydedx.jpg"
+        image_alt: Yasmin Egonu Founder & President
+      links:
+      - link_url: https://www.instagram.com/odontodoodles/
+        link_type: Instagram
   - card_title: Hadiya Begum
     card_text: Secretary
     card_image:
@@ -45,6 +51,10 @@ page_sections:
         all ideas and plans are noted down. I’m really looking forward to being a
         part of the MPDSS and I can’t wait to work with the children and also the
         other members of the committee!
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
   - card_title: Summa Baines
     card_text: Treasurer
     card_image:
@@ -63,6 +73,10 @@ page_sections:
         work with local primary schools. \n\nI am committed to ensuring all our hosted
         events are of great value to both fellow dental students as well as the wider
         Manchester community."
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
 - template: testimonial-section
   title: School Testimonials
   section_text: |-
