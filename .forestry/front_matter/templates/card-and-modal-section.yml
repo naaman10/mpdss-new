@@ -1,4 +1,79 @@
 ---
 label: Card and Modal Section
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: intro_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Intro Text
+- name: cards
+  type: field_group_list
+  fields:
+  - name: card_title
+    type: text
+    config:
+      required: false
+    label: Card Title
+  - name: card_text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Card Text
+  - name: card_image
+    type: field_group
+    config: {}
+    fields:
+    - name: image
+      type: file
+      config:
+        maxSize: 64
+      label: Image
+    - name: image_alt
+      type: text
+      config:
+        required: false
+      label: Image Alt
+    label: Card Image
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button Text
+  - name: modal
+    type: field_group
+    config: {}
+    fields:
+    - name: modal_title
+      type: text
+      config:
+        required: false
+      label: Modal Title
+    - name: modal_text
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: markdown
+      label: Modal Text
+    label: Modal
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Cards
