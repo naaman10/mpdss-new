@@ -5,15 +5,23 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: contact
 - type: text
   name: title
-  label: title
+  label: Title
+- type: text
+  name: description
+  label: Description
 - type: text
   name: permalink
-  label: permalink
+  label: Permalink
+- type: file
+  name: hero_image
+  label: Hero Image
 - type: field_group_list
   name: page_sections
-  label: page_sections
+  label: Page Sections
   fields:
   - type: text
     name: template
@@ -24,9 +32,3 @@ fields:
   - type: textarea
     name: section_text
     label: section_text
-- type: file
-  name: hero_image
-  label: hero_image
-- type: text
-  name: description
-  label: description
