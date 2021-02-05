@@ -63,6 +63,37 @@ page_sections:
         I am committed to preventative dentistry and improving the oral health of students in the Manchester area. In particular, I have wanted to focus on educating primary school students from lower socioeconomic backgrounds. I also have the aim of being able to open up the world of paediatric dentistry to any dental student at my University who is interested in learning more.
 
         I am thoroughly excited to see where we can take this society and I look forward to leading the committee.
+  - card_title: Hadiya Begum
+    card_text: Secretary
+    card_image:
+      image: "/v1591429503/mpdss/assets/hadiya.jpg"
+      image_alt: Hadiya Begum Secretary
+    button_text: Learn more
+    modal:
+      modal_title: Hadiya Begum Secretary
+      modal_text: Hi everyone! My name is Hadiya and I’m the secretary for the MPDSS.
+        As the secretary, my role will be to take minutes at meetings and ensure that
+        all ideas and plans are noted down. I’m really looking forward to being a
+        part of the MPDSS and I can’t wait to work with the children and also the
+        other members of the committee!
+  - card_title: Summa Baines
+    card_text: Treasurer
+    card_image:
+      image: "/v1591429503/mpdss/assets/summa.jpg"
+      image_alt: Summa Baines Treasurer
+    button_text: Learn more
+    modal:
+      modal_title: Summa Baines Treasurer
+      modal_text: "Hello! My name is Summa Bains and I am a second year dental student
+        at the University of Manchester. \n\nAs treasurer for MPDSS, I am responsible
+        for overseeing the financial affairs of the society, exercising fiduciary
+        duties along with my fellow founding members to ensure the sustainability
+        of MPDSS. \n\nI am very excited and honoured to work with the committee in
+        establishing the foundations of this new society, and equally keen to raise
+        oral health standards amongst children through our campaigning and outreach
+        work with local primary schools. \n\nI am committed to ensuring all our hosted
+        events are of great value to both fellow dental students as well as the wider
+        Manchester community."
 - template: testimonial-section
   title: School Testimonials
   section_text: |-
