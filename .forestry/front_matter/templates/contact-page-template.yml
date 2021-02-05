@@ -1,0 +1,32 @@
+---
+label: Contact Page Template
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: field_group_list
+  name: page_sections
+  label: page_sections
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: section_text
+    label: section_text
+- type: file
+  name: hero_image
+  label: hero_image
+- type: text
+  name: description
+  label: description
