@@ -76,14 +76,14 @@
     <div class="row">
       <div class="col-12 col-sm-6">
         <form name="contact" method="post" action="/contact/thanks/" data-netlify="true" data-netlify-honeypot="bot-field" class="my-5">
-          <input type="hidden" name="form-name" value="contact">
+          <input type="hidden" name="form-name" value="Contact">
           <div hidden=""><label>Don’t fill this out: <input name="bot-field"></label></div>
           <div class="mb-3"><label class="form-label" for="name">Your name</label><input class="form-control" type="text" name="name" id="name" required=""></div>
           <div class="mb-3"><label class="form-label" for="email">Email</label><input class="form-control" type="email" name="email" id="email" required=""></div>
           <div class="mb-3"><label class="form-label" for="message">Message</label><textarea class="form-control" name="message" id="message" required=""></textarea></div>
-          <div class="small"><p>MPDSS are the data controllers of any personal data you provide to us on this form. For further information on our uses of your personal data, please see the <a href="/privacy-policy">MPDSS Privacy Policy</a>.</p>
-</div><button class="btn btn-primary"
-            type="submit">Send</button>
+          <div class="small"><label for="Consent"><p>MPDSS are the data controllers of any personal data you provide to us on this form. For further information on our uses of your personal data, please see the <a href="/privacy-policy">MPDSS Privacy Policy</a>.</p>
+</label><input type="hidden" name="Consent"></div>
+          <button class="btn btn-primary btn-rounded" type="submit">Send</button>
         </form>
       </div>
       <div class="col-12 col-sm-6">

@@ -9,7 +9,7 @@
           <div class="card-body">
             <h5 class="card-title">{{ card.card_title }}</h5>
             <p class="card-text">{{ card.card_text }}</p>
-            <button class="btn btn-primary btn-rounded" data-bs-toggle="modal" data-bs-target="#cardModal{{ forloop.index }}">Go somewhere</button>
+            <button class="btn btn-primary btn-rounded" data-bs-toggle="modal" data-bs-target="#cardModal{{ forloop.index }}">{{ card.button_text}}</button>
           </div>
         </div>
       </div>
@@ -28,13 +28,30 @@
       </div>
       <div class="modal-body">
         <div class="row">
-          {% if card.modal.modal_image.image %}
+          {% if card.modal.modal_image.image != "" %}
           <div class="col-12 col-sm-4">
             <img src="{{ site.cloudinary_url }}{{ card.modal.modal_image.image }}" alt="{{ card.modal.modal_image.image_alt }}" class="img-fluid">
           </div>
           {% endif %}
           <div class="col">
             <div>{{ card.modal.modal_text | markdownify }}</div>
+          {% if card.modal.links != "" %}
+            <ul class="modal-links mb-3">
+              {% for link in card.modal.links %}
+                {% if link.link_type == "Web Link" %}
+                <li class="modal-links-item"><a href="{{ link.link_url }}" target="_blank"><i class="fas fa-external-link-alt"></i></a></li>
+                  {% elsif link.link_type == "Facebook" %}
+                <li class="modal-links-item"><a href="{{ link.link_url }}" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
+                  {% elsif link.link_type == "Twitter" %}
+                <li class="modal-links-item"><a href="{{ link.link_url }}" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+                  {% elsif link.link_type == "Instagram" %}
+                <li class="modal-links-item"><a href="{{ link.link_url }}" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                  {% elsif link.link_type == "LinkedIn" %}
+                <li class="modal-links-item"><a href="{{ link.link_url }}" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                {% endif %}
+              {% endfor %}
+              </ul>
+          {% endif %}
           </div>
         </div>
       </div>

@@ -1,4 +1,4 @@
-I"<section class="homepageHero">
+I"W<section class="homepageHero">
   <div class="container">
     <div class="row">
       <div class="col">
@@ -6,9 +6,10 @@
         
         <div class="col-xs-12 justify-content-center text-center align-items-center text-white">
           <img src="https://res.cloudinary.com/njh101010/image/upload/v1612284645/mpdss/assets/orgtrans_eoxwhu.png" alt="" class="img-fluid" width="300" />
-          <h3>Educating children in oral health &amp; delivering paediatric dental education</h3>
-          <!-- body -->
-          <a href="#featureSection" class="btn btn-light btn-rounded">I am a...</a>
+          <div class="text-left mt-5">
+            <h3>Educating children in oral health &amp; delivering paediatric dental education</h3>
+          </div>
+          <a href="#featureSection" class="btn btn-light btn-rounded my-4 shadow">I am a...</a>
         </div>
         
         </div>
@@ -143,7 +144,7 @@
             <h5 class="card-title">Lots of MPDSS News</h5>
             <p class="card-text"><p>Taciti porta consequat integer massa parturient. Etiam blandit aptent ultricies condimentum. Placerat interdum dui commodo laoreet quam metus fermentum sit. Donec dictum natoque lectus tellus dui lobortis urna. Sit sociosqu felis inceptos turpis.</p>
 </p>
-            <a class="btn btn-primary" href="/2021/02/03/lots-of-mpdss-news.html">Read more</a>
+            <a class="btn btn-primary btn-rounded" href="/2021/02/03/lots-of-mpdss-news.html">Read more</a>
           </div>
         </div>
       </div>

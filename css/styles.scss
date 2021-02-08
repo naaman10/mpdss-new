@@ -30,6 +30,9 @@ body {
 .navbar {
   border-bottom: none;
 }
+.navbar-toggler:focus {
+  box-shadow: none;
+}
 .bg-light {
   background-color: #FDFFF7!important;
 }
@@ -85,16 +88,40 @@ body {
 .dropdown-toggle::after {
   border-top: none;
 }
+a {
+  color: #fc4868;
+}
+a:hover {
+  color: #fc4868;
+  text-decoration: underline;
+}
+.form-control:focus {
+  border-color: #fc4868;
+}
 .btn-primary {
   background-color: #fc4868;
   color: white;
-  border: none;
+  border: solid 2px #fc4868;
+}
+.btn {
   text-transform: none;
   font-size: 16px;
   letter-spacing: .1em;
+}
+.btn-primary:hover {
+  background-color: white;
+  color: #fc4868;
+  border: solid 2px #fc4868;
 }
 .btn-rounded {
   border-radius: 50px;
   padding-right: 15px;
   padding-left: 15px;
+}
+.modal-links {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  font-size: 38px;
+  padding-left: 0;
 }

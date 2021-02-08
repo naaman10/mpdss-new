@@ -38,6 +38,8 @@ page_sections:
       links:
       - link_url: https://www.instagram.com/odontodoodles/
         link_type: Instagram
+      - link_url: https://www.instagram.com/odontodoodles/
+        link_type: Facebook
   - card_title: Hadiya Begum
     card_text: Secretary
     card_image:
