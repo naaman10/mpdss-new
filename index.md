@@ -15,16 +15,14 @@ hero_section:
   sub-title: True Aero
   alignment: centre
 direction_section:
-- title: Dental Student
+- title: Manchester Paedistric Dentistry Student Society
   link:
     link: ''
     link_text: Find out more
   image:
     image: "/v1612285467/mpdss/assets/undraw_graduation_ktn0_trbc5b.svg"
     image_alt: Dental Students - Graduation Cap
-  text_body: Our Society offers a vast range of opportunities for dental and oral
-    health science students to get involved in the world of Paediatric dentistry.
-    Click below to find out more about the opportunities open to you.
+  text_body: MPDSS was set up in 2020, with the ai
 - title: Primary School Representative
   link:
     link: ''
@@ -86,6 +84,7 @@ mission_section:
       students can often worry about their competency in regards to this task. - This
       is why our society aims to create and deliver a mixed dentition course to dental
       students (of all year groups) at the University of Manchester.
+description: ''
 menu:
   header:
     weight: 1
