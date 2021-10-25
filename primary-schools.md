@@ -51,6 +51,14 @@ page_sections:
     health. It will provide the opportunity of volunteers to ask what the children
     have learnt"
   title: 'Station details:'
+- template: text-section
+  title: COVID Safety
+  section_text: "All of our sessions are run in compliance with governmental guidelines.
+    Regardless of mask mandates, all our volunteers and committee helpers will continue
+    to always wear mask during our sessions.  \n   \n We are equipped with spare masks,
+    hand sanitisers, and disinfectant products to ensure that our stations remain
+    clean and safe for the children. We possess up-to-date risk assessment forms,
+    of which we provide to all primary schools.   \n "
 hero_image: "/v1612365805/mpdss/assets/jess-bailey-l3n9q27zulw-unsplash.jpg"
 menu:
   header:
