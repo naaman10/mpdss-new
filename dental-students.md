@@ -4,11 +4,10 @@ title: Dental Students
 permalink: "/dental-students"
 page_sections:
 - template: text-section
-  title: Opportunities for students
-  section_text: |-
-    We offer a range of events and opportunities for Manchester dental and oral health science students. We hope to share our passion for paediatric dentistry with as many students as possible!
-
-    Scroll down to read more about how you can get involved with our society!
+  title: Want to volunteer with us?
+  section_text: In order to volunteer with us, you must be a student on the BDS Dentistry
+    or BSc Oral Health Sciences course at the University of Manchester. You must possess
+    an advanced DBS check (of which we verify with the University).
 - template: text-section
   title: Becoming a volunteer
   section_text: |-
