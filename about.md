@@ -5,10 +5,18 @@ permalink: "/about"
 page_sections:
 - template: text-section
   section_text: |-
-    Our committee have worked tirelessly over the Summer to coordinate primary school sessions and events which are carefully designed with our target audience in mind. We have also collaborated with specialists within the relevant dental fields to create these events.
+    MPDSS was set up in 2020, with the aim of improving the oral health of children in the Manchester area. Over the years, the society has evolved to provide a range of events for dental students, as well as setting up the first ever podcast dedicated to paediatric dentistry!
 
-    Various members of our committee contact schools and speakers directly in order to arrange educational sessions with them, however, we also welcome approach from schools and speakers that/who are interested in getting involved with our society.
-  title: How We Work
+    MPDSS has worked hard to provide oral health education sessions to key stage 1 pupils. Specifically, we target our sessions towards schools with high intakes of children from disadvantaged backgrounds. According the GMCA "more than 1 in 3 five year-olds across Greater Manchester experience tooth decay- well above the England national average of 25%". It is the main aim of the MPDSS to help tackle childhood dental decay and reduce the need for preventable surgeries and extractions.
+
+    We look forwards to providing our primary school sessions in the 21/22 academic year. Our projects are supported by the University of Manchester Student Union and 'Access All Areas' project.
+
+    For more information about us, scroll through the website or contact us via:
+
+    @MPDSSOC on social media
+
+    mpdss.uom@gmail.com
+  title: Manchester Paediatric Dentistry Student Society
 - template: card-and-modal-section
   title: Our Committee
   intro_text: |-
