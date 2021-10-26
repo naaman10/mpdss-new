@@ -1,0 +1,16 @@
+---
+label: Podcasts
+hide_body: true
+fields:
+- type: text
+  name: name
+  label: name
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: category
+  label: category
+- type: text
+  name: podcast_description
+  label: podcast_description
