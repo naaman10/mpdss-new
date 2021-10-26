@@ -24,5 +24,9 @@ page_sections:
     button_link:
       button_text: Listen to episode
       button_link: "/#"
+menu:
+  header:
+    weight: 6
+    title: Podcast
 
 ---
