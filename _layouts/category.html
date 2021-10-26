@@ -3,13 +3,19 @@ layout: default
 ---
 {% include pageHero.html %}
 
-
-<section class="container">
+{% if page.page_intro %}
+  <section class="container my-5">
+    <div class="row">
+      <p>{{ page.page_intro | markdownify }}</p>
+    </div>
+  </section>
+  {% endif %}
+<section class="container my-5">
   <div class="row">
     {% for post in site.categories.Podcasts %}
     <div class="col-md-3">
       <div class="card">
-        <img src="{{ site.cloudinary_url }}/c_fill,g_face,h_616,w_616{{ card.card_image.image }}" class="card-img-top" alt="{{ card.card_image.image_alt }}">
+        <img src="{{ site.cloudinary_url }}/c_fill,h_616,w_616{{ post.podcast_image.image }}" class="card-img-top" alt="{{ post.podcast_image.image_alt }}">
         <div class="card-body">
           <h5 class="card-title">{{ post.title }}</h5>
           <p class="card-text">{{ post.podcast_description | truncatewords: 8 }}</p>
