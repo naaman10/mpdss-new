@@ -4,13 +4,38 @@ hide_body: true
 fields:
 - type: text
   name: name
-  label: name
+  label: Name
 - type: text
   name: layout
   label: layout
+  default: Podcasts
+  hidden: true
 - type: text
   name: category
   label: category
-- type: text
-  name: podcast_description
-  label: podcast_description
+  default: Podcast
+  hidden: true
+- name: podcast_image
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: image_alt
+    type: text
+    config:
+      required: false
+    label: Image Alt Text
+  label: Podcast Image
+- name: podcast_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Podcast Description
