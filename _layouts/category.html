@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% include pageHero.html %}
+
+
+<section class="container">
+  <div class="row">
+    {% for post in site.categories.Podcasts %}
+    <div class="col-md-3">
+      <div class="card">
+        <img src="{{ site.cloudinary_url }}/c_fill,g_face,h_616,w_616{{ card.card_image.image }}" class="card-img-top" alt="{{ card.card_image.image_alt }}">
+        <div class="card-body">
+          <h5 class="card-title">{{ post.title }}</h5>
+          <p class="card-text">{{ post.podcast_description | truncatewords: 8 }}</p>
+          <a href="{{ site.github.url }}{{ post.url }}" class="btn btn-primary btn-rounded">View Episode</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+</section>
