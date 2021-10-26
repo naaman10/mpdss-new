@@ -39,3 +39,8 @@ fields:
     schema:
       format: markdown
   label: Podcast Description
+- name: podcast_url
+  type: text
+  config:
+    required: false
+  label: Podcast Url
