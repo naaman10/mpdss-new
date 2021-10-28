@@ -24,10 +24,10 @@ page_sections:
 
     Please see our committee below and discover our individual roles:
   cards:
-  - card_title: Sabina Rahman (BDS4)
-    card_text: Events co-ordinator
+  - card_title: Yasmin Egonu (BDS 3)
+    card_text: Founder and President
     card_image:
-      image: "/v1635436843/mpdss/assets/sabina_fv4d4v.png"
+      image: "/v1635435371/mpdss/assets/Yaz_tqnhdn.png"
       image_alt: ''
     button_text: ''
     modal:
@@ -37,10 +37,71 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Rachel Lee (BDS 2)
-    card_text: School Liaison Officer
+  - card_title: Summa Bains (BDS 3)
+    card_text: Vice president
     card_image:
-      image: "/v1635436176/mpdss/assets/girl_qsucpj.png"
+      image: "/v1635435406/mpdss/assets/summa_z1vej2.png"
+      image_alt: Summa Baines Vice President
+    button_text: Learn more
+    modal:
+      modal_title: Summa Baines Treasurer
+      modal_text: "Hello! My name is Summa Bains and I am a second year dental student
+        at the University of Manchester. \n\nAs treasurer for MPDSS, I am responsible
+        for overseeing the financial affairs of the society, exercising fiduciary
+        duties along with my fellow founding members to ensure the sustainability
+        of MPDSS. \n\nI am very excited and honoured to work with the committee in
+        establishing the foundations of this new society, and equally keen to raise
+        oral health standards amongst children through our campaigning and outreach
+        work with local primary schools. \n\nI am committed to ensuring all our hosted
+        events are of great value to both fellow dental students as well as the wider
+        Manchester community."
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Hafsa Quasim (BDS3)
+    card_text: 'Secretary '
+    card_image:
+      image: "/v1635435699/mpdss/assets/hafsa_ssnkk6.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Bilal Sheraz (BDS 2)
+    card_text: Treasurer
+    card_image:
+      image: "/v1635435425/mpdss/assets/bilal_bjjjlu.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Atifah Abdullahi (BDS 5)
+    card_text: Sponsorship Co-ordinator
+    card_image:
+      image: ''
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Sabina Rahman (BDS 4)
+    card_text: Events co-ordinator
+    card_image:
+      image: "/v1635436843/mpdss/assets/sabina_fv4d4v.png"
       image_alt: ''
     button_text: ''
     modal:
@@ -63,10 +124,10 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Chloe Russel-Williams (BDS 2)
-    card_text: Podcast Co-Host
+  - card_title: Rachel Lee (BDS 2)
+    card_text: School Liaison Officer
     card_image:
-      image: "/v1635436397/mpdss/assets/chloe_hahmay.png"
+      image: "/v1635436176/mpdss/assets/girl_qsucpj.png"
       image_alt: ''
     button_text: ''
     modal:
@@ -76,23 +137,10 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Mia Richardson (BDS2)
-    card_text: Social media officer
+  - card_title: Darcie Ward-Harrop (BDS 4)
+    card_text: School Liaison Officer
     card_image:
-      image: "/v1635436353/mpdss/assets/mia_zheel1.png"
-      image_alt: ''
-    button_text: ''
-    modal:
-      modal_title: ''
-      modal_text: ''
-      modal_image:
-        image: ''
-        image_alt: ''
-      links: []
-  - card_title: Chantelle Gunter (BDS 3)
-    card_text: Inclusion Officer and Website Designer
-    card_image:
-      image: "/v1635435886/mpdss/assets/chantelle_cqpj67.png"
+      image: "/v1635435527/mpdss/assets/darcy_d1blsp.png"
       image_alt: ''
     button_text: ''
     modal:
@@ -115,7 +163,7 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Hadiya Begum (BDS3)
+  - card_title: Hadiya Begum (BDS 3)
     card_text: Volunteering Officer
     card_image:
       image: "/v1635435792/mpdss/assets/hadiya_bdzrdn.png"
@@ -128,10 +176,10 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Hafsa Quasim (BDS3)
-    card_text: 'Secretary '
+  - card_title: Mia Richardson (BDS 2)
+    card_text: Social media officer
     card_image:
-      image: "/v1635435699/mpdss/assets/hafsa_ssnkk6.png"
+      image: "/v1635436353/mpdss/assets/mia_zheel1.png"
       image_alt: ''
     button_text: ''
     modal:
@@ -141,10 +189,10 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Yasmin Egonu
-    card_text: Founder and President
+  - card_title: Chloe Russel-Williams (BDS 2)
+    card_text: Podcast Co-Host
     card_image:
-      image: "/v1635435371/mpdss/assets/Yaz_tqnhdn.png"
+      image: "/v1635436397/mpdss/assets/chloe_hahmay.png"
       image_alt: ''
     button_text: ''
     modal:
@@ -154,45 +202,10 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Summa Bains
-    card_text: Vice president
+  - card_title: Chantelle Gunter (BDS 3)
+    card_text: Inclusion Officer and Website Designer
     card_image:
-      image: "/v1635435406/mpdss/assets/summa_z1vej2.png"
-      image_alt: Summa Baines Vice President
-    button_text: Learn more
-    modal:
-      modal_title: Summa Baines Treasurer
-      modal_text: "Hello! My name is Summa Bains and I am a second year dental student
-        at the University of Manchester. \n\nAs treasurer for MPDSS, I am responsible
-        for overseeing the financial affairs of the society, exercising fiduciary
-        duties along with my fellow founding members to ensure the sustainability
-        of MPDSS. \n\nI am very excited and honoured to work with the committee in
-        establishing the foundations of this new society, and equally keen to raise
-        oral health standards amongst children through our campaigning and outreach
-        work with local primary schools. \n\nI am committed to ensuring all our hosted
-        events are of great value to both fellow dental students as well as the wider
-        Manchester community."
-      modal_image:
-        image: ''
-        image_alt: ''
-      links: []
-  - card_title: Bilal Sheraz
-    card_text: Treasurer
-    card_image:
-      image: "/v1635435425/mpdss/assets/bilal_bjjjlu.png"
-      image_alt: ''
-    button_text: ''
-    modal:
-      modal_title: ''
-      modal_text: ''
-      modal_image:
-        image: ''
-        image_alt: ''
-      links: []
-  - card_title: Darcie Ward-Harrop
-    card_text: ''
-    card_image:
-      image: "/v1635435527/mpdss/assets/darcy_d1blsp.png"
+      image: "/v1635435886/mpdss/assets/chantelle_cqpj67.png"
       image_alt: ''
     button_text: ''
     modal:
