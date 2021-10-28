@@ -8,7 +8,7 @@ podcast_description: |-
   Lorem sed risus ultricies tristique nulla aliquet enim tortor. Pellentesque id nibh tortor id aliquet lectus proin. Tempor orci dapibus ultrices in iaculis nunc. Et magnis dis parturient montes nascetur ridiculus. Bibendum neque egestas congue quisque. Sed adipiscing diam donec adipiscing tristique risus. Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. Quam quisque id diam vel quam. A iaculis at erat pellentesque adipiscing commodo. Lorem mollis aliquam ut porttitor. Luctus accumsan tortor posuere ac ut consequat semper viverra nam. Neque sodales ut etiam sit amet nisl purus in. Lectus quam id leo in vitae turpis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis. Vitae aliquet nec ullamcorper sit. Eu volutpat odio facilisis mauris sit. Vel pharetra vel turpis nunc eget lorem dolor sed viverra. Ipsum dolor sit amet consectetur adipiscing elit. Egestas congue quisque egestas diam in arcu cursus. Et molestie ac feugiat sed lectus.
 podcast_image:
   image: ''
-  image_alt: ''
+  image_alt: Podcast Episode 1
 podcast_url: ''
 
 ---
