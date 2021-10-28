@@ -194,9 +194,9 @@ page_sections:
       links: []
   - card_title: Darcie Ward-Harrop
     card_text: |-
-      (BDS 4)
+      #### (BDS 4)
 
-      School Liaison Officer
+      #### School Liaison Officer
     card_image:
       image: "/v1635435527/mpdss/assets/darcy_d1blsp.png"
       image_alt: ''
