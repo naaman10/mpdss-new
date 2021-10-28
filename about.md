@@ -24,6 +24,58 @@ page_sections:
 
     Please see our committee below and discover our individual roles:
   cards:
+  - card_title: Sabina Rahman (BDS4)
+    card_text: Events co-ordinator
+    card_image:
+      image: "/v1635436843/mpdss/assets/sabina_fv4d4v.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Rachel Lee (BDS 2)
+    card_text: School Liaison Officer
+    card_image:
+      image: "/v1635436176/mpdss/assets/girl_qsucpj.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Amber Ahmed (BDS 5)
+    card_text: Events Co-ordinator
+    card_image:
+      image: "/v1635436166/mpdss/assets/girl_2_j4p9ay.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Chloe Russel-Williams (BDS 2)
+    card_text: Podcast Co-Host
+    card_image:
+      image: "/v1635436397/mpdss/assets/chloe_hahmay.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
   - card_title: Mia Richardson (BDS2)
     card_text: Social media officer
     card_image:
