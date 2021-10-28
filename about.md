@@ -27,7 +27,7 @@ page_sections:
   - card_title: Chantelle Gunter (BDS 3)
     card_text: Inclusion Officer and Website Designer
     card_image:
-      image: ''
+      image: "/v1635435886/mpdss/assets/chantelle_cqpj67.png"
       image_alt: ''
     button_text: ''
     modal:
