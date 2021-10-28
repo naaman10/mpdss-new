@@ -25,6 +25,19 @@ page_sections:
     Please see our committee below and discover our individual roles:
   cards:
   - card_title: Yasmin Egonu
+    card_text: ''
+    card_image:
+      image: "/v1635428810/mpdss/assets/yasmin_circle_uheu5f.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Yasmin Egonu
     card_text: Founder and President
     card_image:
       image: "/v1612344874/mpdss/assets/100604343_3530083057008970_8820866041384009728_n_eydedx.jpg"
