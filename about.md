@@ -146,10 +146,15 @@ page_sections:
     card_image:
       image: "/v1635436176/mpdss/assets/girl_qsucpj.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: |-
+        Hi everyone! My name is Rachel and I am one half of the School Liaison Officer Team.
+
+        My role within MPDSS will involve working with primary schools to coordinate visits, where we will deliver fun and engaging activities to educate children about their oral health.
+
+        I am incredibly excited to build these connections between the society and our local community and look forward to seeing the impact our work will have within the schools and for the children we will be working with.
       modal_image:
         image: ''
         image_alt: ''
