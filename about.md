@@ -55,10 +55,10 @@ page_sections:
         image_alt: ''
       links: []
   - card_title: Summa Baines
-    card_text: Treasurer
+    card_text: Vice president
     card_image:
-      image: "/v1591429503/mpdss/assets/summa.jpg"
-      image_alt: Summa Baines Treasurer
+      image: "/v1635429205/mpdss/assets/summa_circle_ve1ada.png"
+      image_alt: Summa Baines Vice President
     button_text: Learn more
     modal:
       modal_title: Summa Baines Treasurer
