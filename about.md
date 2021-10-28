@@ -24,8 +24,11 @@ page_sections:
 
     Please see our committee below and discover our individual roles:
   cards:
-  - card_title: Yasmin Egonu (BDS 3)
-    card_text: Founder and President
+  - card_title: Yasmin Egonu
+    card_text: |-
+      (BDS 3)
+
+      Founder and President
     card_image:
       image: "/v1635435371/mpdss/assets/Yaz_tqnhdn.png"
       image_alt: ''
@@ -46,8 +49,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Summa Bains (BDS 3)
-    card_text: Vice president
+  - card_title: Summa Bains
+    card_text: |-
+      (BDS 3)
+
+      Vice president
     card_image:
       image: "/v1635435406/mpdss/assets/summa_z1vej2.png"
       image_alt: Summa Baines Vice President
@@ -62,8 +68,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Hafsa Quasim (BDS3)
-    card_text: 'Secretary '
+  - card_title: Hafsa Quasim
+    card_text: |-
+      (BDS 3)
+
+      Secretary
     card_image:
       image: "/v1635435699/mpdss/assets/hafsa_ssnkk6.png"
       image_alt: ''
@@ -80,8 +89,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Bilal Sheraz (BDS 2)
-    card_text: Treasurer
+  - card_title: Bilal Sheraz
+    card_text: |-
+      (BDS 2)
+
+      Treasurer
     card_image:
       image: "/v1635435425/mpdss/assets/bilal_bjjjlu.png"
       image_alt: ''
@@ -100,8 +112,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Atifah Abdullahi (BDS 5)
-    card_text: Sponsorship Co-ordinator
+  - card_title: Atifah Abdullahi
+    card_text: |-
+      (BDS 5)
+
+      Sponsorship Co-ordinator
     card_image:
       image: "/v1635437486/mpdss/assets/girl_3_sfy8py.png"
       image_alt: ''
@@ -117,8 +132,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Sabina Rahman (BDS 4)
-    card_text: Events co-ordinator
+  - card_title: Sabina Rahman
+    card_text: |-
+      (BDS 4)
+
+      Events co-ordinator
     card_image:
       image: "/v1635436843/mpdss/assets/sabina_fv4d4v.png"
       image_alt: ''
@@ -132,8 +150,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Amber Ahmed (BDS 5)
-    card_text: Events Co-ordinator
+  - card_title: Amber Ahmed
+    card_text: |-
+      (BDS 5)
+
+      Events Co-ordinator
     card_image:
       image: "/v1635436166/mpdss/assets/girl_2_j4p9ay.png"
       image_alt: ''
@@ -150,8 +171,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Rachel Lee (BDS 2)
-    card_text: School Liaison Officer
+  - card_title: Rachel Lee
+    card_text: |-
+      (BDS 2)
+
+      School Liaison Officer
     card_image:
       image: "/v1635436176/mpdss/assets/girl_qsucpj.png"
       image_alt: ''
@@ -168,8 +192,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Darcie Ward-Harrop (BDS 4)
-    card_text: School Liaison Officer
+  - card_title: Darcie Ward-Harrop
+    card_text: |-
+      (BDS 4)
+
+      School Liaison Officer
     card_image:
       image: "/v1635435527/mpdss/assets/darcy_d1blsp.png"
       image_alt: ''
@@ -185,8 +212,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Reuben Arnold (BDS 5)
-    card_text: Volunteering Officer
+  - card_title: Reuben Arnold
+    card_text: |-
+      (BDS 5)
+
+      Volunteering Officer
     card_image:
       image: "/v1635435827/mpdss/assets/reuban_oiddyd.png"
       image_alt: ''
@@ -203,8 +233,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Hadiya Begum (BDS 3)
-    card_text: Volunteering Officer
+  - card_title: Hadiya Begum
+    card_text: |-
+      (BDS 3)
+
+      Volunteering Officer
     card_image:
       image: "/v1635435792/mpdss/assets/hadiya_bdzrdn.png"
       image_alt: ''
@@ -220,8 +253,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Mia Richardson (BDS 2)
-    card_text: Social media officer
+  - card_title: Mia Richardson
+    card_text: |-
+      (BDS 2)
+
+      Social media officer
     card_image:
       image: "/v1635436353/mpdss/assets/mia_zheel1.png"
       image_alt: ''
@@ -236,8 +272,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Chloe Russel-Williams (BDS 2)
-    card_text: Podcast Co-Host
+  - card_title: Chloe Russel-Williams
+    card_text: |-
+      (BDS 2)
+
+      Podcast Co-Host
     card_image:
       image: "/v1635436397/mpdss/assets/chloe_hahmay.png"
       image_alt: ''
@@ -253,8 +292,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Chantelle Gunter (BDS 3)
-    card_text: Inclusion Officer and Website Designer
+  - card_title: Chantelle Gunter
+    card_text: |-
+      (BDS 3)
+
+      Inclusion Officer and Website Designer
     card_image:
       image: "/v1635435886/mpdss/assets/chantelle_cqpj67.png"
       image_alt: ''
@@ -271,8 +313,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Sarah-Jade Akintomide (BDS 1)
-    card_text: First year student representative
+  - card_title: Sarah-Jade Akintomide
+    card_text: |-
+      (BDS 1)
+
+      First year student representative
     card_image:
       image: "/v1635437966/mpdss/assets/sarah_jade_qyb7zz.png"
       image_alt: ''
