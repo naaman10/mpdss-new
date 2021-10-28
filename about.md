@@ -25,7 +25,7 @@ page_sections:
     Please see our committee below and discover our individual roles:
   cards:
   - card_title: Yasmin Egonu
-    card_text: ''
+    card_text: Founder and President
     card_image:
       image: "/v1635428810/mpdss/assets/yasmin_circle_uheu5f.png"
       image_alt: ''
@@ -37,30 +37,6 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Yasmin Egonu
-    card_text: Founder and President
-    card_image:
-      image: "/v1612344874/mpdss/assets/100604343_3530083057008970_8820866041384009728_n_eydedx.jpg"
-      image_alt: Yasmin Egonu Founder and President
-    button_text: Learn more
-    modal:
-      modal_title: Yasmin Egonu Founder and President
-      modal_text: |-
-        Firstly, I would like to give a warm welcome to any visitors to this website!
-
-        My name is Yasmin and I am in my second year of dental schools at the University of Manchester. I set up MPDSS after identifying that I had (and still have) a vested interest in paediatric dentistry; but there were not many opportunities for me to learn about this speciality until later years.
-
-        I am committed to preventative dentistry and improving the oral health of students in the Manchester area. In particular, I have wanted to focus on educating primary school students from lower socioeconomic backgrounds. I also have the aim of being able to open up the world of paediatric dentistry to any dental student at my University who is interested in learning more.
-
-        I am thoroughly excited to see where we can take this society and I look forward to leading the committee.
-      modal_image:
-        image: "/v1612344874/mpdss/assets/100604343_3530083057008970_8820866041384009728_n_eydedx.jpg"
-        image_alt: Yasmin Egonu Founder & President
-      links:
-      - link_url: https://www.instagram.com/odontodoodles/
-        link_type: Instagram
-      - link_url: https://www.instagram.com/odontodoodles/
-        link_type: Facebook
   - card_title: Hadiya Begum
     card_text: Secretary
     card_image:
