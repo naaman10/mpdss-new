@@ -24,10 +24,36 @@ page_sections:
 
     Please see our committee below and discover our individual roles:
   cards:
+  - card_title: Chantelle Gunter (BDS 3)
+    card_text: Inclusion Officer and Website Designer
+    card_image:
+      image: ''
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Reuben Arnold (BDS 5)
+    card_text: Volunteering Officer
+    card_image:
+      image: "/v1635435827/mpdss/assets/reuban_oiddyd.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
   - card_title: Hadiya Begum (BDS3)
     card_text: Volunteering Officer
     card_image:
-      image: ''
+      image: "/v1635435792/mpdss/assets/hadiya_bdzrdn.png"
       image_alt: ''
     button_text: ''
     modal:
