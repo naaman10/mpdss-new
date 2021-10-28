@@ -24,10 +24,23 @@ page_sections:
 
     Please see our committee below and discover our individual roles:
   cards:
-  - card_title: Hafsa Quasim
-    card_text: ''
+  - card_title: Hadiya Begum (BDS3)
+    card_text: Volunteering Officer
     card_image:
       image: ''
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Hafsa Quasim (BDS3)
+    card_text: 'Secretary '
+    card_image:
+      image: "/v1635435699/mpdss/assets/hafsa_ssnkk6.png"
       image_alt: ''
     button_text: ''
     modal:
