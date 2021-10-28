@@ -24,22 +24,6 @@ page_sections:
 
     Please see our committee below and discover our individual roles:
   cards:
-  - card_title: Sarah-Jade Akintomide (BDS 1)
-    card_text: First year student representative
-    card_image:
-      image: "/v1635437966/mpdss/assets/sarah_jade_qyb7zz.png"
-      image_alt: ''
-    button_text: Learn more
-    modal:
-      modal_title: ''
-      modal_text: |-
-        Hi my name is Sarah-Jade, and I am a first year dental student at the university of Manchester. My role is MPDSS is the first year student representative, this involves acting as the communication line between the society and first year students to get them involved in different aspects of the MPDSS.
-
-        I am most excited about working with the current society members to bring reliable and helpful information and resources to children concerning the oral health; as well as trying to get other first year students involved in the society.
-      modal_image:
-        image: ''
-        image_alt: ''
-      links: []
   - card_title: Yasmin Egonu (BDS 3)
     card_text: Founder and President
     card_image:
@@ -74,10 +58,15 @@ page_sections:
     card_image:
       image: "/v1635435699/mpdss/assets/hafsa_ssnkk6.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: "Hi everyone! My name is Hafsa and I am a 3rd year dental student
+        at the University of Manchester.\n\nAs secretary, I am responsible for taking
+        minutes at meetings and noting all ideas and plans to ensure everything runs
+        smoothly. I will work closely with members of the committee to prepare for
+        meetings and make sure deadlines are met.\n\nI am really excited and honoured
+        to be a part of the committee this year and can’t wait to work with the children! "
       modal_image:
         image: ''
         image_alt: ''
@@ -107,10 +96,14 @@ page_sections:
     card_image:
       image: "/v1635437486/mpdss/assets/girl_3_sfy8py.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: "My role on MPDSS is Sponsorship Co-ordinator. This involves contacting
+        organisations and getting various sponsors for the society so that we can
+        carry out all our different events and projects! \n\nI’m looking forward to
+        being a part of all that’s in store for MPDSS this year, and especially the
+        opportunity to be able to have some in person events and volunteering opportunities!"
       modal_image:
         image: ''
         image_alt: ''
@@ -120,10 +113,12 @@ page_sections:
     card_image:
       image: "/v1635436843/mpdss/assets/sabina_fv4d4v.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: I’m super excited to be on the committee for MPDSS this year! I
+        am really looking forward to organising some exciting new events and educating
+        children in oral hygiene.
       modal_image:
         image: ''
         image_alt: ''
@@ -133,10 +128,15 @@ page_sections:
     card_image:
       image: "/v1635436166/mpdss/assets/girl_2_j4p9ay.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: |-
+        Hi everyone, my name is Amber, and I am one of the events coordinators for this year!
+
+        My role will be to organise lots of exciting events for the society. If you do have any suggestions, then please do get in touch and we’ll be happy to help.
+
+        I am looking forward to treating more paediatric patients in the clinical setting, getting involved in delivering oral hygiene sessions in the primary schools across Manchester and helping first years with anatomy.
       modal_image:
         image: ''
         image_alt: ''
@@ -181,10 +181,15 @@ page_sections:
     card_image:
       image: "/v1635435827/mpdss/assets/reuban_oiddyd.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: |-
+        Hi! My name is Reuben and I am entering my fifth year of Dental School.
+
+        I have undertaken the role of Volunteering Officer for the MPDSS. This role includes recruiting volunteers to promote oral health in primary schools as well as the organisation of such events.
+
+        I am very excited to begin arranging school visits in a creative, fun and engaging way to deliver positive oral health messages to the pupils. By working with committee members and other dental students I am looking forward to bringing these exciting opportunities to both students and children.
       modal_image:
         image: ''
         image_alt: ''
@@ -194,10 +199,14 @@ page_sections:
     card_image:
       image: "/v1635435792/mpdss/assets/hadiya_bdzrdn.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: Hi everyone! My name is Hadiya and I am a 3rd year dental student
+        who will be one of the volunteering officers this year. My role will entail
+        organising and training volunteers for primary school sessions. I am so excited
+        to be on the society for another year and can’t wait to work alongside the
+        other committee members and all of our volunteers!
       modal_image:
         image: ''
         image_alt: ''
@@ -207,10 +216,13 @@ page_sections:
     card_image:
       image: "/v1635436353/mpdss/assets/mia_zheel1.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: |-
+        Hi everyone, I’m Mia and I’m going into my second year of dentistry at Manchester!
+
+        I’m thrilled to become a member of MPDSS and to take on the role as Social Media Officer. I’m looking forward to sharing new and exciting content, working with the rest of the committee and expanding our social media platforms to promote interest in paediatric dentistry!
       modal_image:
         image: ''
         image_alt: ''
@@ -246,6 +258,22 @@ page_sections:
         My role is to ensure fair representation across the whole of MPDSS and aim to promote diversity initiatives to ensure every equality strand is met within the society. I’m also designing and creating the MPDSS website this year.
 
         I’m excited to work alongside the committee and help in any way that I can! I’m also looking forward to meeting the volunteers and making a positive impact within the schools this year.
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Sarah-Jade Akintomide (BDS 1)
+    card_text: First year student representative
+    card_image:
+      image: "/v1635437966/mpdss/assets/sarah_jade_qyb7zz.png"
+      image_alt: ''
+    button_text: Learn more
+    modal:
+      modal_title: ''
+      modal_text: |-
+        Hi my name is Sarah-Jade, and I am a first year dental student at the university of Manchester. My role is MPDSS is the first year student representative, this involves acting as the communication line between the society and first year students to get them involved in different aspects of the MPDSS.
+
+        I am most excited about working with the current society members to bring reliable and helpful information and resources to children concerning the oral health; as well as trying to get other first year students involved in the society.
       modal_image:
         image: ''
         image_alt: ''
