@@ -24,6 +24,19 @@ page_sections:
 
     Please see our committee below and discover our individual roles:
   cards:
+  - card_title: Mia Richardson (BDS2)
+    card_text: Social media officer
+    card_image:
+      image: "/v1635436353/mpdss/assets/mia_zheel1.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
   - card_title: Chantelle Gunter (BDS 3)
     card_text: Inclusion Officer and Website Designer
     card_image:
