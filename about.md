@@ -62,7 +62,7 @@ page_sections:
   - card_title: Bilal Sheraz
     card_text: Treasurer
     card_image:
-      image: "/v1635429356/mpdss/assets/bilal_circle_rkc6pa.png"
+      image: "/v1635435425/mpdss/assets/bilal_bjjjlu.png"
       image_alt: ''
     button_text: ''
     modal:
