@@ -87,10 +87,17 @@ page_sections:
     card_image:
       image: "/v1635435425/mpdss/assets/bilal_bjjjlu.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: "Hey guys! I’m Bilal, a second year student at Manchester and as
+        the Treasurer for MPDSS, I'll be managing the financial affairs of the society.
+        \U0001F3E6 \n\nAs well as the workshops and events we’re hosting this year,
+        I’m really looking forward to our primary school visits.\n\nMy bigger vision
+        is to work with children to leave them with a good impression of dentistry,
+        and ultimately improving oral health standards across Manchester \U0001F680\n\nI'm
+        always open to questions, so feel free to message me if you ever have any
+        queries."
       modal_image:
         image: ''
         image_alt: ''
