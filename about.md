@@ -37,23 +37,6 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Hadiya Begum
-    card_text: Secretary
-    card_image:
-      image: "/v1591429503/mpdss/assets/hadiya.jpg"
-      image_alt: Hadiya Begum Secretary
-    button_text: Learn more
-    modal:
-      modal_title: Hadiya Begum Secretary
-      modal_text: Hi everyone! My name is Hadiya and I’m the secretary for the MPDSS.
-        As the secretary, my role will be to take minutes at meetings and ensure that
-        all ideas and plans are noted down. I’m really looking forward to being a
-        part of the MPDSS and I can’t wait to work with the children and also the
-        other members of the committee!
-      modal_image:
-        image: ''
-        image_alt: ''
-      links: []
   - card_title: Summa Bains
     card_text: Vice president
     card_image:
@@ -72,6 +55,19 @@ page_sections:
         work with local primary schools. \n\nI am committed to ensuring all our hosted
         events are of great value to both fellow dental students as well as the wider
         Manchester community."
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Bilal Sheraz
+    card_text: Treasurer
+    card_image:
+      image: "/v1635429356/mpdss/assets/bilal_circle_rkc6pa.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
       modal_image:
         image: ''
         image_alt: ''
