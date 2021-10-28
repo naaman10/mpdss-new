@@ -164,10 +164,14 @@ page_sections:
     card_image:
       image: "/v1635435527/mpdss/assets/darcy_d1blsp.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: "Hi I’m Darcie- I’m a fourth year dentist at UoM. I have loved being
+        a part of MPDSS over the past year and I’m super excited to start my role
+        as School Liason Officer together with Rachel! We will be responsible for
+        communicating with Schools and coordinating our Schools’ Sessions, supported
+        by the rest of the committee and our MPDSS student volunteers! \U0001F9B7\U0001F4DA"
       modal_image:
         image: ''
         image_alt: ''
@@ -216,10 +220,14 @@ page_sections:
     card_image:
       image: "/v1635436397/mpdss/assets/chloe_hahmay.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: 'Hi everyone! My name is Chloe and I’m BDS year 2. I will be the
+        co-host of the MPDSS bite-size podcast for 2021/2022! I’m super excited to
+        work alongside our president Yasmin and speak to lots of interesting experts
+        in their field to bring you exciting new episodes each month. Stay tuned for
+        the first one of this year coming up soon! '
       modal_image:
         image: ''
         image_alt: ''
@@ -229,10 +237,15 @@ page_sections:
     card_image:
       image: "/v1635435886/mpdss/assets/chantelle_cqpj67.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: |-
+        Hi! My name is Chantelle and I’m a 3rd year Manchester dental student.
+
+        My role is to ensure fair representation across the whole of MPDSS and aim to promote diversity initiatives to ensure every equality strand is met within the society. I’m also designing and creating the MPDSS website this year.
+
+        I’m excited to work alongside the committee and help in any way that I can! I’m also looking forward to meeting the volunteers and making a positive impact within the schools this year.
       modal_image:
         image: ''
         image_alt: ''
