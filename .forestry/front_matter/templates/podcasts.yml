@@ -44,3 +44,5 @@ fields:
   config:
     required: false
   label: Podcast Url
+pages:
+- _posts/2021-10-26-episode-1.markdown
