@@ -24,6 +24,19 @@ page_sections:
 
     Please see our committee below and discover our individual roles:
   cards:
+  - card_title: Hafsa Quasim
+    card_text: ''
+    card_image:
+      image: ''
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
   - card_title: Yasmin Egonu
     card_text: Founder and President
     card_image:
@@ -72,10 +85,10 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: ''
+  - card_title: Darcie Ward-Harrop
     card_text: ''
     card_image:
-      image: ''
+      image: "/v1635435527/mpdss/assets/darcy_d1blsp.png"
       image_alt: ''
     button_text: ''
     modal:
