@@ -40,7 +40,7 @@ page_sections:
   - card_title: Summa Bains
     card_text: Vice president
     card_image:
-      image: "/v1635429205/mpdss/assets/summa_circle_ve1ada.png"
+      image: "/v1635435406/mpdss/assets/summa_z1vej2.png"
       image_alt: Summa Baines Vice President
     button_text: Learn more
     modal:
