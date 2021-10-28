@@ -54,7 +54,7 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Summa Baines
+  - card_title: Summa Bains
     card_text: Vice president
     card_image:
       image: "/v1635429205/mpdss/assets/summa_circle_ve1ada.png"
