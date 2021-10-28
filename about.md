@@ -18,12 +18,25 @@ page_sections:
     mpdss.uom@gmail.com
   title: Manchester Paediatric Dentistry Student Society
 - template: card-and-modal-section
-  title: Our Committee
+  title: Our 21/22 Committee
   intro_text: |-
-    Our committee is compromised of 14 students from various year groups and we all work together to deliver fun and informative primary school sessions, as well as talks and courses for dental students.
+    Our committee is compromised of 15 students from various year groups. Each member works closely together in order to run the society.
 
     Please see our committee below and discover our individual roles:
   cards:
+  - card_title: Sarah-Jade Akintomide (BDS 1)
+    card_text: First year student representative
+    card_image:
+      image: "/v1635437966/mpdss/assets/sarah_jade_qyb7zz.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
   - card_title: Yasmin Egonu (BDS 3)
     card_text: Founder and President
     card_image:
@@ -215,6 +228,10 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
+- template: card-and-modal-section
+  title: Committee of 20/21
+  intro_text: ''
+  cards: []
 - template: testimonial-section
   title: School Testimonials
   section_text: |-
