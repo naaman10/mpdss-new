@@ -1,7 +1,7 @@
 ---
 name: Episode 1
-layout: Podcasts
-category: Podcast
+layout: podcast
+category: Podcasts
 podcast_description: |-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat. Accumsan tortor posuere ac ut. Magna fringilla urna porttitor rhoncus dolor purus non. Nisl purus in mollis nunc sed id semper risus in. Laoreet non curabitur gravida arcu ac tortor. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Felis bibendum ut tristique et egestas quis. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Dictum varius duis at consectetur lorem donec massa sapien faucibus. Mauris in aliquam sem fringilla ut morbi. At erat pellentesque adipiscing commodo elit at. Senectus et netus et malesuada fames ac turpis. At augue eget arcu dictum varius duis at. Rhoncus dolor purus non enim praesent elementum.
 
