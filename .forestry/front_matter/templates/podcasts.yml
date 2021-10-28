@@ -13,7 +13,7 @@ fields:
 - type: text
   name: category
   label: category
-  default: Podcast
+  default: Podcasts
   hidden: true
 - name: podcast_image
   type: field_group
