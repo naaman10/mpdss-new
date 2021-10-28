@@ -8,7 +8,7 @@ fields:
 - type: text
   name: layout
   label: layout
-  default: Podcasts
+  default: podcast
   hidden: true
 - type: text
   name: category
