@@ -29,10 +29,13 @@ page_sections:
     card_image:
       image: "/v1635437966/mpdss/assets/sarah_jade_qyb7zz.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: |-
+        Hi my name is Sarah-Jade, and I am a first year dental student at the university of Manchester. My role is MPDSS is the first year student representative, this involves acting as the communication line between the society and first year students to get them involved in different aspects of the MPDSS.
+
+        I am most excited about working with the current society members to bring reliable and helpful information and resources to children concerning the oral health; as well as trying to get other first year students involved in the society.
       modal_image:
         image: ''
         image_alt: ''
