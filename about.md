@@ -88,7 +88,7 @@ page_sections:
   - card_title: Atifah Abdullahi (BDS 5)
     card_text: Sponsorship Co-ordinator
     card_image:
-      image: ''
+      image: "/v1635437486/mpdss/assets/girl_3_sfy8py.png"
       image_alt: ''
     button_text: ''
     modal:
