@@ -29,10 +29,19 @@ page_sections:
     card_image:
       image: "/v1635435371/mpdss/assets/Yaz_tqnhdn.png"
       image_alt: ''
-    button_text: ''
+    button_text: Learn more
     modal:
       modal_title: ''
-      modal_text: ''
+      modal_text: "Hello everyone,  \nI am so excited to be continuing as MPDSS President
+        this academic year!  \n  \nI was very pleased with what the society managed
+        to achieve last year, however COVID did impede some of our plans (notably,
+        our primary school sessions). I feel optimistic that our sessions will be
+        going ahead in the new academic year, and we have been working hard behind
+        the scenes to make that happen!  \n  \nAlong with the primary school sessions,
+        I will be continuing the BITEsize Paediatrics podcast with my co-host, Chloe.
+        I also hope that we will be able to put on fun and engaging events throughout
+        the year, so keep your eyes peeled!  \n  \nIt’s going to be a great year and
+        I hope that you will benefit from our society in some way!"
       modal_image:
         image: ''
         image_alt: ''
