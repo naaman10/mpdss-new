@@ -58,16 +58,10 @@ page_sections:
     button_text: Learn more
     modal:
       modal_title: Summa Baines Treasurer
-      modal_text: "Hello! My name is Summa Bains and I am a second year dental student
-        at the University of Manchester. \n\nAs treasurer for MPDSS, I am responsible
-        for overseeing the financial affairs of the society, exercising fiduciary
-        duties along with my fellow founding members to ensure the sustainability
-        of MPDSS. \n\nI am very excited and honoured to work with the committee in
-        establishing the foundations of this new society, and equally keen to raise
-        oral health standards amongst children through our campaigning and outreach
-        work with local primary schools. \n\nI am committed to ensuring all our hosted
-        events are of great value to both fellow dental students as well as the wider
-        Manchester community."
+      modal_text: |-
+        Hi everyone!
+
+        My name’s Summa and I am a third year Dental student at The University of Manchester. I am so excited and honoured to be the new Vice President of this amazing society. As Vice President, I will work closely with Yasmin to help expand the society, whilst supporting the rest of the committee. We hope to bring new and enriching opportunities for all dental students to get involved in and I can’t wait to show you what’s in store!
       modal_image:
         image: ''
         image_alt: ''
@@ -246,5 +240,6 @@ hero_image: "/v1612364295/mpdss/assets/alex-jackman-_bk2nvfx7q4-unsplash_qaschy.
 menu:
   header:
     weight: 2
+published: false
 
 ---
