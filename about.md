@@ -17,6 +17,18 @@ page_sections:
 
     mpdss.uom@gmail.com
   title: Manchester Paediatric Dentistry Student Society
+- template: card-section
+  cards:
+  - card_title: ''
+    card_text: ''
+    card_image:
+      image: "/v1635492012/mpdss/assets/class_of_202122_zzlipm.pdf"
+      image_alt: ''
+    button_link:
+      button_text: ''
+      button_link: ''
+  title: ''
+  intro_text: ''
 - template: card-and-modal-section
   title: Our 21/22 Committee
   intro_text: |-
