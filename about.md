@@ -30,7 +30,7 @@ page_sections:
   title: ''
   intro_text: ''
 - template: card-and-modal-section
-  title: Our 21/22 Committee
+  title: "                                       Our 21/22 Committee"
   intro_text: |-
     Our committee is compromised of 15 students from various year groups. Each member works closely together in order to run the society.
 
