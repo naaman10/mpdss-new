@@ -1,6 +1,6 @@
 ---
 layout: info-page
-title: About Us
+title: Committee
 permalink: "/about"
 page_sections:
 - template: text-section
