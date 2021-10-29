@@ -9,7 +9,7 @@ page_sections:
     Dignissim faucibus odio curabitur semper sagittis. Bibendum curabitur arcu porta himenaeos vitae volutpat. Fringilla justo ultrices maecenas venenatis auctor faucibus eget. Viverra maximus hendrerit facilisi enim. Nisl justo maximus quisque faucibus aliquam.
 
     Porta ipsum sem primis urna lobortis habitasse. Egestas posuere erat habitasse mus nisl proin mollis. Vitae quisque aptent facilisi eleifend phasellus integer semper placerat in.
-hero_image: "/v1612432091/mpdss/assets/dentistsstuff_hbjhvx.jpg"
+hero_image: "/v1635509370/mpdss/assets/CONTACT_US_tdupfl.png"
 description: ''
 menu:
   header:
