@@ -1,4 +1,4 @@
-I"í <section class="homepageHero">
+I"Ý <section class="homepageHero">
   <div class="container">
     <div class="row">
       <div class="col">
@@ -138,13 +138,12 @@
       <div class="mb-5 mb-sm-0 col-12 col-sm-4">
         <div class="card text-center shadow">
           <div class="card-img-top">
-              <img src="https://res.cloudinary.com/njh101010/image/upload" class="img-fluid" alt="Episode 1" />
+              <img src="https://res.cloudinary.com/njh101010/image/upload" class="img-fluid" alt="" />
           </div>
           <div class="card-body">
-            <h5 class="card-title">Episode 1</h5>
-            <p class="card-text">
-</p>
-            <a class="btn btn-primary btn-rounded" href="/podcast/2021/10/26/episode-1.html">Read more</a>
+            <h5 class="card-title"></h5>
+            <p class="card-text"></p>
+            <a class="btn btn-primary btn-rounded" href="/2021/11/03/2021-10-26-episode-1.html">Read more</a>
           </div>
         </div>
       </div>
