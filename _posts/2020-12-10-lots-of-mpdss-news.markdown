@@ -2,7 +2,7 @@
 layout: post
 title: Lots of MPDSS News
 date: 2021-02-03 13:22:06 +0000
-categories: []
+category: News
 tags:
 - AGM
 - News

@@ -1,0 +1,62 @@
+---
+label: Podcasts
+hide_body: true
+fields:
+- type: text
+  name: name
+  label: Name
+- type: text
+  name: layout
+  label: layout
+  default: podcast
+  hidden: true
+- type: text
+  name: category
+  label: category
+  default: Podcasts
+  hidden: true
+- name: podcast_image
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: image_alt
+    type: text
+    config:
+      required: false
+    label: Image Alt Text
+  label: Podcast Image
+- name: podcast_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Podcast Description
+- name: podcast_url
+  type: text
+  config:
+    required: false
+  label: Podcast Url
+- name: episode_number
+  type: number
+  label: Episode Number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 1
+    max: 
+    step: 1
+pages:
+- _posts/2021-02-09-episode-1.markdown
+- _posts/2021-03-03-episode-2.markdown
+- _posts/2021-03-30-episode-3.markdown
+- _posts/2021-04-24-episode-4.md
+- _posts/2021-11-03-what-on-earth-is-mih.md

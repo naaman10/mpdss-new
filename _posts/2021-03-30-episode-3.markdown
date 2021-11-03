@@ -1,0 +1,24 @@
+---
+name: Paediatric Dentistry in the UK vs. USA
+layout: podcast
+category: Podcasts
+podcast_description: "When it comes to discussing dentistry in the UK vs. USA, it
+  seems that us British have a pretty bad rep! But behind the glitz and glam of American
+  dentistry, is the oral health of children in the US any better than the kids on
+  the other side of the pond?  \n  \nThis episode features [Dr Nidhi Kotak](https://www.instagram.com/dr.nidhikotak/);
+  a Paediatric Dental Resident hailing all the way from Philadelphia. Today we discuss
+  the differences between paediatric dentistry and child oral health in the UK. vs.
+  USA.  \n  \nIn this episode we compare the following:  \n  \n\\- Dental specialities
+  offered.  \n\\- The cost of paediatric dental care for the parent.  \n\\- Paediatric
+  dental decay statistics.  \n\\- The average age that a child first visits the dentist.
+  \ \n\\- Water fluoridation and attitudes towards it.  \n\\- Governmental control
+  of sugar content in food and drink.  \n\\- The impact of COVID on paediatric dentistry.
+  \ \n  \nExtra resources to accompany this episode can be found on our [social media](https://www.instagram.com/mpdssoc/)
+  and [linktree](https://linktr.ee/Mpdssoc) @MPDSSOC"
+podcast_image:
+  image: "/v1635967753/mpdss/assets/12420581-1617094201657-e3c9ca7d8a523_v3bflg.jpg"
+  image_alt: Podcast Episode 3
+podcast_url: "/Paediatric-Dentistry-in-the-UK-vs--USA-ets34v"
+episode_number: 3
+
+---

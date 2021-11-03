@@ -1,0 +1,24 @@
+---
+name: Managing Phobic Children via Needle Desensitization
+layout: podcast
+category: Podcasts
+podcast_description: "Getting a phobic child into the dental chair can be an extremely
+  difficult task, let alone injecting them with local anaesthetic!  \n  \nThis episode
+  features the brilliant Dr. Greig Taylor; a Paediatric Specialist at the University
+  of Newcastle. We discuss his paper 'A Clinical Guide to Needle Desensitization for
+  the Paediatric Patient' which acts as a simple and comprehensive guide to a daunting
+  task that all dental professionals will face.  \n  \nIn this episode we cover topics
+  such as:  \n  \n\\- The causes of dental phobia in children.  \n\\- How to tell
+  if a patient is an information seeker or an information avoider.  \n\\- Relaxation
+  techniques for children to practice at home and in the clinic.  \n\\- The 7-step
+  needle desensitization technique.  \n\\- Distraction techniques.  \n\\- Modified
+  Child Dental Anxiety Scale.  \n  \nExtra resources to accompany this episode can
+  be found on our [social media](https://www.instagram.com/mpdssoc/) and [linktree](https://linktr.ee/Mpdssoc)
+  @MPDSSOC.  \n  \nHappy listening!"
+podcast_image:
+  image: "/v1635967727/mpdss/assets/12420581-1614773490402-ba0dab5a996e4_nkrjgr.jpg"
+  image_alt: Podcast Episode 2
+podcast_url: "/Managing-Phobic-Children-via-Needle-Desensitization-erctp8"
+episode_number: 2
+
+---

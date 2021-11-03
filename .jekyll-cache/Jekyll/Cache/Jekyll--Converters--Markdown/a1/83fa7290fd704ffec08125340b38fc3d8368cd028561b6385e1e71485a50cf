@@ -1,0 +1,183 @@
+I"#<section class="homepageHero">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="row d-flex align-items-center">
+        
+        <div class="col-xs-12 justify-content-center text-center align-items-center text-white">
+          <img src="https://res.cloudinary.com/njh101010/image/upload/v1612284645/mpdss/assets/orgtrans_eoxwhu.png" alt="" class="img-fluid" width="300" />
+          <div class="text-left mt-5">
+            <h3>Educating children in oral health &amp; delivering paediatric dental education</h3>
+          </div>
+          <a href="#featureSection" class="btn btn-light btn-rounded my-4 shadow">I am a...</a>
+        </div>
+        
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bg-gray-100 position-relative" id="featureSection">
+  <div class="py-6 container">
+    <div class="row">
+      
+      <div class="mb-5 mb-sm-0 col-12 col-sm-4">
+        <div class="card text-center shadow">
+          <div class="card-img-top">
+            <div style="width:200px;display:inline-block;padding:10px">
+              <img src="https://res.cloudinary.com/njh101010/image/upload/v1612285467/mpdss/assets/undraw_graduation_ktn0_trbc5b.svg" class="img-fluid" alt="Dental Students - Graduation Cap" />
+            </div>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Manchester Paedistric Dentistry Student Society</h5>
+            <p class="card-text">MPDSS was set up in 2020, with the ai</p>
+            <a href="" class="btn btn-primary btn-rounded">Find out more</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="mb-5 mb-sm-0 col-12 col-sm-4">
+        <div class="card text-center shadow">
+          <div class="card-img-top">
+            <div style="width:200px;display:inline-block;padding:10px">
+              <img src="https://res.cloudinary.com/njh101010/image/upload/v1612285539/mpdss/assets/undraw_teacher_35j2_bstnvz.png" class="img-fluid" alt="Primary School Representative - Teacher" />
+            </div>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Primary School Representative</h5>
+            <p class="card-text">One of the core aims of MPDSS is to implement oral health education sessions within local primary schools. Click below If you would like to find out more about the sessions that we run and how your school can get involved.</p>
+            <a href="" class="btn btn-primary btn-rounded">Find out more</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="mb-5 mb-sm-0 col-12 col-sm-4">
+        <div class="card text-center shadow">
+          <div class="card-img-top">
+            <div style="width:200px;display:inline-block;padding:10px">
+              <img src="https://res.cloudinary.com/njh101010/image/upload/v1612285574/mpdss/assets/undraw_quality_time_wiyl_ds4dmw.png" class="img-fluid" alt="Parent or Caregiver - Family" />
+            </div>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Parent or Caregiver</h5>
+            <p class="card-text">It is imperative that parents and caregivers are kept in the loop when it comes to their child’s oral health education. It is important that caregivers know that their child is being educated by a safe and reputable organisation. Click below to find out about how our society prioritises child safety and furthering education outside of the classroom.</p>
+            <a href="" class="btn btn-primary btn-rounded">Find out more</a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="mt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2>Our Mission</h2>
+        <p><p>MPDSS is a new society created by Manchester University dental students. More than 1 in 3 five year olds across Greater Manchester experience tooth decay – well above the England national average of 25%. Our society aims to educate children in the local area about oral health. We also arrange specialist dental talks and courses to aid the learning of dental students. Keep reading for more information:</p>
+</p>
+      </div>
+    </div>
+
+    <div class="row">
+      
+      <div class="col-12 col-sm-6">
+        <div class="card shadow-none">
+          <div class="text-center">
+            <div style="width:240px;display:inline-block;text-align:center">
+              <img src="https://res.cloudinary.com/njh101010/image/upload/v1612342993/mpdss/assets/undraw_children_4rtb-2_mej1yc.png" class="card-img-top" alt="Children playing" />
+            </div>
+          </div>
+          <div class="card-body">
+            <p class="card-text"><p>One of the core aims of our society is to deliver oral health education sessions to primary schools in the Manchester area. “Oral health education” entails the exploration of many topics. In our primary school sessions we aim to cover: what a healthy diet is, how to take care of your mouth, and what to expect when visiting the dentist.</p>
+</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-12 col-sm-6">
+        <div class="card shadow-none">
+          <div class="text-center">
+            <div style="width:240px;display:inline-block;text-align:center">
+              <img src="https://res.cloudinary.com/njh101010/image/upload/v1612343039/mpdss/assets/undraw_candidate_ubwv-2_ipc1xq.png" class="card-img-top" alt="Speaking presenting" />
+            </div>
+          </div>
+          <div class="card-body">
+            <p class="card-text"><p>Another aim of our society is to invite specialists in the field of paediatric dentistry to deliver talks to Manchester dental students. We find it imperative that dental students are given the opportunity to gain early exposure to paediatric dentistry in order to foster interest in the speciality and to help them become well-rounded dentists.</p>
+</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-12 col-sm-6">
+        <div class="card shadow-none">
+          <div class="text-center">
+            <div style="width:240px;display:inline-block;text-align:center">
+              <img src="https://res.cloudinary.com/njh101010/image/upload/v1612343064/mpdss/assets/undraw_doctors_hwty_bltsf7.png" class="card-img-top" alt="Medical students" />
+            </div>
+          </div>
+          <div class="card-body">
+            <p class="card-text"><p>Being able to chart mixed dentition easily is a refined skill and dental students can often worry about their competency in regards to this task. - This is why our society aims to create and deliver a mixed dentition course to dental students (of all year groups) at the University of Manchester.</p>
+</p>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+<section>
+
+  <div class="container my-5">
+    <div class="row">
+      <h2>Recent Posts</h2>
+      
+      <div class="mb-5 mb-sm-0 col-12 col-sm-4">
+        <div class="card text-center shadow">
+          <div class="card-img-top">
+              <img src="https://res.cloudinary.com/njh101010/image/upload" class="img-fluid" alt="Episode 2" />
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Episode 2</h5>
+            <p class="card-text">
+</p>
+            <a class="btn btn-primary btn-rounded" href="/podcasts/2021/03/03/episode-2.html">Read more</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="mb-5 mb-sm-0 col-12 col-sm-4">
+        <div class="card text-center shadow">
+          <div class="card-img-top">
+              <img src="https://res.cloudinary.com/njh101010/image/upload" class="img-fluid" alt="Episode 1" />
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Episode 1</h5>
+            <p class="card-text">
+</p>
+            <a class="btn btn-primary btn-rounded" href="/podcasts/2021/02/09/episode-1.html">Read more</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="mb-5 mb-sm-0 col-12 col-sm-4">
+        <div class="card text-center shadow">
+          <div class="card-img-top">
+              <img src="https://res.cloudinary.com/njh101010/image/upload/v1612360601/mpdss/assets/dentist-home_h6kfyb.jpg" class="img-fluid" alt="Lots of MPDSS News" />
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Lots of MPDSS News</h5>
+            <p class="card-text"><p>Taciti porta consequat integer massa parturient. Etiam blandit aptent ultricies condimentum. Placerat interdum dui commodo laoreet quam metus fermentum sit. Donec dictum natoque lectus tellus dui lobortis urna. Sit sociosqu felis inceptos turpis.</p>
+</p>
+            <a class="btn btn-primary btn-rounded" href="/news/2021/02/03/lots-of-mpdss-news.html">Read more</a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+:ET

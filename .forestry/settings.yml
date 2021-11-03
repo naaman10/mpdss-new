@@ -36,6 +36,9 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - posts
+  - podcasts
 upload_dir: mpdss/assets
 public_path: ''
 front_matter_path: ''

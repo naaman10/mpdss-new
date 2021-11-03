@@ -14,12 +14,3 @@ contactConsent: MPDSS are the data controllers of any personal data you provide 
 plugins:
   - jekyll-feed
   - jekyll-menus
-collections:
-  road:
-    output: true
-    title: Road Bikes
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-    permalink: /:collection/:name
-  gravel:
-    output: true
-    permalink: /:collection/:name
