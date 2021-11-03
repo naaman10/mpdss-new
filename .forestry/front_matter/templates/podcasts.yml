@@ -55,6 +55,7 @@ fields:
     max: 
     step: 1
 pages:
+- _posts/2021-02-09-episode-1.markdown
 - _posts/2021-03-03-episode-2.markdown
 - _posts/2021-03-30-episode-3.markdown
 - _posts/2021-04-24-episode-4.md

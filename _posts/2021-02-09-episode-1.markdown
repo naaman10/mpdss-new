@@ -15,7 +15,7 @@ podcast_description: "Hello and welcome to the first ever episode of the BITEsiz
   this episode can be found on our [social media](https://www.instagram.com/mpdssoc/?hl=en)
   and [linktree](https://linktr.ee/Mpdssoc) @MPDSSOC.  \n  \nHappy listening!"
 podcast_image:
-  image: ''
+  image: "/v1635942046/modes/assets/12420581-1612868106263-80f9763b63672_ewwiiv.jpg"
   image_alt: Podcast Episode 1
 podcast_url: "/The-Journey-to-Becoming-a-Paediatric-Specialist-eq5g05"
 episode_number: 1
