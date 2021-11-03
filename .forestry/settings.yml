@@ -39,7 +39,7 @@ sections:
   templates:
   - posts
   - podcasts
-upload_dir: modes/assets
+upload_dir: mpdss/assets
 public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
