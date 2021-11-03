@@ -16,7 +16,7 @@ podcast_description: "Getting a phobic child into the dental chair can be an ext
   be found on our [social media](https://www.instagram.com/mpdssoc/) and [linktree](https://linktr.ee/Mpdssoc)
   @MPDSSOC.  \n  \nHappy listening!"
 podcast_image:
-  image: ''
+  image: "/v1635967727/mpdss/assets/12420581-1614773490402-ba0dab5a996e4_nkrjgr.jpg"
   image_alt: Podcast Episode 2
 podcast_url: "/Managing-Phobic-Children-via-Needle-Desensitization-erctp8"
 episode_number: 2
