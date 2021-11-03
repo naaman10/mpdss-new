@@ -35,7 +35,7 @@ sections:
   label: Blog
 - type: jekyll-posts
   label: Posts
-  create: all
+  create: documents
   templates:
   - posts
   - podcasts
