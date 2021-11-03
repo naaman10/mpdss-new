@@ -1,11 +1,13 @@
 ---
 layout: category
-title: The Podcast
-hero_image: "/v1612364295/mpdss/assets/alex-jackman-_bk2nvfx7q4-unsplash_qaschy.jpg"
+title: ''
+hero_image: "/v1635441760/mpdss/assets/Podcast_banner_website_i2bysp.png"
 permalink: "/mpdss-podcast"
+page_intro: lorum ipsum
+page_sections: []
 menu:
   header:
     weight: 6
     title: Podcast
-page_intro: lorum ipsum
+
 ---
