@@ -2,21 +2,23 @@
 name: Managing Phobic Children via Needle Desensitization
 layout: podcast
 category: Podcasts
-podcast_description: "Hello and welcome to the first ever episode of the BITEsize
-  Paediatrics podcast!  \n  \nDo you know what it takes to become a specialist in
-  paediatric dentistry (UK)? If not, this episode should help you out!  \n  \nJoin
-  Yasmin and Saif as they interview Dr. Carly Dixon - a speciality registrar in paediatric
-  dentistry and assessment lead at the University of Manchester Dental School.\n\nIn
-  this episode we cover topics such as:\n\n\\- Why choose paediatric dentistry in
-  the first place?!  \n\\- Building your portfolio during dental school and postgraduate
-  training.  \n\\- The career path taken to become a paediatric specialist and consultant.
-  \ \n\\- Paediatric dentistry exams.  \n\\- Masters degrees vs. training posts.  \n\\-
-  Academic Clinical Fellowship and Lectureship programmes.\n\nExtra resources to accompany
-  this episode can be found on our [social media](https://www.instagram.com/mpdssoc/?hl=en)
-  and [linktree](https://linktr.ee/Mpdssoc) @MPDSSOC.  \n  \nHappy listening!"
+podcast_description: "Getting a phobic child into the dental chair can be an extremely
+  difficult task, let alone injecting them with local anaesthetic!  \n  \nThis episode
+  features the brilliant Dr. Greig Taylor; a Paediatric Specialist at the University
+  of Newcastle. We discuss his paper 'A Clinical Guide to Needle Desensitization for
+  the Paediatric Patient' which acts as a simple and comprehensive guide to a daunting
+  task that all dental professionals will face.  \n  \nIn this episode we cover topics
+  such as:  \n  \n\\- The causes of dental phobia in children.  \n\\- How to tell
+  if a patient is an information seeker or an information avoider.  \n\\- Relaxation
+  techniques for children to practice at home and in the clinic.  \n\\- The 7-step
+  needle desensitization technique.  \n\\- Distraction techniques.  \n\\- Modified
+  Child Dental Anxiety Scale.  \n  \nExtra resources to accompany this episode can
+  be found on our [social media](https://www.instagram.com/mpdssoc/) and [linktree](https://linktr.ee/Mpdssoc)
+  @MPDSSOC.  \n  \nHappy listening!"
 podcast_image:
   image: ''
   image_alt: Podcast Episode 2
-podcast_url: /Managing-Phobic-Children-via-Needle-Desensitization-erctp8
+podcast_url: "/Managing-Phobic-Children-via-Needle-Desensitization-erctp8"
 episode_number: 2
+
 ---
