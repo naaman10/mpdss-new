@@ -338,7 +338,7 @@ page_sections:
   cards:
   - card_title: Yasmin Egonu
     card_text: |-
-      (BDS 3)
+      (BDS 2)
 
       Founder and President
     card_image:
@@ -352,8 +352,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Summa
-    card_text: ''
+  - card_title: Summa Bains
+    card_text: |-
+      (BDS 2)
+
+      Treasurer
     card_image:
       image: "/v1635435406/mpdss/assets/summa_z1vej2.png"
       image_alt: ''
