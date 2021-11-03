@@ -336,8 +336,11 @@ page_sections:
   title: Committee of 20/21
   intro_text: ''
   cards:
-  - card_title: Yaz
-    card_text: ''
+  - card_title: Yasmin Egonu
+    card_text: |-
+      (BDS 3)
+
+      Founder and President
     card_image:
       image: "/v1635971018/mpdss/assets/Yaz_juumju.png"
       image_alt: ''
