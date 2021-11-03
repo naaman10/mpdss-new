@@ -1,7 +1,7 @@
 ---
 layout: category
 title: ''
-hero_image: "/v1635441760/mpdss/assets/Podcast_banner_website_i2bysp.png"
+hero_image: "/v1612364295/mpdss/assets/alex-jackman-_bk2nvfx7q4-unsplash_qaschy.jpg"
 permalink: "/mpdss-podcast"
 page_intro: lorum ipsum
 page_sections: []
