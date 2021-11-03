@@ -27,5 +27,3 @@ fields:
   type: tag_list
   default: []
   label: Tags
-pages:
-- _posts/what-on-earth-is-mih.md
