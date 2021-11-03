@@ -16,7 +16,7 @@ podcast_description: "When it comes to discussing dentistry in the UK vs. USA, i
   \ \n  \nExtra resources to accompany this episode can be found on our [social media](https://www.instagram.com/mpdssoc/)
   and [linktree](https://linktr.ee/Mpdssoc) @MPDSSOC"
 podcast_image:
-  image: ''
+  image: "/v1635967753/mpdss/assets/12420581-1617094201657-e3c9ca7d8a523_v3bflg.jpg"
   image_alt: Podcast Episode 3
 podcast_url: "/Paediatric-Dentistry-in-the-UK-vs--USA-ets34v"
 episode_number: 3
