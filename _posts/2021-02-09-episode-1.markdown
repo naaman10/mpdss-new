@@ -17,6 +17,7 @@ podcast_description: "Hello and welcome to the first ever episode of the BITEsiz
 podcast_image:
   image: ''
   image_alt: Podcast Episode 1
-podcast_url: /The-Journey-to-Becoming-a-Paediatric-Specialist-eq5g05
+podcast_url: "/The-Journey-to-Becoming-a-Paediatric-Specialist-eq5g05"
 episode_number: 1
+
 ---

@@ -44,5 +44,15 @@ fields:
   config:
     required: false
   label: Podcast Url
+- name: episode_number
+  type: number
+  label: Episode Number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 1
+    max: 
+    step: 1
 pages:
 - _posts/2021-10-26-episode-1.markdown
