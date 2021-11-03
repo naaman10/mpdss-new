@@ -17,9 +17,9 @@ layout: default
       <div class="card">
         <img src="{{ site.cloudinary_url }}/c_fill,h_616,w_616{{ post.podcast_image.image }}" class="card-img-top" alt="{{ post.podcast_image.image_alt }}">
         <div class="card-body">
-          <h5 class="card-title">{{ post.title }}</h5>
+          <h5 class="card-title">{{ post.name }}</h5>
           <p class="card-text">{{ post.podcast_description | truncatewords: 8 }}</p>
-          <a href="{{ site.github.url }}{{ post.url }}" class="btn btn-primary btn-rounded">View Episode</a>
+          <a href="{{ site.github.url }}{{ post.url }}" class="btn btn-primary btn-rounded">View Episode {{post.episode_number}}</a>
         </div>
       </div>
     </div>

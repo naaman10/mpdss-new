@@ -1,5 +1,5 @@
 ---
-name: Episode 1
+name: The Journey to Becoming a Paediatric Specialist
 layout: podcast
 category: Podcasts
 podcast_description: "Hello and welcome to the first ever episode of the BITEsize
@@ -17,6 +17,6 @@ podcast_description: "Hello and welcome to the first ever episode of the BITEsiz
 podcast_image:
   image: ''
   image_alt: Podcast Episode 1
-podcast_url: https://anchor.fm/mpdss7/episodes/The-Journey-to-Becoming-a-Paediatric-Specialist-eq5g05
-
+podcast_url: /The-Journey-to-Becoming-a-Paediatric-Specialist-eq5g05
+episode_number: 1
 ---
