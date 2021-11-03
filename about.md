@@ -17,20 +17,8 @@ page_sections:
 
     mpdss.uom@gmail.com
   title: Manchester Paediatric Dentistry Student Society
-- template: card-section
-  cards:
-  - card_title: ''
-    card_text: ''
-    card_image:
-      image: "/v1635492012/mpdss/assets/class_of_202122_zzlipm.pdf"
-      image_alt: ''
-    button_link:
-      button_text: ''
-      button_link: ''
-  title: ''
-  intro_text: ''
 - template: card-and-modal-section
-  title: "                                       Our 21/22 Committee"
+  title: Our 21/22 Committee
   intro_text: |-
     Our committee is compromised of 15 students from various year groups. Each member works closely together in order to run the society.
 
@@ -347,7 +335,137 @@ page_sections:
 - template: card-and-modal-section
   title: Committee of 20/21
   intro_text: ''
-  cards: []
+  cards:
+  - card_title: Yaz
+    card_text: ''
+    card_image:
+      image: "/v1635971018/mpdss/assets/Yaz_juumju.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Summa
+    card_text: ''
+    card_image:
+      image: "/v1635435406/mpdss/assets/summa_z1vej2.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Darcy
+    card_text: ''
+    card_image:
+      image: "/v1635435527/mpdss/assets/darcy_d1blsp.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Sabina
+    card_text: ''
+    card_image:
+      image: "/v1635437486/mpdss/assets/girl_3_sfy8py.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Hadiya
+    card_text: ''
+    card_image:
+      image: "/v1635435792/mpdss/assets/hadiya_bdzrdn.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Nik
+    card_text: ''
+    card_image:
+      image: "/v1635970256/mpdss/assets/committee_2020_5_phey4o.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Megan
+    card_text: ''
+    card_image:
+      image: "/v1635970228/mpdss/assets/committee_2020_4_ayngpi.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Bilal
+    card_text: ''
+    card_image:
+      image: "/v1635435425/mpdss/assets/bilal_bjjjlu.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Saif
+    card_text: ''
+    card_image:
+      image: "/v1635970113/mpdss/assets/committee_2020_2_tpthl3.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
+  - card_title: Uma
+    card_text: ''
+    card_image:
+      image: "/v1635970148/mpdss/assets/committee_2020_3_jtlmgz.png"
+      image_alt: ''
+    button_text: ''
+    modal:
+      modal_title: ''
+      modal_text: ''
+      modal_image:
+        image: ''
+        image_alt: ''
+      links: []
 - template: testimonial-section
   title: School Testimonials
   section_text: |-
