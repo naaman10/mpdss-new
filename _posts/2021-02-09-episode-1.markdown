@@ -19,6 +19,5 @@ podcast_image:
   image_alt: Podcast Episode 1
 podcast_url: "/The-Journey-to-Becoming-a-Paediatric-Specialist-eq5g05"
 episode_number: 1
-hero_image: "/v1635942046/modes/assets/12420581-1612868106263-80f9763b63672_ewwiiv.jpg"
 
 ---

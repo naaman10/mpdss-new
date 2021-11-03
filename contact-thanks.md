@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Contact
-permalink: "/contact/thanks"
-
+permalink: "/contact/thanks/"
 hero_image: "/v1612432091/mpdss/assets/dentistsstuff_hbjhvx.jpg"
 description: ''
 ---
