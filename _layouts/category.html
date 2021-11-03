@@ -12,7 +12,7 @@ layout: default
   {% endif %}
 <section class="container my-5">
   <div class="row">
-    {% for post in site.categories.Podcasts %}
+    {% for post in site.categories.Podcasts reversed %}
     <div class="col-md-3">
       <div class="card">
         <img src="{{ site.cloudinary_url }}/c_fill,h_616,w_616{{ post.podcast_image.image }}" class="card-img-top" alt="{{ post.podcast_image.image_alt }}">
