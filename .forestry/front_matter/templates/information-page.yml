@@ -31,6 +31,7 @@ fields:
     max: 
 pages:
 - about.md
+- children-art-gallery.md
 - dental-students.md
 - primary-schools.md
 - the-podcast.md
