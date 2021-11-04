@@ -385,7 +385,10 @@ page_sections:
         image_alt: ''
       links: []
   - card_title: Sabina Rahman
-    card_text: ''
+    card_text: |-
+      (BDS 3)
+
+      Vice President
     card_image:
       image: "/v1635437486/mpdss/assets/girl_3_sfy8py.png"
       image_alt: ''
@@ -413,7 +416,7 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Nikita
+  - card_title: Nikita Dzyuba
     card_text: |-
       (BDS 5)
 
@@ -429,8 +432,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Megan
-    card_text: ''
+  - card_title: Megan Boyd
+    card_text: |-
+      (BDS 5)
+
+      Volunteering Officer
     card_image:
       image: "/v1635970228/mpdss/assets/committee_2020_4_ayngpi.png"
       image_alt: ''
@@ -443,7 +449,10 @@ page_sections:
         image_alt: ''
       links: []
   - card_title: Bilal Sheraz
-    card_text: ''
+    card_text: |-
+      (BDS 1)
+
+      First Year Rep
     card_image:
       image: "/v1635435425/mpdss/assets/bilal_bjjjlu.png"
       image_alt: ''
@@ -455,8 +464,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Saif
-    card_text: ''
+  - card_title: Saif Fallaha
+    card_text: |-
+      (BDS 4)
+
+      Events Co-ordinator / Podcast Co-Host
     card_image:
       image: "/v1635970113/mpdss/assets/committee_2020_2_tpthl3.png"
       image_alt: ''
@@ -468,7 +480,7 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Uma
+  - card_title: Uma Iqbal
     card_text: |-
       (BDS 3)
 
