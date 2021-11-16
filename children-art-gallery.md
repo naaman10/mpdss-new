@@ -1,8 +1,8 @@
 ---
 layout: gallery
 title: Children art gallery
-permalink: /children-art-gallery
-hero_image: ''
+permalink: "/children-art-gallery"
+hero_image: "/v1612365809/mpdss/assets/artem-beliaikin-ojkqnmwb9m4-unsplash.jpg"
 gallery_group:
 - image: "/v1635967727/mpdss/assets/12420581-1614773490402-ba0dab5a996e4_nkrjgr.jpg"
   title: A test
