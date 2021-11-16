@@ -1,0 +1,29 @@
+---
+label: Gallery
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: hero_image
+  label: hero_image
+- type: field_group_list
+  name: page_sections
+  label: page_sections
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: intro_text
+    label: intro_text
+  - type: list
+    name: cards
+    label: cards
