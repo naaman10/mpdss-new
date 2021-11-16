@@ -47,25 +47,19 @@ page_sections:
     familiarise them with the concept.
   title: 'Questions about visiting the dentist:'
 - template: text-section
-  section_text: ".\n\nUSES THE CORRECT TOOTHPASTE AMOUNT:\n• A SMEAR = CHILD UNDER
-    THE AGE OF 3\n• PEA SIZED AMOUNT = CHILD OVER THE\nAGE OF 3\n\nBOTTLE FEEDING\n\nNo
-    fluid other than milk or cool boiled water\nshould be given in a bottle.\nChildren
-    should not be left with a bottle to suckle\nwhilst asleep.\nExtra sugars (e.g.
-    table sugar) should not be added\nto bottles of formula feed or boiled water.\n\nBottle-feeding
-    should be discouraged\nfrom one years old.\nAND CARIES\nWHAT ARE 'BOTTLE CARIES'?\n\"Bottle
-    caries\" describes tooth decay in children,\nlinked to continuous dripping of
-    sugary liquids\nonto the teeth.\nIt often happens when a child is allowed to\nsleep
-    with their bottles containing milk, juice, or\nother sugar-containing drinks.\n\nWHAT
-    DOES IT LOOK LIKE?\nIt usually develops around the upper front teeth, as\nthis
-    is where the sugary liquid pools when a child is\ndrinking and letting the liquid
-    sit in their mouth.\nThe decay can first appear as a slight change on the teeth\n(A).
-    It can make the teeth look more yellow or brown.\nThe decay can quickly develop
-    and appear black in\ncolour \n(B). The child will likely have sensitivity and
-    pain.\n\nHOW TO AVOID BOTTLE CARIES:\nNo fluid other than milk or cool boiled
-    water\nshould be given in a bottle.\nChildren should not be left with a bottle
-    to suckle\nwhilst asleep.\nExtra sugars (e.g. table sugar) should not be added\nto
+  section_text: "\nBOTTLE FEEDING AND CARIES\n\nNo fluid other than milk or cool boiled
+    water\nshould be given in a bottle.\n\nChildren should not be left with a bottle
+    to suckle\nwhilst asleep.\n\nExtra sugars (e.g. table sugar) should not be added\nto
     bottles of formula feed or boiled water.\n\nBottle-feeding should be discouraged\nfrom
-    one years old."
+    one years old.\n\n\nWHAT ARE 'BOTTLE CARIES'?\n\n\"Bottle caries\" describes tooth
+    decay in children,\nlinked to continuous dripping of sugary liquids\nonto the
+    teeth.\nIt often happens when a child is allowed to\nsleep with their bottles
+    containing milk, juice, or\nother sugar-containing drinks.\n\nWHAT DOES IT LOOK
+    LIKE?\n\nIt usually develops around the upper front teeth, as\nthis is where the
+    sugary liquid pools when a child is\ndrinking and letting the liquid sit in their
+    mouth.\nThe decay can first appear as a slight change on the teeth\n(A). It can
+    make the teeth look more yellow or brown.\nThe decay can quickly develop and appear
+    black in\ncolour \n\n(B). The child will likely have sensitivity and pain.\n\n"
   title: BOTTLE FEEDING AND CARIES
 hero_image: "/v1612365809/mpdss/assets/artem-beliaikin-ojkqnmwb9m4-unsplash.jpg"
 menu:
