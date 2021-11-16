@@ -22,7 +22,21 @@ direction_section:
   image:
     image: "/v1612285467/mpdss/assets/undraw_graduation_ktn0_trbc5b.svg"
     image_alt: Dental Students - Graduation Cap
-  text_body: MPDSS was set up in 2020, with the ai
+  text_body: "**‘Manchester Paediatric Dentistry Student Society’ (MPDSS) was set
+    up in 2020, with the aim of improving the oral health of children in the Manchester
+    area. Over the years, the society has evolved to provide a range of events for
+    dental students, as well as setting up the first ever podcast dedicated to paediatric
+    dentistry!  \n  \nMPDSS have worked hard to provide oral health education sessions
+    to key stage 1 pupils. Specifically, we target our sessions towards schools with
+    high intakes of children from disadvantaged backgrounds. According to the GMCA,
+    “more than 1 in 3 five-year-olds across Greater Manchester experience tooth decay
+    – well above the England national average of 25%”. It is the main aim of MPDSS
+    to help tackle childhood dental decay and reduce the need for preventable surgeries
+    and extractions.**\n\n  \nWe look forward to providing our primary school sessions
+    in the 21/22 academic year. Our projects are supported by the University of Manchester
+    Student Union and ‘Access All Areas’ project.   \n  \nFor more information about
+    us, scroll through the website or contact us via:  \n  \n@MPDSSOC on social media
+    \ \nmpdss.uom@gmail.com"
 - title: Primary School Representative
   link:
     link: ''
