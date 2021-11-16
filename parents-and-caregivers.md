@@ -13,7 +13,7 @@ page_sections:
     with water to ensure that some toothpaste remains on their teeth\n\nVisited the
     dentist before turning 1 years old\n\nVisits the dentist regularly (Every 6 months-1
     year)\n\nEats sweet treats at meal times instead of snacking throughout the day."
-  title: Parent check list
+  title: 'PARENT CHECK-LIST:'
 - template: text-section
   section_text: |-
     DO I HAVE TO PAY FOR MY
