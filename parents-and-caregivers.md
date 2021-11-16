@@ -40,7 +40,7 @@ page_sections:
     (3) Do a pretend visit! You can use the end of their toothbrush to count each of their teeth as they open wide - just like the dentist would! This will get your child more familiar with the routine.
 
     (4) Use media e.g. Youtube videos or books that cover the topic of visiting the dentist to further familiarise them with the concept.
-  title: 'Questions about visiting the dentist:'
+  title: 'QUESTIONS ABOUT VISITING THE DENTIST:'
 - template: text-section
   section_text: "\nBOTTLE FEEDING AND CARIES\n\nNo fluid other than milk or cool boiled
     water\nshould be given in a bottle.\n\nChildren should not be left with a bottle
