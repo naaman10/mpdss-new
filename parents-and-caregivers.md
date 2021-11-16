@@ -19,32 +19,28 @@ page_sections:
   section_text: |-
     DO I HAVE TO PAY FOR MY
     CHILD'S DENTAL VISIT?
+
     NHS practices do not charge for
     children's dental care.
+
     HOW DO I FIND AN NHS DENTIST?
+
     You can call NHS England's Customer
-    Contact Centre on:
-    0300 311 2233
-    In the case of a dental emergency, please
-    call NHS 111
-    WHAT SHOULD I DO IF MY CHILD IS
-    ANXIOUS ABOUT A VISIT?
-    (1) Avoid scary language, such as "pain",
-    "needle", "drill". Try and use child-friendly
-    explanations or words, e.g.
-    "The dentist will put your tooth to sleep so that
-    she can remove the sugar bugs!"
-    (2) Keep a positive attitude towards the visit
-    and try not to let any of your own anxieties
+
+    Contact Centre on: 0300 311 2233
+
+    In the case of a dental emergency, please call NHS 111
+    WHAT SHOULD I DO IF MY CHILD IS ANXIOUS ABOUT A VISIT?
+
+    (1) Avoid scary language, such as "pain", "needle", "drill". Try and use child-friendly
+    explanations or words, e.g. "The dentist will put your tooth to sleep so that she can remove the sugar bugs!"
+
+    (2) Keep a positive attitude towards the visit and try not to let any of your own anxieties
     show.
-    (3) Do a pretend visit! You can use the end
-    of their toothbrush to count each of their
-    teeth as they open wide - just like the dentist
-    would! This will get your child more familiar
-    with the routine.
-    (4) Use media e.g. Youtube videos or books that
-    cover the topic of visiting the dentist to further
-    familiarise them with the concept.
+
+    (3) Do a pretend visit! You can use the end of their toothbrush to count each of their teeth as they open wide - just like the dentist would! This will get your child more familiar with the routine.
+
+    (4) Use media e.g. Youtube videos or books that cover the topic of visiting the dentist to further familiarise them with the concept.
   title: 'Questions about visiting the dentist:'
 - template: text-section
   section_text: "\nBOTTLE FEEDING AND CARIES\n\nNo fluid other than milk or cool boiled
