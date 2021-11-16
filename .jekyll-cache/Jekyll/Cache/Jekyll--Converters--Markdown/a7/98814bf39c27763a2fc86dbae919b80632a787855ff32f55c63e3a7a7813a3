@@ -1,4 +1,4 @@
-I"î <section class="homepageHero">
+I"*$<section class="homepageHero">
   <div class="container">
     <div class="row">
       <div class="col">
@@ -31,7 +31,7 @@
           </div>
           <div class="card-body">
             <h5 class="card-title">Manchester Paedistric Dentistry Student Society</h5>
-            <p class="card-text">MPDSS was set up in 2020, with the ai</p>
+            <p class="card-text">Manchester Paediatric Dentistry Student Societyâ€™ (MPDSS) was set up in 2020, with the aim of improving the oral health of children in the Manchester area. Over the years, the society has evolved to provide a range of events for dental students, as well as setting up the first ever podcast dedicated to paediatric dentistry!</p>
             <a href="" class="btn btn-primary btn-rounded">Find out more</a>
           </div>
         </div>
@@ -129,25 +129,32 @@
   </div>
 </section>
 
+<section class="container my-3 py-5 bg-light">
+  <div class="row p-5">
+    <div class="col-xs-12 col-md-6">
+      <h2 class="brand-bs mb-3">Stay up to date with the lastest from MPDSS</h2>
+    </div>
+    <div class="col-xs-12 col-md-6">
+      <div id="mc_embed_signup">
+  <form action="https://gmail.us20.list-manage.com/subscribe/post?u=a524339595f42cd2555d636c7&amp;id=9aed4f5132" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+    <h5>Join the MPDSS Newsletter</h5>
+      <input type="text" class="d-none" name="b_a524339595f42cd2555d636c7_9aed4f5132" tabindex="-1" value="" />
+    <div class="input-group mb-3">
+      <input type="email" value="" name="EMAIL" class="email form-control h-auto" id="mce-EMAIL" placeholder="Email Address" required="" aria-label="Email Address" aria-describedby="mc-embedded-subscribe" />
+      <input class="btn btn-primary" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" />
+    </div>
+  </form>
+</div>
+
+    </div>
+  </div>
+</section>
+
 <section>
 
   <div class="container my-5">
     <div class="row">
       <h2>Recent Posts</h2>
-      
-      <div class="mb-5 mb-sm-0 col-12 col-sm-4">
-        <div class="card text-center shadow">
-          <div class="card-img-top">
-              <img src="https://res.cloudinary.com/njh101010/image/upload" class="img-fluid" alt="Episode 1" />
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">Episode 1</h5>
-            <p class="card-text">
-</p>
-            <a class="btn btn-primary btn-rounded" href="/podcasts/2021/02/09/episode-1.html">Read more</a>
-          </div>
-        </div>
-      </div>
       
       <div class="mb-5 mb-sm-0 col-12 col-sm-4">
         <div class="card text-center shadow">
@@ -166,4 +173,5 @@
     </div>
   </div>
 </section>
+
 :ET
