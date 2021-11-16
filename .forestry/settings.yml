@@ -9,6 +9,7 @@ sections:
   create: all
   templates:
   - information-page
+  - gallery
   - contact-page
   - posts
 - type: heading
