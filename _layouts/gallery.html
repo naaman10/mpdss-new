@@ -1,3 +1,21 @@
 ---
 layout: default
 ---
+{% include pageHero.html %}
+
+<section class="container">
+  <div class="row mb-4">
+
+    {% for image in page.gallery_group %}
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+      <div class="card">
+        <img src="https://res.cloudinary.com/njh101010/image/upload/c_thumb,g_center,w_300/{{ image.image }}" class="card-img-top" alt="{{ image.title }} by {{ image.name }}, {{ image.age }}">
+        <div class="card-body">
+          <h5 class="card-title">{{ image.title }}</h5>
+          <p class="card-text">{{ image.name }}, {{ image.age }}</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
