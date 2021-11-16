@@ -368,8 +368,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Darcy
-    card_text: ''
+  - card_title: Darcy Ward
+    card_text: |-
+      (BDS 3)
+
+      Social Media
     card_image:
       image: "/v1635435527/mpdss/assets/darcy_d1blsp.png"
       image_alt: ''
@@ -381,8 +384,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Sabina
-    card_text: ''
+  - card_title: Sabina Rahman
+    card_text: |-
+      (BDS 3)
+
+      Vice President
     card_image:
       image: "/v1635437486/mpdss/assets/girl_3_sfy8py.png"
       image_alt: ''
@@ -394,8 +400,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Hadiya
-    card_text: ''
+  - card_title: Hadiya Begum
+    card_text: |-
+      (BDS 2)
+
+      Secretary
     card_image:
       image: "/v1635435792/mpdss/assets/hadiya_bdzrdn.png"
       image_alt: ''
@@ -407,8 +416,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Nik
-    card_text: ''
+  - card_title: Nikita Dzyuba
+    card_text: |-
+      (BDS 5)
+
+      Sponsorship Co-ordinator
     card_image:
       image: "/v1635970256/mpdss/assets/committee_2020_5_phey4o.png"
       image_alt: ''
@@ -420,8 +432,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Megan
-    card_text: ''
+  - card_title: Megan Boyd
+    card_text: |-
+      (BDS 5)
+
+      Volunteering Officer
     card_image:
       image: "/v1635970228/mpdss/assets/committee_2020_4_ayngpi.png"
       image_alt: ''
@@ -433,8 +448,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Bilal
-    card_text: ''
+  - card_title: Bilal Sheraz
+    card_text: |-
+      (BDS 1)
+
+      First Year Rep
     card_image:
       image: "/v1635435425/mpdss/assets/bilal_bjjjlu.png"
       image_alt: ''
@@ -446,8 +464,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Saif
-    card_text: ''
+  - card_title: Saif Fallaha
+    card_text: |-
+      (BDS 4)
+
+      Events Co-ordinator / Podcast Co-Host
     card_image:
       image: "/v1635970113/mpdss/assets/committee_2020_2_tpthl3.png"
       image_alt: ''
@@ -459,8 +480,11 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-  - card_title: Uma
-    card_text: ''
+  - card_title: Uma Iqbal
+    card_text: |-
+      (BDS 3)
+
+      School Liaison Officers
     card_image:
       image: "/v1635970148/mpdss/assets/committee_2020_3_jtlmgz.png"
       image_alt: ''
