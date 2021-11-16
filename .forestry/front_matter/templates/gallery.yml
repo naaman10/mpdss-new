@@ -17,5 +17,38 @@ fields:
   type: image_gallery
   config: {}
   label: Gallery
+- name: gallery_group
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: age
+    type: number
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+    label: Age
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: Gallery Group
 pages:
 - children-art-gallery.md
