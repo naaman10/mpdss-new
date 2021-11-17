@@ -71,8 +71,8 @@ mission_section:
     card_text: 'One of the core aims of our society is to deliver oral health education
       sessions to primary schools in the Manchester area. "Oral health education"
       entails the exploration of many topics. In our primary school sessions we aim
-      to cover: what a healthy diet is, how to take care of your mouth, and what to
-      expect when visiting the dentist.'
+      to cover: Explain importance of oral hygiene, importance of a good diet, how
+      to take care of your mouth, and what to expect when visiting the dentist.'
   - card_image:
       image: "/v1612343039/mpdss/assets/undraw_candidate_ubwv-2_ipc1xq.png"
       image_alt: Speaking presenting
@@ -80,14 +80,18 @@ mission_section:
       paediatric dentistry to deliver talks to Manchester dental students. We find
       it imperative that dental students are given the opportunity to gain early exposure
       to paediatric dentistry in order to foster interest in the speciality and to
-      help them become well-rounded dentists.
+      help them become well-rounded dentists. This is supported by our podcast that
+      is designed for dental students, dental professionals, and even members of the
+      public! We interview a range of paediatric specialists and innovators in the
+      world of children’s oral health. We have aims to interview parents and patients,
+      to get their perspective on certain topics.
   - card_image:
       image: "/v1612343064/mpdss/assets/undraw_doctors_hwty_bltsf7.png"
       image_alt: Medical students
-    card_text: Being able to chart mixed dentition easily is a refined skill and dental
-      students can often worry about their competency in regards to this task. - This
-      is why our society aims to create and deliver a mixed dentition course to dental
-      students (of all year groups) at the University of Manchester.
+    card_text: Anatomy knowledge is extremely important for dentistry. The society
+      provides anatomy revision sessions to help aid first and second year Manchester
+      Dental students. These regular webinars are run by volunteers in upper years
+      to help students ace those exams!
 description: ''
 menu:
   header:
