@@ -4,6 +4,10 @@ title: Children art gallery
 permalink: "/children-art-gallery"
 hero_image: "/v1637411240/mpdss/assets/ART_GALLERY_w8njuf.png"
 gallery_group:
+- image: "/v1637413088/mpdss/assets/art_gallery_12_v9quwq.jpg"
+  title: Amira
+  name: Amira
+  age: 7
 - image: "/v1637413085/mpdss/assets/art_gallery_11_bwujxv.jpg"
   age: 4
   title: Kenna
