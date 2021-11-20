@@ -17,12 +17,12 @@ gallery_group:
   title: Kenna
   name: Kenna
 - image: "/v1637412972/mpdss/assets/art_galleru_1_e524a0.jpg"
-  title: A test
+  title: Francesca
   name: Francesca
   age: 7
 - image: "/v1637413009/mpdss/assets/art_gallery_2_tdonan.jpg"
-  title: ''
+  title: Issy
   name: Issy
-  age: 2
+  age: 8
 
 ---
