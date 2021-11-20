@@ -4,6 +4,10 @@ title: Children art gallery
 permalink: "/children-art-gallery"
 hero_image: "/v1637411240/mpdss/assets/ART_GALLERY_w8njuf.png"
 gallery_group:
+- image: "/v1637413087/mpdss/assets/art_gallery_5_sesaph.jpg"
+  title: Kaima
+  name: Kaima
+  age: 6
 - image: "/v1637413088/mpdss/assets/art_gallery_8_u8gowe.jpg"
   title: Kora
   name: Kora
