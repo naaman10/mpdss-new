@@ -76,5 +76,9 @@ gallery_group:
   title: '"Christmas suprise"'
   name: Issy
   age: 8
+menu:
+  header:
+    weight: 7
+    title: Art Gallery
 
 ---
