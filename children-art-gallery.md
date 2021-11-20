@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: "."
+title: ''
 permalink: "/children-art-gallery"
 hero_image: "/v1637411240/mpdss/assets/ART_GALLERY_w8njuf.png"
 gallery_group:
