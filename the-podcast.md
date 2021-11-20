@@ -1,7 +1,7 @@
 ---
 layout: info-page
 title: The Podcast
-hero_image: "/v1637415401/mpdss/assets/Podcast_banner_website_1_cmvbne.png"
+hero_image: "/v1637416110/mpdss/assets/Podcast_banner_website_2_keagdp.png"
 permalink: "/mpdss-podcast"
 page_sections:
 - template: text-section
