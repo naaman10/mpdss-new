@@ -4,6 +4,10 @@ title: Children art gallery
 permalink: "/children-art-gallery"
 hero_image: "/v1637411240/mpdss/assets/ART_GALLERY_w8njuf.png"
 gallery_group:
+- image: "/v1637413088/mpdss/assets/art_gallery_16_xxfulf.jpg"
+  title: Louis
+  name: Louis
+  age: 3
 - image: "/v1637413088/mpdss/assets/art_gallery_20_ea4jo6.jpg"
   title: Talyna
   name: Talyna
