@@ -4,6 +4,10 @@ title: Children art gallery
 permalink: "/children-art-gallery"
 hero_image: "/v1637411240/mpdss/assets/ART_GALLERY_w8njuf.png"
 gallery_group:
+- image: "/v1637413088/mpdss/assets/art_gallery_8_u8gowe.jpg"
+  title: Kora
+  name: Kora
+  age: 3
 - image: "/v1637413088/mpdss/assets/art_gallery_21_pxefgb.jpg"
   title: Reuban
   name: Reuban
