@@ -29,51 +29,51 @@ gallery_group:
   name: Ciara
   age: 5
 - image: "/v1637413087/mpdss/assets/art_gallery_5_sesaph.jpg"
-  title: Kaima
+  title: '"Gad the Tooth Monster and the Super Tooth Hero"'
   name: Kaima
   age: 6
 - image: "/v1637413088/mpdss/assets/art_gallery_8_u8gowe.jpg"
-  title: Kora
+  title: '"Monster and Rainbow"'
   name: Kora
   age: 3
 - image: "/v1637413088/mpdss/assets/art_gallery_21_pxefgb.jpg"
-  title: Reuban
+  title: '"Dentist"'
   name: Reuban
   age: 12
 - image: "/v1637413088/mpdss/assets/art_gallery_18_plxkch.jpg"
-  title: Rose
+  title: '"Tooth Fairy Magic"'
   name: Rose
   age: 12
 - image: "/v1637413088/mpdss/assets/art_gallery_17_xnrxim.jpg"
-  title: Florence
+  title: '"Tooth Care"'
   name: Florence
   age: 10
 - image: "/v1637413088/mpdss/assets/art_gallery_16_xxfulf.jpg"
-  title: Louis
+  title: '"Shark!"'
   name: Louis
   age: 3
 - image: "/v1637413088/mpdss/assets/art_gallery_20_ea4jo6.jpg"
-  title: Talyna
+  title: '"Shiny Tooth"'
   name: Talyna
   age: 10
 - image: "/v1637413087/mpdss/assets/art_gallery_13_te8rtu.jpg"
-  title: Amber
+  title: '"A girl called Raspberry"'
   name: Amber
   age: 6
 - image: "/v1637413088/mpdss/assets/art_gallery_12_v9quwq.jpg"
-  title: Amira
+  title: '"The story of Amira''s wobbly tooth"'
   name: Amira
   age: 7
 - image: "/v1637413085/mpdss/assets/art_gallery_11_bwujxv.jpg"
   age: 4
-  title: Kenna
+  title: '"Tongue (red) and teeth"'
   name: Kenna
 - image: "/v1637412972/mpdss/assets/art_galleru_1_e524a0.jpg"
-  title: Francesca
+  title: '"My happy big tooth"'
   name: Francesca
   age: 7
 - image: "/v1637413009/mpdss/assets/art_gallery_2_tdonan.jpg"
-  title: Issy
+  title: '"Christmas suprise"'
   name: Issy
   age: 8
 
