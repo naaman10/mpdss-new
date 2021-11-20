@@ -5,27 +5,27 @@ permalink: "/children-art-gallery"
 hero_image: "/v1637411240/mpdss/assets/ART_GALLERY_w8njuf.png"
 gallery_group:
 - image: "/v1637413088/mpdss/assets/art_gallery_7_b0xax1.jpg"
-  title: Kenna
+  title: '"The Toof Fery visits the North Pole"'
   name: Kenna
   age: 5
 - image: "/v1637413088/mpdss/assets/art_gallery_23_mhybnq.jpg"
-  title: Olivia
+  title: '"Ethereal Tooth Fairy"'
   name: Olivia
   age: 14
 - image: "/v1637413088/mpdss/assets/art_gallery_22_gdjo6z.jpg"
-  title: Mya
+  title: '"At the Dentist"'
   name: Mya
   age: 11
 - image: "/v1637413088/mpdss/assets/art_gallery_15_c6qsdw.jpg"
-  title: Alfie
+  title: '"Keep healthy!"'
   name: Alfie
   age: 12
 - image: "/v1637413089/mpdss/assets/art_gallery_24_hb1cpd.jpg"
-  title: Estelle
+  title: '"Brush your teeth"'
   name: Estelle
   age: 11
 - image: "/v1637413088/mpdss/assets/art_gallery_19_dlzitj.jpg"
-  title: Ciara
+  title: '"Ciara without front tooth"'
   name: Ciara
   age: 5
 - image: "/v1637413087/mpdss/assets/art_gallery_5_sesaph.jpg"
