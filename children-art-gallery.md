@@ -4,6 +4,10 @@ title: Children art gallery
 permalink: "/children-art-gallery"
 hero_image: "/v1637411240/mpdss/assets/ART_GALLERY_w8njuf.png"
 gallery_group:
+- image: "/v1637413088/mpdss/assets/art_gallery_15_c6qsdw.jpg"
+  title: Alfie
+  name: Alfie
+  age: 12
 - image: "/v1637413089/mpdss/assets/art_gallery_24_hb1cpd.jpg"
   title: Estelle
   name: Estelle
