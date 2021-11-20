@@ -4,6 +4,10 @@ title: Children art gallery
 permalink: "/children-art-gallery"
 hero_image: "/v1637411240/mpdss/assets/ART_GALLERY_w8njuf.png"
 gallery_group:
+- image: "/v1637413088/mpdss/assets/art_gallery_21_pxefgb.jpg"
+  title: Reuban
+  name: Reuban
+  age: 12
 - image: "/v1637413088/mpdss/assets/art_gallery_18_plxkch.jpg"
   title: Rose
   name: Rose
