@@ -507,5 +507,9 @@ page_sections:
     testimonial_author: Naaman Hudson
     author_location: Salford
 hero_image: "/v1635492180/mpdss/assets/mpdss_committee_intro_lou3ad.png"
+menu:
+  header:
+    weight: 2
+published: false
 
 ---
