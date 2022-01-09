@@ -56,10 +56,6 @@ page_sections:
     make the teeth look more yellow or brown.\nThe decay can quickly develop and appear
     black in\ncolour \n\n(B). The child will likely have sensitivity and pain.\n\n"
   title: BOTTLE FEEDING AND CARIES
-hero_image: "/v1612365809/mpdss/assets/artem-beliaikin-ojkqnmwb9m4-unsplash.jpg"
-menu:
-  header:
-    weight: 5
-    title: Parents & Caregivers
+hero_image: "/v1641743372/mpdss/assets/PARENT_INFORMATION_z7hfew.png"
 
 ---
