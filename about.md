@@ -496,20 +496,6 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
-- template: testimonial-section
-  title: School Testimonials
-  section_text: |-
-    Venenatis taciti feugiat magnis maecenas euismod hac nibh leo. Nulla fames dolor mi tempor curae quis congue maximus odio. Fringilla dignissim himenaeos nec posuere. Maximus mattis arcu quis aliquam ac.
-
-    Another paragraph just to make it even longer. How much more can I add to the paragraph before I run out of ideas? Is it one sentence more, or even two, I don't know if I have anymore.
-  testimonials:
-  - testimonial_text: Venenatis taciti feugiat magnis maecenas
-    testimonial_author: Naaman Hudson
-    author_location: Salford
 hero_image: "/v1635492180/mpdss/assets/mpdss_committee_intro_lou3ad.png"
-menu:
-  header:
-    weight: 2
-published: false
 
 ---
