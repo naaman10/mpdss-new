@@ -71,6 +71,6 @@ page_sections:
     hand sanitisers, and disinfectant products to ensure that our stations remain
     clean and safe for the children. We possess up-to-date risk assessment forms,
     of which we provide to all primary schools.   \n "
-hero_image: "/v1612365805/mpdss/assets/jess-bailey-l3n9q27zulw-unsplash.jpg"
+hero_image: "/v1641745886/mpdss/assets/Primary_School_information_hyncyv.png"
 
 ---
