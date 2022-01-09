@@ -21,6 +21,26 @@ page_sections:
     of oral health. We have designed each station to be fun, interactive, and informative!
     Check out our info for each:"
   title: Session structure
+- template: card-and-modal-section
+  cards:
+  - card_title: "(1) Oral hygiene practise"
+    card_text: We use mouth models and dental appliances to teach the children how
+      to brush and floss correctly. Each child will have their own appliances to practice
+      with, and we will have an open discussion about the key features of a good routine.
+      We include songs and sticker rewards at this station.
+    card_image:
+      image: "/v1641743676/mpdss/assets/oral_hygiene_station_zp8chj.jpg"
+      image_alt: Oral hygiene station
+  - card_title: "(2) Play-doh tooth modelling:"
+    card_text: We will use play-doh to model teeth, of which the children can place
+      into a mouth model (until they model a whole set of different teeth). We will
+      use dark coloured play-doh to mimic the main places where decay can develop
+      on the teeth! We will have an open discussion about what causes the decay, and
+      what we can do to easily prevent it.
+    card_image:
+      image: "/v1641743765/mpdss/assets/play-doh_station_jbwei4.jpg"
+      image_alt: play-doh
+  title: 'Station practise:'
 - template: text-section
   section_text: |2-
 
@@ -62,17 +82,6 @@ page_sections:
     hand sanitisers, and disinfectant products to ensure that our stations remain
     clean and safe for the children. We possess up-to-date risk assessment forms,
     of which we provide to all primary schools.   \n "
-- template: card-and-modal-section
-  cards:
-  - card_title: "(1) Oral hygiene practise"
-    card_text: We use mouth models and dental appliances to teach the children how
-      to brush and floss correctly. Each child will have their own appliances to practice
-      with, and we will have an open discussion about the key features of a good routine.
-      We include songs and sticker rewards at this station.
-    card_image:
-      image: "/v1641743676/mpdss/assets/oral_hygiene_station_zp8chj.jpg"
-      image_alt: Oral hygiene station
-  title: 'Station practise:'
 hero_image: "/v1612365805/mpdss/assets/jess-bailey-l3n9q27zulw-unsplash.jpg"
 
 ---
