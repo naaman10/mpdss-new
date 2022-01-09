@@ -40,6 +40,18 @@ page_sections:
     card_image:
       image: "/v1641743765/mpdss/assets/play-doh_station_jbwei4.jpg"
       image_alt: play-doh
+  - card_title: "(3) Visit to the dentist - roleplay:"
+    card_text: |-
+      We have collected a range of barbie and ken dentist dolls, equipped with dentist surgery set ups and child patients! The dentist dolls have been selected to represent different genders, races, and disabilities, which mimics the diversity of dentists in the real world.
+
+      Each child will choose their dentist doll, and patient doll. We will then act out the different steps involved in a dentist visit. We will have a look at different tools that a dentist might use and we will use approachable language in order to dispel the idea that visiting the dentist is a scary experience.
+    card_image:
+      image: "/v1641744051/mpdss/assets/IMG_4279_1_spcwzx.jpg"
+  - card_title: "(4) Sugar station:"
+    card_text: |-
+      In this station, we lay out a range of plastic toy food and drink items on the table. Each child will be tasked with a range of different games designed to look at the sugar content of certain items. We will also look at how sugar can negatively affect the teeth, as well as other body parts.
+
+      This interactive station will get the children to measure of sugar content on a food weighing scale, and we will compare this to the recommended intake for a child of their age.
   title: 'Station practise:'
 - template: text-section
   section_text: |2-
