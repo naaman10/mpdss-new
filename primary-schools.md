@@ -22,10 +22,7 @@ page_sections:
     Check out our info for each:"
   title: Session structure
 - template: text-section
-  section_text: |-
-    (1) Oral hygiene practice:
-
-    We use mouth models and dental appliances to teach the children how to brush and floss correctly. Each child will have their own appliances to practice with, and we will have an open discussion about the key features of a good routine. We include songs and sticker rewards at this station.
+  section_text: |2-
 
     ![](/v1641741537/mpdss/assets/oral_hygiene_station_z301d4.jpg)
 
@@ -65,6 +62,17 @@ page_sections:
     hand sanitisers, and disinfectant products to ensure that our stations remain
     clean and safe for the children. We possess up-to-date risk assessment forms,
     of which we provide to all primary schools.   \n "
+- template: card-and-modal-section
+  cards:
+  - card_title: "(1) Oral hygiene practise"
+    card_text: We use mouth models and dental appliances to teach the children how
+      to brush and floss correctly. Each child will have their own appliances to practice
+      with, and we will have an open discussion about the key features of a good routine.
+      We include songs and sticker rewards at this station.
+    card_image:
+      image: "/v1641743676/mpdss/assets/oral_hygiene_station_zp8chj.jpg"
+      image_alt: Oral hygiene station
+  title: 'Station practise:'
 hero_image: "/v1612365805/mpdss/assets/jess-bailey-l3n9q27zulw-unsplash.jpg"
 
 ---
