@@ -24,7 +24,7 @@ page_sections:
     card_text: This is some information about the first podcast episode
     button_link:
       button_text: Listen to Episode
-      button_link: ''
+      button_link: https://open.spotify.com/show/7svXiBP3K3yWDXAlyBS3sH
   - card_title: 'Podcast #2'
     card_text: This is some information about the second podcast episode
     card_image:
@@ -32,7 +32,7 @@ page_sections:
       image_alt: 'Podcast #2'
     button_link:
       button_text: Listen to episode
-      button_link: "/#"
+      button_link: https://open.spotify.com/show/7svXiBP3K3yWDXAlyBS3sH
 page_intro: lorum ipsum
 menu:
   header:
