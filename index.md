@@ -39,7 +39,7 @@ direction_section:
     the sessions that we run and how your school can get involved.
 - title: Parent or Caregiver
   link:
-    link: ''
+    link: https://gpanxdia1-zrqa.instant.forestry.io/parents-and-caregivers
     link_text: Find out more
   image:
     image: "/v1612285574/mpdss/assets/undraw_quality_time_wiyl_ds4dmw.png"
