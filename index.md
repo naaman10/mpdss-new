@@ -29,7 +29,7 @@ direction_section:
     dentistry!
 - title: Primary School Representative
   link:
-    link: https://app.forestry.io/sites/gpanxdia1-zrqa/#/pages/primary-schools-md
+    link: https://gpanxdia1-zrqa.instant.forestry.io/primary-schools
     link_text: Find out more
   image:
     image: "/v1612285539/mpdss/assets/undraw_teacher_35j2_bstnvz.png"
