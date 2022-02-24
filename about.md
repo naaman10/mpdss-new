@@ -496,6 +496,29 @@ page_sections:
         image: ''
         image_alt: ''
       links: []
+- template: testimonial-section
+  title: School Testimonials
+  section_text: ''
+  testimonials:
+  - testimonial_text: '"Everyone involved was incredibly friendly, engaging with the
+      children and generally seemed really comfortable working with the children.
+      The children absolutely loved the session and asked if they could do it every
+      afternoon! They were excited, asked lots of questions and were very keen to
+      share their ideas and knowledge with the visitors. I would definitely recommend
+      the session to other teachers and would welcome you back with open arms any
+      time0 as would the children! A huge thank you from us in 2A!"'
+    testimonial_author: Rolls Crescent (Years 1 & 2)
+    author_location: Manchester
+  - testimonial_text: "\"The dentists were brilliant, had great resources and really
+      engaged the children. Moving through the carousel of activities was a good idea
+      and the children learnt a lot whilst having fun. Thank you so much. Please come
+      again next year!"
+    testimonial_author: Ringway Primary (Reception)
+    author_location: Manchester
 hero_image: "/v1635492180/mpdss/assets/mpdss_committee_intro_lou3ad.png"
+menu:
+  header:
+    weight: 2
+published: false
 
 ---
