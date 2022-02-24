@@ -24,7 +24,7 @@ page_sections:
     card_text: This is some information about the first podcast episode
     button_link:
       button_text: Listen to Episode
-      button_link: https://open.spotify.com/show/7svXiBP3K3yWDXAlyBS3sH
+      button_link: https://open.spotify.com/episode/1RIk4TufleDIcg1lsTBX6A
   - card_title: 'Podcast #2'
     card_text: This is some information about the second podcast episode
     card_image:
