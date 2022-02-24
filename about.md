@@ -500,6 +500,9 @@ page_sections:
   title: School Testimonials
   section_text: ''
   testimonials:
+  - testimonial_text: '"The children has an amazing time!"'
+    testimonial_author: Claremont Primary (Year 2)
+    author_location: Manchester
   - testimonial_text: '"Everyone involved was incredibly friendly, engaging with the
       children and generally seemed really comfortable working with the children.
       The children absolutely loved the session and asked if they could do it every
