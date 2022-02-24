@@ -509,16 +509,15 @@ page_sections:
       time0 as would the children! A huge thank you from us in 2A!"'
     testimonial_author: Rolls Crescent (Years 1 & 2)
     author_location: Manchester
-  - testimonial_text: "\"The dentists were brilliant, had great resources and really
+  - testimonial_text: '"The dentists were brilliant, had great resources and really
       engaged the children. Moving through the carousel of activities was a good idea
       and the children learnt a lot whilst having fun. Thank you so much. Please come
-      again next year!"
+      again next year!"'
     testimonial_author: Ringway Primary (Reception)
     author_location: Manchester
 hero_image: "/v1635492180/mpdss/assets/mpdss_committee_intro_lou3ad.png"
 menu:
   header:
     weight: 2
-published: false
 
 ---
