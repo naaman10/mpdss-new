@@ -15,7 +15,7 @@ hero_section:
   sub-title: True Aero
   alignment: centre
 direction_section:
-- title: Manchester Paedistric Dentistry Student Society
+- title: Manchester Paediatric Dentistry Student Society
   link:
     link: ''
     link_text: Find out more
